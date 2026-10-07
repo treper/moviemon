@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08 07:34:06",
+ "generated_at": "2026-10-08 07:36:38",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
@@ -72,7 +72,98 @@
    "cum_wan": 1700.9643829999998
   }
  ],
- "presale": [],
+ "presale": [
+  {
+   "id": 1530820,
+   "nm": "消失的碎片",
+   "rt": "2026-10-16",
+   "wish": 12331,
+   "wish_delta_1d": null,
+   "on_sale": false,
+   "pooled": false
+  },
+  {
+   "id": 1623783,
+   "nm": "鲸口脱险",
+   "rt": "2026-10-16",
+   "wish": 5512,
+   "wish_delta_1d": null,
+   "on_sale": true,
+   "pooled": false
+  },
+  {
+   "id": 1565162,
+   "nm": "封门村惊魂2",
+   "rt": "2026-10-10",
+   "wish": 4575,
+   "wish_delta_1d": null,
+   "on_sale": false,
+   "pooled": false
+  },
+  {
+   "id": 1640476,
+   "nm": "生日快乐",
+   "rt": "2026-10-23",
+   "wish": 2664,
+   "wish_delta_1d": null,
+   "on_sale": true,
+   "pooled": false
+  },
+  {
+   "id": 1595704,
+   "nm": "三星堆：未来往事",
+   "rt": "2026-10-23",
+   "wish": 1744,
+   "wish_delta_1d": null,
+   "on_sale": false,
+   "pooled": false
+  },
+  {
+   "id": 1516940,
+   "nm": "象行记",
+   "rt": "2026-10-23",
+   "wish": 1165,
+   "wish_delta_1d": null,
+   "on_sale": false,
+   "pooled": false
+  },
+  {
+   "id": 1500534,
+   "nm": "一个夜晚与三个夏天",
+   "rt": "2026-10-13",
+   "wish": 808,
+   "wish_delta_1d": null,
+   "on_sale": true,
+   "pooled": false
+  },
+  {
+   "id": 1522612,
+   "nm": "喂喂喂，足球队",
+   "rt": "2026-10-15",
+   "wish": 747,
+   "wish_delta_1d": null,
+   "on_sale": true,
+   "pooled": false
+  },
+  {
+   "id": 1608228,
+   "nm": "肆条",
+   "rt": "2026-10-15",
+   "wish": 741,
+   "wish_delta_1d": null,
+   "on_sale": false,
+   "pooled": false
+  },
+  {
+   "id": 1552192,
+   "nm": "诡镇",
+   "rt": "2026-10-10",
+   "wish": 547,
+   "wish_delta_1d": null,
+   "on_sale": false,
+   "pooled": false
+  }
+ ],
  "watching": [],
  "events": []
 }

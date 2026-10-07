@@ -35,7 +35,7 @@ async function load() {
   // 想看榜
   const pt = document.querySelector('#presaleTable tbody');
   pt.innerHTML = (data.presale || []).map(p =>
-    `<tr><td>${p.nm}</td><td>${p.rt || '待定'}</td><td>${fmt(p.wish)}</td><td class="${(p.wish_delta_1d || 0) >= 5000 ? 'hot' : ''}">${p.wish_delta_1d == null ? '-' : fmt(p.wish_delta_1d)}</td><td>${p.on_sale ? '预售中' : '-'}</td></tr>`).join('');
+    `<tr><td>${p.pooled ? '<span class="b b-b">池内</span> ' : ''}${p.nm}</td><td>${p.rt || '待定'}</td><td>${fmt(p.wish)}</td><td class="${(p.wish_delta_1d || 0) >= 5000 ? 'hot' : ''}">${p.wish_delta_1d == null ? '-' : fmt(p.wish_delta_1d)}</td><td>${p.on_sale ? '预售中' : '-'}</td></tr>`).join('') || '<tr><td colspan="5" class="dim">暂无待映数据</td></tr>';
 
   // 监控池
   document.getElementById('watching').innerHTML = (data.watching || []).map(m => {
