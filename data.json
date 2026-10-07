@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-08 07:36:38",
+ "generated_at": "2026-10-08 07:38:04",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 177.12714,
-   "ratio": 35.49,
+   "realtime_wan": 177.305272,
+   "ratio": 35.48,
    "days": 4,
-   "cum_wan": 17570.383966999998
+   "cum_wan": 17570.562099000002
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 128.175017,
-   "ratio": 25.68,
+   "realtime_wan": 128.393447,
+   "ratio": 25.69,
    "days": 8,
-   "cum_wan": 42457.48561
+   "cum_wan": 42457.70404
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 77.463818,
-   "ratio": 15.52,
+   "realtime_wan": 77.740464,
+   "ratio": 15.55,
    "days": 8,
-   "cum_wan": 24500.56983
+   "cum_wan": 24500.846476
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 22.289883,
-   "ratio": 4.47,
+   "realtime_wan": 22.290364,
+   "ratio": 4.46,
    "days": 56,
-   "cum_wan": 80244.90127
+   "cum_wan": 80244.901751
   },
   {
    "nm": "重生2",
-   "realtime_wan": 16.656343,
+   "realtime_wan": 16.67529,
    "ratio": 3.34,
    "days": 6,
-   "cum_wan": 4491.017916
+   "cum_wan": 4491.036863
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 13.175626999999999,
+   "realtime_wan": 13.1758,
    "ratio": 2.64,
    "days": 59,
-   "cum_wan": 239739.84807600002
+   "cum_wan": 239739.84824899997
   },
   {
    "nm": "老师您辛苦了",
    "realtime_wan": 11.513442999999999,
-   "ratio": 2.31,
+   "ratio": 2.3,
    "days": 26,
    "cum_wan": 386.635022
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 10.819842,
-   "ratio": 2.17,
+   "realtime_wan": 10.819915,
+   "ratio": 2.16,
    "days": 14,
-   "cum_wan": 15012.807418
+   "cum_wan": 15012.807491
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 9.385497,
+   "realtime_wan": 9.417316,
    "ratio": 1.88,
    "days": 8,
-   "cum_wan": 1146.593672
+   "cum_wan": 1146.625491
   },
   {
    "nm": "野兽之心",
-   "realtime_wan": 5.668432,
+   "realtime_wan": 5.679023,
    "ratio": 1.14,
    "days": 9,
-   "cum_wan": 1700.9643829999998
+   "cum_wan": 1700.9749739999997
   }
  ],
  "presale": [
