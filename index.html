@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>moviemon · 电影票房 × 影视股监控</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header>
+  <h1>🎬 moviemon</h1>
+  <p class="sub">电影票房 × 影视股 事件驱动监控看板</p>
+  <p class="updated" id="updated">加载中…</p>
+</header>
+
+<section>
+  <h2>实时票房 Top10 <span class="src">(灯塔)</span></h2>
+  <div class="chart-wrap"><canvas id="boChart"></canvas></div>
+  <table id="boTable"><thead><tr><th>影片</th><th>实时(万)</th><th>占比</th><th>上映天数</th><th>累计(万)</th></tr></thead><tbody></tbody></table>
+</section>
+
+<section>
+  <h2>待映想看榜 <span class="src">(猫眼 · 预售热度)</span></h2>
+  <table id="presaleTable"><thead><tr><th>影片</th><th>上映日</th><th>想看</th><th>日增量</th><th>预售</th></tr></thead><tbody></tbody></table>
+</section>
+
+<section>
+  <h2>监控池</h2>
+  <div id="watching" class="cards"></div>
+</section>
+
+<section>
+  <h2>信号流 <span class="src">(E1 入池 · E2 预售 · E4 战报 · E5 超预期 · E6 不及预期 · E7 埋伏 · E8 落袋 · E9 回撤)</span></h2>
+  <div id="events" class="feed"></div>
+</section>
+
+<footer>
+  数据源:灯塔专业版 / 猫眼公开数据 · 仅供研究参考,不构成投资建议
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
