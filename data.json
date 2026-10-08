@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-08 11:00:03",
+ "generated_at": "2026-10-08 11:30:03",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 256.23110099999997,
-   "ratio": 34.66,
+   "realtime_wan": 276.246338,
+   "ratio": 34.5,
    "days": 4,
-   "cum_wan": 17564.455928
+   "cum_wan": 17584.471165
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 195.042246,
-   "ratio": 26.39,
+   "realtime_wan": 213.270799,
+   "ratio": 26.64,
    "days": 8,
-   "cum_wan": 42449.603573
+   "cum_wan": 42467.832126
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 136.36488899999998,
-   "ratio": 18.45,
+   "realtime_wan": 150.662669,
+   "ratio": 18.82,
    "days": 8,
-   "cum_wan": 24558.307737
-  },
-  {
-   "nm": "奥德赛",
-   "realtime_wan": 25.416617000000002,
-   "ratio": 3.44,
-   "days": 56,
-   "cum_wan": 76674.254866
+   "cum_wan": 24572.605517
   },
   {
    "nm": "重生2",
-   "realtime_wan": 25.266788000000002,
-   "ratio": 3.42,
+   "realtime_wan": 27.6177,
+   "ratio": 3.45,
    "days": 6,
-   "cum_wan": 4490.739105
+   "cum_wan": 4493.090017
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 25.762697,
+   "ratio": 3.22,
+   "days": 56,
+   "cum_wan": 76674.600946
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 18.195065,
-   "ratio": 2.46,
+   "realtime_wan": 19.56654,
+   "ratio": 2.44,
    "days": 59,
-   "cum_wan": 236256.884
+   "cum_wan": 236258.255475
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 13.917663000000001,
-   "ratio": 1.88,
+   "realtime_wan": 14.796497,
+   "ratio": 1.85,
    "days": 8,
-   "cum_wan": 1151.806233
+   "cum_wan": 1152.685067
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 13.254548000000002,
-   "ratio": 1.79,
+   "realtime_wan": 13.984501000000002,
+   "ratio": 1.75,
    "days": 14,
-   "cum_wan": 14966.978753
+   "cum_wan": 14967.708706
   },
   {
    "nm": "老师您辛苦了",
-   "realtime_wan": 12.612143,
-   "ratio": 1.71,
+   "realtime_wan": 12.929143,
+   "ratio": 1.61,
    "days": 26,
-   "cum_wan": 378.67443
+   "cum_wan": 378.99143
   },
   {
    "nm": "野兽之心",
-   "realtime_wan": 8.70064,
+   "realtime_wan": 9.487832000000001,
    "ratio": 1.18,
    "days": 9,
-   "cum_wan": 1700.54585
+   "cum_wan": 1701.3330420000002
   }
  ],
  "presale": [
