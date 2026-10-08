@@ -1,83 +1,92 @@
 {
- "generated_at": "2026-10-08 11:30:03",
+ "generated_at": "2026-10-08 12:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 276.246338,
-   "ratio": 34.5,
+   "realtime_wan": 306.90213700000004,
+   "ratio": 34.51,
    "days": 4,
-   "cum_wan": 17584.471165
+   "cum_wan": 17615.126964
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 213.270799,
-   "ratio": 26.64,
+   "realtime_wan": 237.96004700000003,
+   "ratio": 26.75,
    "days": 8,
-   "cum_wan": 42467.832126
+   "cum_wan": 42492.521374
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 150.662669,
-   "ratio": 18.82,
+   "realtime_wan": 171.75162,
+   "ratio": 19.31,
    "days": 8,
-   "cum_wan": 24572.605517
+   "cum_wan": 24593.694468
   },
   {
    "nm": "重生2",
-   "realtime_wan": 27.6177,
-   "ratio": 3.45,
+   "realtime_wan": 30.808409,
+   "ratio": 3.46,
    "days": 6,
-   "cum_wan": 4493.090017
+   "cum_wan": 4496.280726
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 25.762697,
-   "ratio": 3.22,
+   "realtime_wan": 26.653433000000003,
+   "ratio": 3.0,
    "days": 56,
-   "cum_wan": 76674.600946
+   "cum_wan": 76675.491682
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 19.56654,
-   "ratio": 2.44,
+   "realtime_wan": 21.492577999999998,
+   "ratio": 2.42,
    "days": 59,
-   "cum_wan": 236258.255475
+   "cum_wan": 236260.18151300002
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 14.796497,
-   "ratio": 1.85,
+   "realtime_wan": 16.251941,
+   "ratio": 1.83,
    "days": 8,
-   "cum_wan": 1152.685067
+   "cum_wan": 1154.1405109999998
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 13.984501000000002,
-   "ratio": 1.75,
+   "realtime_wan": 14.963904000000001,
+   "ratio": 1.68,
    "days": 14,
-   "cum_wan": 14967.708706
+   "cum_wan": 14968.688109
   },
   {
    "nm": "老师您辛苦了",
-   "realtime_wan": 12.929143,
-   "ratio": 1.61,
+   "realtime_wan": 13.295143,
+   "ratio": 1.49,
    "days": 26,
-   "cum_wan": 378.99143
+   "cum_wan": 379.35742999999997
   },
   {
    "nm": "野兽之心",
-   "realtime_wan": 9.487832000000001,
-   "ratio": 1.18,
+   "realtime_wan": 10.708352,
+   "ratio": 1.2,
    "days": 9,
-   "cum_wan": 1701.3330420000002
+   "cum_wan": 1702.553562
   }
  ],
  "presale": [
   {
+   "id": 1519937,
+   "nm": "三国第一部：争洛阳",
+   "rt": "2026-10-17",
+   "wish": 71994,
+   "wish_delta_1d": null,
+   "on_sale": true,
+   "pooled": false
+  },
+  {
    "id": 1530820,
    "nm": "消失的碎片",
    "rt": "2026-10-16",
-   "wish": 12334,
+   "wish": 12338,
    "wish_delta_1d": null,
    "on_sale": false,
    "pooled": false
@@ -86,7 +95,7 @@
    "id": 1623783,
    "nm": "鲸口脱险",
    "rt": "2026-10-16",
-   "wish": 5525,
+   "wish": 5583,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -95,7 +104,7 @@
    "id": 1565162,
    "nm": "封门村惊魂2",
    "rt": "2026-10-10",
-   "wish": 4579,
+   "wish": 4600,
    "wish_delta_1d": null,
    "on_sale": false,
    "pooled": false
@@ -104,7 +113,7 @@
    "id": 1640476,
    "nm": "生日快乐",
    "rt": "2026-10-23",
-   "wish": 2667,
+   "wish": 2680,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -113,7 +122,7 @@
    "id": 1595704,
    "nm": "三星堆：未来往事",
    "rt": "2026-10-23",
-   "wish": 1749,
+   "wish": 1784,
    "wish_delta_1d": null,
    "on_sale": false,
    "pooled": false
@@ -131,7 +140,7 @@
    "id": 1500534,
    "nm": "一个夜晚与三个夏天",
    "rt": "2026-10-13",
-   "wish": 811,
+   "wish": 829,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -140,7 +149,7 @@
    "id": 1522612,
    "nm": "喂喂喂，足球队",
    "rt": "2026-10-15",
-   "wish": 747,
+   "wish": 749,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -150,15 +159,6 @@
    "nm": "肆条",
    "rt": "2026-10-15",
    "wish": 741,
-   "wish_delta_1d": null,
-   "on_sale": false,
-   "pooled": false
-  },
-  {
-   "id": 1552192,
-   "nm": "诡镇",
-   "rt": "2026-10-10",
-   "wish": 547,
    "wish_delta_1d": null,
    "on_sale": false,
    "pooled": false
