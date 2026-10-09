@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-09 18:00:02",
+ "generated_at": "2026-10-09 18:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 936.2342140000001,
-   "ratio": 35.76,
+   "realtime_wan": 1036.333157,
+   "ratio": 36.1,
    "days": 5,
-   "cum_wan": 20175.211373
+   "cum_wan": 20275.310316
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 739.880588,
-   "ratio": 28.26,
+   "realtime_wan": 811.1069160000001,
+   "ratio": 28.25,
    "days": 9,
-   "cum_wan": 44461.000122000005
+   "cum_wan": 44532.22645
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 529.189424,
-   "ratio": 20.21,
+   "realtime_wan": 584.985848,
+   "ratio": 20.38,
    "days": 9,
-   "cum_wan": 25976.598953
+   "cum_wan": 26032.395377
   },
   {
    "nm": "重生2",
-   "realtime_wan": 92.614354,
-   "ratio": 3.54,
+   "realtime_wan": 100.929979,
+   "ratio": 3.52,
    "days": 7,
-   "cum_wan": 4748.144155
+   "cum_wan": 4756.45978
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 65.788186,
-   "ratio": 2.51,
+   "realtime_wan": 70.41964899999999,
+   "ratio": 2.45,
    "days": 60,
-   "cum_wan": 236416.92426
+   "cum_wan": 236421.555723
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 40.155393,
-   "ratio": 1.53,
+   "realtime_wan": 41.026672999999995,
+   "ratio": 1.43,
    "days": 57,
-   "cum_wan": 76736.85303
+   "cum_wan": 76737.72431
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 34.632124,
-   "ratio": 1.32,
+   "realtime_wan": 36.36456,
+   "ratio": 1.27,
    "days": 9,
-   "cum_wan": 1213.321261
+   "cum_wan": 1215.053697
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 30.319039,
-   "ratio": 1.16,
+   "realtime_wan": 31.952545,
+   "ratio": 1.11,
    "days": 15,
-   "cum_wan": 15035.200124
+   "cum_wan": 15036.833630000001
   },
   {
    "nm": "野兽之心",
-   "realtime_wan": 24.783927,
-   "ratio": 0.95,
+   "realtime_wan": 26.506981,
+   "ratio": 0.92,
    "days": 10,
-   "cum_wan": 1755.409771
+   "cum_wan": 1757.132825
   },
   {
    "nm": "空枪",
-   "realtime_wan": 23.118223999999998,
-   "ratio": 0.88,
+   "realtime_wan": 24.494549,
+   "ratio": 0.85,
    "days": 52,
-   "cum_wan": 66070.226824
+   "cum_wan": 66071.603149
   }
  ],
  "presale": [
