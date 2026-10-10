@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-09 23:30:02",
+ "generated_at": "2026-10-10 08:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 1676.171629,
-   "ratio": 38.44,
-   "days": 5,
-   "cum_wan": 20914.979331
+   "realtime_wan": 432.37788099999995,
+   "ratio": 43.4,
+   "days": 6,
+   "cum_wan": 21358.02789
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 1219.325438,
-   "ratio": 27.96,
-   "days": 9,
-   "cum_wan": 44945.765749
+   "realtime_wan": 233.898657,
+   "ratio": 23.48,
+   "days": 10,
+   "cum_wan": 45181.931864
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 874.995277,
-   "ratio": 20.06,
-   "days": 9,
-   "cum_wan": 26326.80702
-  },
-  {
-   "nm": "重生2",
-   "realtime_wan": 161.868459,
-   "ratio": 3.71,
-   "days": 7,
-   "cum_wan": 4817.647788
-  },
-  {
-   "nm": "欢迎来龙餐馆",
-   "realtime_wan": 96.57817299999999,
-   "ratio": 2.21,
-   "days": 60,
-   "cum_wan": 236448.006118
+   "realtime_wan": 126.84188700000001,
+   "ratio": 12.73,
+   "days": 10,
+   "cum_wan": 26455.324581
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 46.392416,
-   "ratio": 1.06,
-   "days": 57,
-   "cum_wan": 76743.11519400001
+   "realtime_wan": 39.472770000000004,
+   "ratio": 3.96,
+   "days": 58,
+   "cum_wan": 76782.587865
   },
   {
-   "nm": "活色生香",
-   "realtime_wan": 41.283009,
-   "ratio": 0.95,
-   "days": 9,
-   "cum_wan": 1219.986444
+   "nm": "重生2",
+   "realtime_wan": 25.936723999999998,
+   "ratio": 2.6,
+   "days": 8,
+   "cum_wan": 4843.97063
+  },
+  {
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 23.497377,
+   "ratio": 2.36,
+   "days": 61,
+   "cum_wan": 236471.60290100003
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 40.760652,
-   "ratio": 0.93,
-   "days": 15,
-   "cum_wan": 15046.956506
+   "realtime_wan": 17.15415,
+   "ratio": 1.72,
+   "days": 16,
+   "cum_wan": 15064.12125
   },
   {
-   "nm": "空枪",
-   "realtime_wan": 36.809523999999996,
-   "ratio": 0.84,
-   "days": 52,
-   "cum_wan": 66083.91201
-  },
-  {
-   "nm": "野兽之心",
-   "realtime_wan": 34.555549,
-   "ratio": 0.79,
+   "nm": "活色生香",
+   "realtime_wan": 12.690007000000001,
+   "ratio": 1.27,
    "days": 10,
-   "cum_wan": 1765.249222
+   "cum_wan": 1232.696421
+  },
+  {
+   "nm": "老师您辛苦了",
+   "realtime_wan": 12.562975,
+   "ratio": 1.26,
+   "days": 28,
+   "cum_wan": 420.52840199999997
+  },
+  {
+   "nm": "八仙！",
+   "realtime_wan": 10.145635,
+   "ratio": 1.02,
+   "days": 85,
+   "cum_wan": 204410.780474
   }
  ],
  "presale": [
