@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-13 12:30:02",
+ "generated_at": "2026-10-13 13:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 172.640533,
-   "ratio": 30.39,
+   "realtime_wan": 200.11704,
+   "ratio": 30.62,
    "days": 9,
-   "cum_wan": 28657.415306
+   "cum_wan": 28684.891813
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 123.66456699999999,
-   "ratio": 21.77,
+   "realtime_wan": 148.101557,
+   "ratio": 22.66,
    "days": 13,
-   "cum_wan": 50255.118117
+   "cum_wan": 50279.555107
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 103.89035,
-   "ratio": 18.29,
+   "realtime_wan": 123.638851,
+   "ratio": 18.92,
    "days": 13,
-   "cum_wan": 29996.601263999997
+   "cum_wan": 30016.349765
   },
   {
    "nm": "空枪",
-   "realtime_wan": 30.893821000000003,
-   "ratio": 5.44,
+   "realtime_wan": 32.933188,
+   "ratio": 5.04,
    "days": 56,
-   "cum_wan": 66266.02664
+   "cum_wan": 66268.066007
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 23.833575,
-   "ratio": 4.2,
+   "realtime_wan": 24.517162,
+   "ratio": 3.75,
    "days": 61,
-   "cum_wan": 77008.406222
-  },
-  {
-   "nm": "欢迎来龙餐馆",
-   "realtime_wan": 17.250996,
-   "ratio": 3.04,
-   "days": 64,
-   "cum_wan": 236969.52181399998
+   "cum_wan": 77009.089809
   },
   {
    "nm": "重生2",
-   "realtime_wan": 16.993265,
-   "ratio": 2.99,
+   "realtime_wan": 20.276617,
+   "ratio": 3.1,
    "days": 11,
-   "cum_wan": 5454.158075
+   "cum_wan": 5457.441427000001
   },
   {
-   "nm": "老师您辛苦了",
-   "realtime_wan": 14.611441000000001,
-   "ratio": 2.57,
-   "days": 31,
-   "cum_wan": 529.278898
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 19.632215,
+   "ratio": 3.0,
+   "days": 64,
+   "cum_wan": 236971.90303299998
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 13.905417000000002,
-   "ratio": 2.45,
+   "realtime_wan": 14.755042000000001,
+   "ratio": 2.26,
    "days": 13,
-   "cum_wan": 1375.890615
+   "cum_wan": 1376.74024
+  },
+  {
+   "nm": "老师您辛苦了",
+   "realtime_wan": 14.641947,
+   "ratio": 2.24,
+   "days": 31,
+   "cum_wan": 529.309404
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 9.893079,
-   "ratio": 1.74,
+   "realtime_wan": 10.926163,
+   "ratio": 1.67,
    "days": 19,
-   "cum_wan": 15263.849744
+   "cum_wan": 15264.882828
   }
  ],
  "presale": [
