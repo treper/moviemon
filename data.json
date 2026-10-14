@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-14 11:30:02",
+ "generated_at": "2026-10-14 12:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 131.908083,
-   "ratio": 29.47,
+   "realtime_wan": 144.984852,
+   "ratio": 29.4,
    "days": 10,
-   "cum_wan": 29669.81689
+   "cum_wan": 29682.893658999998
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 96.289495,
-   "ratio": 21.51,
+   "realtime_wan": 109.110584,
+   "ratio": 22.12,
    "days": 14,
-   "cum_wan": 50995.402035
+   "cum_wan": 51008.223124000004
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 72.844349,
-   "ratio": 16.27,
+   "realtime_wan": 82.704054,
+   "ratio": 16.77,
    "days": 14,
-   "cum_wan": 30543.840343
+   "cum_wan": 30553.700048000002
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 29.823386,
-   "ratio": 6.66,
+   "realtime_wan": 30.901970000000002,
+   "ratio": 6.27,
    "days": 62,
-   "cum_wan": 77061.816842
-  },
-  {
-   "nm": "空枪",
-   "realtime_wan": 16.1443,
-   "ratio": 3.61,
-   "days": 57,
-   "cum_wan": 66321.45875399999
+   "cum_wan": 77062.895426
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 15.663537,
-   "ratio": 3.5,
+   "realtime_wan": 17.525142000000002,
+   "ratio": 3.55,
    "days": 65,
-   "cum_wan": 237047.92106999998
+   "cum_wan": 237049.782675
   },
   {
    "nm": "重生2",
-   "realtime_wan": 15.57899,
-   "ratio": 3.48,
+   "realtime_wan": 16.915559,
+   "ratio": 3.43,
    "days": 12,
-   "cum_wan": 5569.606685
+   "cum_wan": 5570.943254
+  },
+  {
+   "nm": "空枪",
+   "realtime_wan": 16.638982000000002,
+   "ratio": 3.37,
+   "days": 57,
+   "cum_wan": 66321.953436
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 12.341942999999999,
-   "ratio": 2.76,
+   "realtime_wan": 13.549342000000001,
+   "ratio": 2.75,
    "days": 14,
-   "cum_wan": 1409.378959
+   "cum_wan": 1410.586358
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 8.944168,
-   "ratio": 2.0,
+   "realtime_wan": 9.88968,
+   "ratio": 2.01,
    "days": 20,
-   "cum_wan": 15293.352147
+   "cum_wan": 15294.297659
   },
   {
    "nm": "杀死比尔：血色全传",
-   "realtime_wan": 7.177556,
-   "ratio": 1.6,
+   "realtime_wan": 7.618258,
+   "ratio": 1.54,
    "days": 41,
-   "cum_wan": 4829.39227
+   "cum_wan": 4829.832972
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1519937,
    "nm": "三国第一部：争洛阳",
    "rt": "2026-10-17",
-   "wish": 73833,
-   "wish_delta_1d": 219,
+   "wish": 73870,
+   "wish_delta_1d": 256,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1500516,
    "nm": "恐怖直播",
    "rt": "2026-10-23",
-   "wish": 16063,
-   "wish_delta_1d": 48,
+   "wish": 16070,
+   "wish_delta_1d": 55,
    "on_sale": false,
    "pooled": false
   },
@@ -95,8 +95,8 @@
    "id": 1530820,
    "nm": "消失的碎片",
    "rt": "2026-10-16",
-   "wish": 12886,
-   "wish_delta_1d": 122,
+   "wish": 12904,
+   "wish_delta_1d": 140,
    "on_sale": false,
    "pooled": false
   },
@@ -104,8 +104,8 @@
    "id": 1543699,
    "nm": "酒店404惊魂",
    "rt": "2026-10-16",
-   "wish": 9610,
-   "wish_delta_1d": 61,
+   "wish": 9621,
+   "wish_delta_1d": 72,
    "on_sale": false,
    "pooled": false
   },
@@ -113,8 +113,8 @@
    "id": 1623783,
    "nm": "鲸口脱险",
    "rt": "2026-10-16",
-   "wish": 9486,
-   "wish_delta_1d": 584,
+   "wish": 9575,
+   "wish_delta_1d": 673,
    "on_sale": true,
    "pooled": true
   },
@@ -122,8 +122,8 @@
    "id": 1595715,
    "nm": "怨宅",
    "rt": "2026-10-16",
-   "wish": 7148,
-   "wish_delta_1d": 45,
+   "wish": 7154,
+   "wish_delta_1d": 51,
    "on_sale": false,
    "pooled": false
   },
@@ -131,8 +131,8 @@
    "id": 1640476,
    "nm": "生日快乐",
    "rt": "2026-10-23",
-   "wish": 3230,
-   "wish_delta_1d": 63,
+   "wish": 3248,
+   "wish_delta_1d": 81,
    "on_sale": true,
    "pooled": true
   },
@@ -140,8 +140,8 @@
    "id": 1595704,
    "nm": "三星堆：未来往事",
    "rt": "2026-10-23",
-   "wish": 3015,
-   "wish_delta_1d": 1126,
+   "wish": 3061,
+   "wish_delta_1d": 1172,
    "on_sale": false,
    "pooled": true
   },
@@ -158,8 +158,8 @@
    "id": 1522612,
    "nm": "喂喂喂，足球队",
    "rt": "2026-10-15",
-   "wish": 898,
-   "wish_delta_1d": 28,
+   "wish": 902,
+   "wish_delta_1d": 32,
    "on_sale": true,
    "pooled": false
   }
@@ -192,8 +192,8 @@
    "nm": "鲸口脱险",
    "rt": "2026-10-16",
    "status": "WATCHING",
-   "wish": 9486,
-   "wish_delta_1d": 584,
+   "wish": 9575,
+   "wish_delta_1d": 673,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -203,8 +203,8 @@
    "nm": "三国第一部：争洛阳",
    "rt": "2026-10-17",
    "status": "WATCHING",
-   "wish": 73833,
-   "wish_delta_1d": 219,
+   "wish": 73870,
+   "wish_delta_1d": 256,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -214,8 +214,8 @@
    "nm": "三星堆：未来往事",
    "rt": "2026-10-23",
    "status": "WATCHING",
-   "wish": 3015,
-   "wish_delta_1d": 1126,
+   "wish": 3061,
+   "wish_delta_1d": 1172,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -225,8 +225,8 @@
    "nm": "生日快乐",
    "rt": "2026-10-23",
    "status": "WATCHING",
-   "wish": 3230,
-   "wish_delta_1d": 63,
+   "wish": 3248,
+   "wish_delta_1d": 81,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
