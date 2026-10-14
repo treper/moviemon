@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-14 10:00:02",
+ "generated_at": "2026-10-14 10:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 102.594658,
-   "ratio": 30.09,
+   "realtime_wan": 110.893398,
+   "ratio": 29.68,
    "days": 10,
-   "cum_wan": 29636.319685000002
+   "cum_wan": 29648.635797000003
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 68.954773,
-   "ratio": 20.22,
+   "realtime_wan": 77.363,
+   "ratio": 20.71,
    "days": 14,
-   "cum_wan": 50964.065494
+   "cum_wan": 50976.252370999995
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 48.532551,
-   "ratio": 14.23,
+   "realtime_wan": 56.20052,
+   "ratio": 15.04,
    "days": 14,
-   "cum_wan": 30516.352088
+   "cum_wan": 30526.948681
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 27.171281,
-   "ratio": 7.97,
+   "realtime_wan": 27.922604999999997,
+   "ratio": 7.47,
    "days": 62,
-   "cum_wan": 77059.145454
+   "cum_wan": 77059.916061
   },
   {
    "nm": "空枪",
-   "realtime_wan": 14.828570999999998,
-   "ratio": 4.35,
+   "realtime_wan": 15.104695999999999,
+   "ratio": 4.04,
    "days": 57,
-   "cum_wan": 66319.38721
+   "cum_wan": 66320.41550700001
   },
   {
    "nm": "重生2",
-   "realtime_wan": 11.844314,
-   "ratio": 3.47,
+   "realtime_wan": 13.058511,
+   "ratio": 3.5,
    "days": 12,
-   "cum_wan": 5565.485182
+   "cum_wan": 5567.037275
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 11.787197,
-   "ratio": 3.46,
+   "realtime_wan": 13.018181,
+   "ratio": 3.48,
    "days": 65,
-   "cum_wan": 237043.8302
+   "cum_wan": 237045.24790500003
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 9.670456,
-   "ratio": 2.84,
+   "realtime_wan": 10.743827,
+   "ratio": 2.88,
    "days": 14,
-   "cum_wan": 1406.487932
+   "cum_wan": 1407.766685
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 6.94031,
-   "ratio": 2.04,
+   "realtime_wan": 7.45736,
+   "ratio": 2.0,
    "days": 20,
-   "cum_wan": 15292.529247999999
+   "cum_wan": 15291.865338999998
   },
   {
-   "nm": "老师您辛苦了",
-   "realtime_wan": 5.259855,
-   "ratio": 1.54,
-   "days": 32,
-   "cum_wan": 534.037511
+   "nm": "杀死比尔：血色全传",
+   "realtime_wan": 5.4761690000000005,
+   "ratio": 1.47,
+   "days": 41,
+   "cum_wan": 4827.690883
   }
  ],
  "presale": [
