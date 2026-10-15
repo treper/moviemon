@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-10-15 23:00:02",
+ "generated_at": "2026-10-15 23:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 821.698157,
-   "ratio": 33.07,
+   "realtime_wan": 826.6766190000001,
+   "ratio": 33.14,
    "days": 11,
-   "cum_wan": 31281.40382
+   "cum_wan": 31286.382282
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 674.102107,
-   "ratio": 27.13,
+   "realtime_wan": 675.6465139999999,
+   "ratio": 27.08,
    "days": 15,
-   "cum_wan": 52278.155331
+   "cum_wan": 52279.699738
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 462.671952,
-   "ratio": 18.62,
+   "realtime_wan": 464.15751500000005,
+   "ratio": 18.61,
    "days": 15,
-   "cum_wan": 31443.559985000004
+   "cum_wan": 31445.045548000002
   },
   {
    "nm": "重生2",
-   "realtime_wan": 104.810948,
-   "ratio": 4.22,
+   "realtime_wan": 105.147558,
+   "ratio": 4.21,
    "days": 13,
-   "cum_wan": 5769.984047999999
+   "cum_wan": 5770.320658
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 81.298783,
-   "ratio": 3.27,
+   "realtime_wan": 81.427297,
+   "ratio": 3.26,
    "days": 66,
-   "cum_wan": 237189.986477
+   "cum_wan": 237190.11499099998
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 45.892284000000004,
-   "ratio": 1.85,
+   "realtime_wan": 45.921099,
+   "ratio": 1.84,
    "days": 90,
-   "cum_wan": 204763.735166
+   "cum_wan": 204763.763981
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 42.7586,
+   "realtime_wan": 42.8186,
    "ratio": 1.72,
    "days": 63,
-   "cum_wan": 77123.861711
+   "cum_wan": 77123.921711
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 31.408033000000003,
+   "realtime_wan": 31.437637,
    "ratio": 1.26,
    "days": 15,
-   "cum_wan": 1460.825248
+   "cum_wan": 1460.854852
   },
   {
    "nm": "四渡",
@@ -66,10 +66,10 @@
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 25.148751999999998,
+   "realtime_wan": 25.158576999999998,
    "ratio": 1.01,
    "days": 21,
-   "cum_wan": 15340.051163999999
+   "cum_wan": 15340.060988999998
   }
  ],
  "presale": [
