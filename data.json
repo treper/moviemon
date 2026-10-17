@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-17 10:30:02",
+ "generated_at": "2026-10-17 11:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 518.08646,
-   "ratio": 35.2,
+   "realtime_wan": 549.276985,
+   "ratio": 34.98,
    "days": 13,
-   "cum_wan": 33141.702827999994
+   "cum_wan": 33172.893353
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 292.129435,
-   "ratio": 19.85,
+   "realtime_wan": 314.045646,
+   "ratio": 20.0,
    "days": 17,
-   "cum_wan": 53565.752510000006
+   "cum_wan": 53587.668720999995
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 144.00163999999998,
-   "ratio": 9.78,
+   "realtime_wan": 157.612439,
+   "ratio": 10.04,
    "days": 17,
-   "cum_wan": 32225.318594
+   "cum_wan": 32238.929393000002
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 92.30847800000001,
-   "ratio": 6.27,
+   "realtime_wan": 97.12908399999999,
+   "ratio": 6.18,
    "days": 100,
-   "cum_wan": 9408.153473
+   "cum_wan": 9412.974079000001
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 69.859797,
-   "ratio": 4.75,
+   "realtime_wan": 77.10621400000001,
+   "ratio": 4.91,
    "days": 17,
-   "cum_wan": 6699.386152
-  },
-  {
-   "nm": "奥德赛",
-   "realtime_wan": 60.876982,
-   "ratio": 4.14,
-   "days": 65,
-   "cum_wan": 77239.188462
+   "cum_wan": 6706.632568999999
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 59.485254000000005,
-   "ratio": 4.04,
+   "realtime_wan": 64.77056,
+   "ratio": 4.12,
    "days": 92,
-   "cum_wan": 204946.032712
+   "cum_wan": 204951.31801800002
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 62.559864000000005,
+   "ratio": 3.98,
+   "days": 65,
+   "cum_wan": 77240.871344
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 51.310139,
+   "realtime_wan": 54.874052,
    "ratio": 3.49,
    "days": 68,
-   "cum_wan": 237357.534375
+   "cum_wan": 237361.098288
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 38.681498,
-   "ratio": 2.63,
+   "realtime_wan": 40.631709,
+   "ratio": 2.59,
    "days": 2,
-   "cum_wan": 197.93221699999998
+   "cum_wan": 199.882428
   },
   {
    "nm": "重生2",
-   "realtime_wan": 27.005535,
-   "ratio": 1.83,
+   "realtime_wan": 29.014833000000003,
+   "ratio": 1.85,
    "days": 15,
-   "cum_wan": 5918.678513
+   "cum_wan": 5920.687811
   }
  ],
  "presale": [
