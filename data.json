@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-18 21:30:02",
+ "generated_at": "2026-10-18 22:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 1911.1706550000001,
-   "ratio": 32.73,
+   "realtime_wan": 1944.1421899999998,
+   "ratio": 32.84,
    "days": 14,
-   "cum_wan": 37441.646004
+   "cum_wan": 37476.766038
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 1495.4325720000002,
-   "ratio": 25.61,
+   "realtime_wan": 1516.41723,
+   "ratio": 25.62,
    "days": 18,
-   "cum_wan": 56792.363302
+   "cum_wan": 56814.788891
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 934.1497730000001,
-   "ratio": 16.0,
+   "realtime_wan": 946.4257960000001,
+   "ratio": 15.99,
    "days": 18,
-   "cum_wan": 34170.841838
+   "cum_wan": 34184.018287
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 228.23024300000003,
-   "ratio": 3.91,
+   "realtime_wan": 229.03298199999998,
+   "ratio": 3.87,
    "days": 101,
-   "cum_wan": 9874.102398
+   "cum_wan": 9874.905137
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 225.861042,
-   "ratio": 3.87,
+   "realtime_wan": 226.09943700000002,
+   "ratio": 3.82,
    "days": 18,
-   "cum_wan": 7083.759668000001
+   "cum_wan": 7084.2511700000005
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 220.629814,
-   "ratio": 3.78,
+   "realtime_wan": 222.92561099999998,
+   "ratio": 3.77,
    "days": 69,
-   "cum_wan": 237788.42498200003
+   "cum_wan": 237790.893717
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 170.806476,
-   "ratio": 2.93,
+   "realtime_wan": 171.16301299999998,
+   "ratio": 2.89,
    "days": 93,
-   "cum_wan": 205272.83608900002
+   "cum_wan": 205273.284461
   },
   {
    "nm": "重生2",
-   "realtime_wan": 148.31237099999998,
-   "ratio": 2.54,
+   "realtime_wan": 152.390521,
+   "ratio": 2.57,
    "days": 16,
-   "cum_wan": 6223.7570829999995
+   "cum_wan": 6228.251426
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 100.882857,
-   "ratio": 1.73,
+   "realtime_wan": 103.129899,
+   "ratio": 1.74,
    "days": 3,
-   "cum_wan": 426.958371
+   "cum_wan": 429.20541299999996
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 98.42705500000001,
-   "ratio": 1.69,
+   "realtime_wan": 99.011055,
+   "ratio": 1.67,
    "days": 66,
-   "cum_wan": 77391.415224
+   "cum_wan": 77392.001552
   }
  ],
  "presale": [
