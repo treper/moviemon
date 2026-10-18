@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-18 23:00:02",
+ "generated_at": "2026-10-18 23:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 1985.3961969999998,
-   "ratio": 33.01,
+   "realtime_wan": 1992.490366,
+   "ratio": 33.06,
    "days": 14,
-   "cum_wan": 37518.020045
+   "cum_wan": 37525.114214
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 1537.37034,
-   "ratio": 25.56,
+   "realtime_wan": 1539.321412,
+   "ratio": 25.54,
    "days": 18,
-   "cum_wan": 56835.742001
+   "cum_wan": 56837.693073
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 963.139865,
-   "ratio": 16.01,
+   "realtime_wan": 964.674106,
+   "ratio": 16.0,
    "days": 18,
-   "cum_wan": 34200.732356
+   "cum_wan": 34202.266597
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 230.447667,
+   "realtime_wan": 230.76520699999998,
    "ratio": 3.83,
    "days": 101,
-   "cum_wan": 9876.319822
+   "cum_wan": 9876.637362000001
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 226.500961,
-   "ratio": 3.77,
+   "realtime_wan": 226.649961,
+   "ratio": 3.76,
    "days": 18,
-   "cum_wan": 7084.652693999999
+   "cum_wan": 7084.801694
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 224.866737,
-   "ratio": 3.74,
+   "realtime_wan": 225.034683,
+   "ratio": 3.73,
    "days": 69,
-   "cum_wan": 237792.834843
+   "cum_wan": 237793.002789
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 171.469653,
+   "realtime_wan": 171.579119,
    "ratio": 2.85,
    "days": 93,
-   "cum_wan": 205273.591101
+   "cum_wan": 205273.70056700002
   },
   {
    "nm": "重生2",
-   "realtime_wan": 155.469571,
+   "realtime_wan": 155.925177,
    "ratio": 2.59,
    "days": 16,
-   "cum_wan": 6231.330476
+   "cum_wan": 6231.786082
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 106.26968600000001,
+   "realtime_wan": 106.72386100000001,
    "ratio": 1.77,
    "days": 3,
-   "cum_wan": 432.3452
+   "cum_wan": 432.799375
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 99.95121999999999,
+   "realtime_wan": 100.18921999999999,
    "ratio": 1.66,
    "days": 66,
-   "cum_wan": 77392.941717
+   "cum_wan": 77393.17971699999
   }
  ],
  "presale": [
