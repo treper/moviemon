@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-19 18:00:02",
+ "generated_at": "2026-10-19 18:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 334.444417,
-   "ratio": 29.07,
+   "realtime_wan": 365.54006499999997,
+   "ratio": 29.21,
    "days": 15,
-   "cum_wan": 37882.063933
+   "cum_wan": 37913.159581
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 318.672166,
-   "ratio": 27.7,
+   "realtime_wan": 345.784964,
+   "ratio": 27.63,
    "days": 19,
-   "cum_wan": 57173.177523
+   "cum_wan": 57200.290321
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 223.420277,
-   "ratio": 19.42,
+   "realtime_wan": 243.78179599999999,
+   "ratio": 19.48,
    "days": 19,
-   "cum_wan": 34436.718959
+   "cum_wan": 34457.080477999996
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 48.808946,
-   "ratio": 4.24,
+   "realtime_wan": 52.843662,
+   "ratio": 4.22,
    "days": 70,
-   "cum_wan": 237844.20191799998
+   "cum_wan": 237848.236634
   },
   {
    "nm": "重生2",
-   "realtime_wan": 39.036227000000004,
-   "ratio": 3.39,
+   "realtime_wan": 42.955897,
+   "ratio": 3.43,
    "days": 17,
-   "cum_wan": 6272.476218
-  },
-  {
-   "nm": "奥德赛",
-   "realtime_wan": 23.147579999999998,
-   "ratio": 2.01,
-   "days": 67,
-   "cum_wan": 77417.293734
+   "cum_wan": 6276.395888
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 22.748407,
-   "ratio": 1.98,
+   "realtime_wan": 25.044332999999998,
+   "ratio": 2.0,
    "days": 102,
-   "cum_wan": 9901.981483
+   "cum_wan": 9904.277409
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 24.236427,
+   "ratio": 1.94,
+   "days": 67,
+   "cum_wan": 77418.382581
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 20.861952,
+   "realtime_wan": 22.62349,
    "ratio": 1.81,
    "days": 4,
-   "cum_wan": 454.468396
+   "cum_wan": 456.22993399999996
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 16.696491,
-   "ratio": 1.45,
+   "realtime_wan": 17.487586,
+   "ratio": 1.4,
    "days": 19,
-   "cum_wan": 1576.77995
+   "cum_wan": 1577.571045
   },
   {
-   "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 13.658094,
-   "ratio": 1.19,
-   "days": 25,
-   "cum_wan": 15540.488613
+   "nm": "空枪",
+   "realtime_wan": 16.376591,
+   "ratio": 1.31,
+   "days": 62,
+   "cum_wan": 66455.342292
   }
  ],
  "presale": [
