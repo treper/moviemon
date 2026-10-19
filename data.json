@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-19 20:30:02",
+ "generated_at": "2026-10-19 21:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 515.311848,
-   "ratio": 30.33,
+   "realtime_wan": 548.6019759999999,
+   "ratio": 30.62,
    "days": 15,
-   "cum_wan": 38062.931364
+   "cum_wan": 38096.221492000004
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 476.16470300000003,
-   "ratio": 28.02,
+   "realtime_wan": 501.926809,
+   "ratio": 28.01,
    "days": 19,
-   "cum_wan": 57330.670060000004
+   "cum_wan": 57356.432166
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 328.519466,
-   "ratio": 19.33,
+   "realtime_wan": 344.358247,
+   "ratio": 19.22,
    "days": 19,
-   "cum_wan": 34541.818148
+   "cum_wan": 34557.656929000004
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 69.24511600000001,
-   "ratio": 4.08,
+   "realtime_wan": 72.39102,
+   "ratio": 4.04,
    "days": 70,
-   "cum_wan": 237864.638088
+   "cum_wan": 237867.783992
   },
   {
    "nm": "重生2",
-   "realtime_wan": 62.961491,
-   "ratio": 3.71,
+   "realtime_wan": 67.258562,
+   "ratio": 3.75,
    "days": 17,
-   "cum_wan": 6296.401482
+   "cum_wan": 6300.698553
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 31.360001,
-   "ratio": 1.85,
+   "realtime_wan": 32.082162,
+   "ratio": 1.79,
    "days": 102,
-   "cum_wan": 9910.593077
+   "cum_wan": 9911.315238
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 29.462557,
-   "ratio": 1.73,
+   "realtime_wan": 31.215121999999997,
+   "ratio": 1.74,
    "days": 4,
-   "cum_wan": 463.06900099999996
+   "cum_wan": 464.821566
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 29.146675,
-   "ratio": 1.72,
+   "realtime_wan": 29.850232000000002,
+   "ratio": 1.67,
    "days": 67,
-   "cum_wan": 77423.292829
+   "cum_wan": 77423.996386
   },
   {
    "nm": "空枪",
-   "realtime_wan": 25.702635,
-   "ratio": 1.51,
+   "realtime_wan": 28.593284000000004,
+   "ratio": 1.6,
    "days": 62,
-   "cum_wan": 66464.668336
+   "cum_wan": 66467.558985
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 19.437952,
-   "ratio": 1.14,
+   "realtime_wan": 19.516574,
+   "ratio": 1.09,
    "days": 19,
-   "cum_wan": 1579.521411
+   "cum_wan": 1579.600033
   }
  ],
  "presale": [
