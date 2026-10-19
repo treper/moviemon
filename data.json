@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-19 10:00:02",
+ "generated_at": "2026-10-19 10:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 53.487292000000004,
-   "ratio": 27.26,
+   "realtime_wan": 59.18546800000001,
+   "ratio": 27.0,
    "days": 15,
-   "cum_wan": 37584.650847000004
+   "cum_wan": 37536.929828
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 42.040818,
-   "ratio": 21.42,
+   "realtime_wan": 48.400976,
+   "ratio": 22.08,
    "days": 19,
-   "cum_wan": 56881.436388
+   "cum_wan": 56846.012609000005
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 29.212046,
-   "ratio": 14.89,
+   "realtime_wan": 34.23277,
+   "ratio": 15.61,
    "days": 19,
-   "cum_wan": 34232.776585
+   "cum_wan": 34212.666361
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 10.290049,
-   "ratio": 5.24,
+   "realtime_wan": 11.203369,
+   "ratio": 5.11,
    "days": 70,
-   "cum_wan": 237803.441442
+   "cum_wan": 237792.457536
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 9.204788,
-   "ratio": 4.69,
+   "realtime_wan": 9.887413,
+   "ratio": 4.51,
    "days": 67,
-   "cum_wan": 77402.463014
+   "cum_wan": 77402.17879800001
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 5.45132,
-   "ratio": 2.78,
+   "realtime_wan": 6.025075,
+   "ratio": 2.75,
    "days": 19,
-   "cum_wan": 1565.077675
+   "cum_wan": 1565.1793089999999
   },
   {
    "nm": "重生2",
-   "realtime_wan": 5.1658040000000005,
-   "ratio": 2.63,
+   "realtime_wan": 5.684752,
+   "ratio": 2.59,
    "days": 17,
-   "cum_wan": 6237.337665
+   "cum_wan": 6233.254463
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 4.8012239999999995,
-   "ratio": 2.45,
+   "realtime_wan": 5.249242,
+   "ratio": 2.39,
    "days": 4,
-   "cum_wan": 437.96738200000004
-  },
-  {
-   "nm": "杀死比尔：血色全传",
-   "realtime_wan": 4.340185,
-   "ratio": 2.21,
-   "days": 46,
-   "cum_wan": 4883.755965
+   "cum_wan": 435.566734
   },
   {
    "nm": "复仇者联盟4：终局之战（加码臻享版）",
-   "realtime_wan": 4.277105000000001,
-   "ratio": 2.18,
+   "realtime_wan": 4.682386,
+   "ratio": 2.14,
    "days": 25,
-   "cum_wan": 15530.124141
+   "cum_wan": 15528.166287
+  },
+  {
+   "nm": "三国第一部：争洛阳",
+   "realtime_wan": 4.469933,
+   "ratio": 2.04,
+   "days": 102,
+   "cum_wan": 9877.651408
   }
  ],
  "presale": [
