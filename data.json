@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-19 20:00:02",
+ "generated_at": "2026-10-19 20:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 482.48801900000007,
-   "ratio": 30.09,
+   "realtime_wan": 515.311848,
+   "ratio": 30.33,
    "days": 15,
-   "cum_wan": 38030.107535
+   "cum_wan": 38062.931364
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 448.59085999999996,
-   "ratio": 27.98,
+   "realtime_wan": 476.16470300000003,
+   "ratio": 28.02,
    "days": 19,
-   "cum_wan": 57303.096217
+   "cum_wan": 57330.670060000004
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 310.647494,
-   "ratio": 19.38,
+   "realtime_wan": 328.519466,
+   "ratio": 19.33,
    "days": 19,
-   "cum_wan": 34523.946176
+   "cum_wan": 34541.818148
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 65.524299,
-   "ratio": 4.09,
+   "realtime_wan": 69.24511600000001,
+   "ratio": 4.08,
    "days": 70,
-   "cum_wan": 237860.917271
+   "cum_wan": 237864.638088
   },
   {
    "nm": "重生2",
-   "realtime_wan": 58.288982,
-   "ratio": 3.64,
+   "realtime_wan": 62.961491,
+   "ratio": 3.71,
    "days": 17,
-   "cum_wan": 6291.728972999999
+   "cum_wan": 6296.401482
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 30.558084,
-   "ratio": 1.91,
+   "realtime_wan": 31.360001,
+   "ratio": 1.85,
    "days": 102,
-   "cum_wan": 9909.791159999999
-  },
-  {
-   "nm": "奥德赛",
-   "realtime_wan": 28.474288,
-   "ratio": 1.78,
-   "days": 67,
-   "cum_wan": 77422.620442
+   "cum_wan": 9910.593077
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 27.918327,
-   "ratio": 1.74,
+   "realtime_wan": 29.462557,
+   "ratio": 1.73,
    "days": 4,
-   "cum_wan": 461.524771
+   "cum_wan": 463.06900099999996
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 29.146675,
+   "ratio": 1.72,
+   "days": 67,
+   "cum_wan": 77423.292829
   },
   {
    "nm": "空枪",
-   "realtime_wan": 23.573162,
-   "ratio": 1.47,
+   "realtime_wan": 25.702635,
+   "ratio": 1.51,
    "days": 62,
-   "cum_wan": 66462.538863
+   "cum_wan": 66464.668336
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 19.1411,
-   "ratio": 1.19,
+   "realtime_wan": 19.437952,
+   "ratio": 1.14,
    "days": 19,
-   "cum_wan": 1579.224559
+   "cum_wan": 1579.521411
   }
  ],
  "presale": [
