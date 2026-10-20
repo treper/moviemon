@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-20 22:30:02",
+ "generated_at": "2026-10-20 23:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 542.79274,
-   "ratio": 29.73,
+   "realtime_wan": 552.464303,
+   "ratio": 29.93,
    "days": 16,
-   "cum_wan": 38717.155821
+   "cum_wan": 38726.827384
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 508.36757400000005,
-   "ratio": 27.85,
+   "realtime_wan": 511.759342,
+   "ratio": 27.73,
    "days": 20,
-   "cum_wan": 57914.314829999996
+   "cum_wan": 57917.706598000004
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 340.394814,
-   "ratio": 18.65,
+   "realtime_wan": 343.620548,
+   "ratio": 18.62,
    "days": 20,
-   "cum_wan": 34931.883656
+   "cum_wan": 34935.10939
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 76.499433,
-   "ratio": 4.19,
+   "realtime_wan": 76.905174,
+   "ratio": 4.17,
    "days": 71,
-   "cum_wan": 237949.19446
+   "cum_wan": 237949.60020100002
   },
   {
    "nm": "重生2",
-   "realtime_wan": 71.955336,
+   "realtime_wan": 72.806442,
    "ratio": 3.94,
    "days": 18,
-   "cum_wan": 6382.526487
+   "cum_wan": 6383.377593
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 32.403638,
-   "ratio": 1.78,
+   "realtime_wan": 32.651106,
+   "ratio": 1.77,
    "days": 68,
-   "cum_wan": 77457.34562200001
-  },
-  {
-   "nm": "三国第一部：争洛阳",
-   "realtime_wan": 28.850946,
-   "ratio": 1.58,
-   "days": 103,
-   "cum_wan": 9941.666092
+   "cum_wan": 77457.59309
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 28.189928000000002,
-   "ratio": 1.54,
+   "realtime_wan": 28.93195,
+   "ratio": 1.57,
    "days": 5,
-   "cum_wan": 498.47312800000003
+   "cum_wan": 499.21515
+  },
+  {
+   "nm": "三国第一部：争洛阳",
+   "realtime_wan": 28.870704999999997,
+   "ratio": 1.56,
+   "days": 103,
+   "cum_wan": 9941.685851
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 23.142355,
-   "ratio": 1.27,
+   "realtime_wan": 23.231165,
+   "ratio": 1.26,
    "days": 20,
-   "cum_wan": 1603.5915810000001
+   "cum_wan": 1603.680391
   },
   {
    "nm": "空枪",
-   "realtime_wan": 21.616597,
-   "ratio": 1.18,
+   "realtime_wan": 21.645784,
+   "ratio": 1.17,
    "days": 63,
-   "cum_wan": 66490.950545
+   "cum_wan": 66490.979732
   }
  ],
  "presale": [
