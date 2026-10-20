@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-20 23:00:02",
+ "generated_at": "2026-10-20 23:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 552.464303,
-   "ratio": 29.93,
+   "realtime_wan": 557.7209809999999,
+   "ratio": 30.05,
    "days": 16,
-   "cum_wan": 38726.827384
+   "cum_wan": 38732.084062
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 511.759342,
-   "ratio": 27.73,
+   "realtime_wan": 513.4711639999999,
+   "ratio": 27.67,
    "days": 20,
-   "cum_wan": 57917.706598000004
+   "cum_wan": 57919.41842
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 343.620548,
-   "ratio": 18.62,
+   "realtime_wan": 344.904907,
+   "ratio": 18.59,
    "days": 20,
-   "cum_wan": 34935.10939
+   "cum_wan": 34936.393749
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 76.905174,
-   "ratio": 4.17,
+   "realtime_wan": 77.04301,
+   "ratio": 4.15,
    "days": 71,
-   "cum_wan": 237949.60020100002
+   "cum_wan": 237949.738037
   },
   {
    "nm": "重生2",
-   "realtime_wan": 72.806442,
+   "realtime_wan": 73.113046,
    "ratio": 3.94,
    "days": 18,
-   "cum_wan": 6383.377593
+   "cum_wan": 6383.684197
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 32.651106,
-   "ratio": 1.77,
+   "realtime_wan": 32.670919,
+   "ratio": 1.76,
    "days": 68,
-   "cum_wan": 77457.59309
+   "cum_wan": 77457.612903
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 28.93195,
-   "ratio": 1.57,
+   "realtime_wan": 29.377329,
+   "ratio": 1.58,
    "days": 5,
-   "cum_wan": 499.21515
+   "cum_wan": 499.660529
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 28.870704999999997,
+   "realtime_wan": 28.910197999999998,
    "ratio": 1.56,
    "days": 103,
-   "cum_wan": 9941.685851
+   "cum_wan": 9941.725344
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 23.231165,
-   "ratio": 1.26,
+   "realtime_wan": 23.251816,
+   "ratio": 1.25,
    "days": 20,
-   "cum_wan": 1603.680391
+   "cum_wan": 1603.701042
   },
   {
    "nm": "空枪",
-   "realtime_wan": 21.645784,
+   "realtime_wan": 21.675524,
    "ratio": 1.17,
    "days": 63,
-   "cum_wan": 66490.979732
+   "cum_wan": 66491.009472
   }
  ],
  "presale": [
