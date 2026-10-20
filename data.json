@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-20 13:00:02",
+ "generated_at": "2026-10-20 13:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 100.63546,
-   "ratio": 23.41,
+   "realtime_wan": 122.69475800000001,
+   "ratio": 24.43,
    "days": 20,
-   "cum_wan": 57488.836499000005
+   "cum_wan": 57510.895797000005
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 100.437636,
-   "ratio": 23.37,
+   "realtime_wan": 120.10179099999999,
+   "ratio": 23.91,
    "days": 16,
-   "cum_wan": 38254.617139999995
+   "cum_wan": 38274.281295
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 75.382435,
-   "ratio": 17.54,
+   "realtime_wan": 91.06245,
+   "ratio": 18.13,
    "days": 20,
-   "cum_wan": 34652.779902999995
+   "cum_wan": 34668.459918
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 21.601827,
-   "ratio": 5.03,
+   "realtime_wan": 24.862896,
+   "ratio": 4.95,
    "days": 71,
-   "cum_wan": 237889.993777
+   "cum_wan": 237893.254846
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 18.440033,
-   "ratio": 4.29,
+   "realtime_wan": 19.468019,
+   "ratio": 3.88,
    "days": 68,
-   "cum_wan": 77442.608293
+   "cum_wan": 77443.636279
   },
   {
    "nm": "重生2",
-   "realtime_wan": 12.466951,
-   "ratio": 2.9,
+   "realtime_wan": 14.367559,
+   "ratio": 2.86,
    "days": 18,
-   "cum_wan": 6320.555213000001
+   "cum_wan": 6322.4558210000005
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 11.446933,
-   "ratio": 2.66,
+   "realtime_wan": 12.406165,
+   "ratio": 2.47,
    "days": 20,
-   "cum_wan": 1591.445011
+   "cum_wan": 1592.404243
   },
   {
    "nm": "空枪",
-   "realtime_wan": 9.431865,
-   "ratio": 2.19,
+   "realtime_wan": 10.107421,
+   "ratio": 2.01,
    "days": 63,
-   "cum_wan": 66479.230733
+   "cum_wan": 66479.90628899999
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 8.382703,
-   "ratio": 1.95,
+   "realtime_wan": 9.568091,
+   "ratio": 1.9,
    "days": 103,
-   "cum_wan": 9920.14468
+   "cum_wan": 9921.330068000001
   },
   {
    "nm": "密档",
-   "realtime_wan": 7.4214080000000004,
-   "ratio": 1.73,
+   "realtime_wan": 8.251545,
+   "ratio": 1.64,
    "days": 54,
-   "cum_wan": 1995.754682
+   "cum_wan": 1996.5848190000002
   }
  ],
  "presale": [
