@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-21 22:30:02",
+ "generated_at": "2026-10-21 23:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 519.919285,
-   "ratio": 29.19,
+   "realtime_wan": 528.749683,
+   "ratio": 29.35,
    "days": 17,
-   "cum_wan": 39257.252764
+   "cum_wan": 39266.083162
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 498.947729,
-   "ratio": 28.01,
+   "realtime_wan": 502.491528,
+   "ratio": 27.9,
    "days": 21,
-   "cum_wan": 58422.683952
+   "cum_wan": 58426.227751
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 320.432613,
-   "ratio": 17.99,
+   "realtime_wan": 323.254122,
+   "ratio": 17.95,
    "days": 21,
-   "cum_wan": 35259.804039999995
+   "cum_wan": 35262.625549000004
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 80.097624,
-   "ratio": 4.5,
+   "realtime_wan": 80.315871,
+   "ratio": 4.46,
    "days": 72,
-   "cum_wan": 238030.485298
+   "cum_wan": 238030.70354499997
   },
   {
    "nm": "重生2",
-   "realtime_wan": 72.808549,
-   "ratio": 4.09,
+   "realtime_wan": 73.50109,
+   "ratio": 4.08,
    "days": 19,
-   "cum_wan": 6457.108593999999
+   "cum_wan": 6457.801135
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 31.216176,
+   "realtime_wan": 31.612098,
    "ratio": 1.75,
    "days": 69,
-   "cum_wan": 77489.099119
+   "cum_wan": 77489.495041
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 24.783781,
-   "ratio": 1.39,
+   "realtime_wan": 25.279505,
+   "ratio": 1.4,
    "days": 6,
-   "cum_wan": 524.6515400000001
+   "cum_wan": 525.147264
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 24.65279,
+   "realtime_wan": 24.811401999999998,
    "ratio": 1.38,
    "days": 104,
-   "cum_wan": 9966.669234
+   "cum_wan": 9966.827846
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 23.178732,
-   "ratio": 1.3,
+   "realtime_wan": 23.257414,
+   "ratio": 1.29,
    "days": 21,
-   "cum_wan": 1627.150048
+   "cum_wan": 1627.22873
   },
   {
    "nm": "四渡",
    "realtime_wan": 20.413536999999998,
-   "ratio": 1.15,
+   "ratio": 1.13,
    "days": 118,
    "cum_wan": 29923.843780000003
   }
