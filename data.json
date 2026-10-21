@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-21 10:30:02",
+ "generated_at": "2026-10-21 11:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 54.65430500000001,
-   "ratio": 22.04,
+   "realtime_wan": 60.572168999999995,
+   "ratio": 21.89,
    "days": 17,
-   "cum_wan": 38791.079326
+   "cum_wan": 38797.042689
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 54.192887,
-   "ratio": 21.85,
+   "realtime_wan": 60.558761,
+   "ratio": 21.89,
    "days": 21,
-   "cum_wan": 57976.916625
+   "cum_wan": 57983.282499
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 32.466373,
-   "ratio": 13.09,
+   "realtime_wan": 37.545021000000006,
+   "ratio": 13.57,
    "days": 21,
-   "cum_wan": 34971.322832
+   "cum_wan": 34976.403241
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 14.470868,
-   "ratio": 5.83,
+   "realtime_wan": 14.985884,
+   "ratio": 5.42,
    "days": 69,
-   "cum_wan": 77472.336584
+   "cum_wan": 77472.8516
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 13.620741,
-   "ratio": 5.49,
+   "realtime_wan": 14.779945000000001,
+   "ratio": 5.34,
    "days": 72,
-   "cum_wan": 237963.866594
+   "cum_wan": 237965.025798
   },
   {
    "nm": "重生2",
-   "realtime_wan": 7.868836999999999,
-   "ratio": 3.17,
+   "realtime_wan": 8.786783999999999,
+   "ratio": 3.18,
    "days": 19,
-   "cum_wan": 6392.003809000001
+   "cum_wan": 6392.921756000001
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 7.1377429999999995,
-   "ratio": 2.88,
+   "realtime_wan": 7.807542999999999,
+   "ratio": 2.82,
    "days": 21,
-   "cum_wan": 1611.051624
+   "cum_wan": 1611.721424
   },
   {
    "nm": "四渡",
-   "realtime_wan": 6.684719,
-   "ratio": 2.7,
+   "realtime_wan": 6.737241,
+   "ratio": 2.43,
    "days": 118,
-   "cum_wan": 29910.125657999997
+   "cum_wan": 29910.178180000003
   },
   {
    "nm": "密档",
-   "realtime_wan": 5.268655,
-   "ratio": 2.12,
+   "realtime_wan": 5.468655,
+   "ratio": 1.98,
    "days": 55,
-   "cum_wan": 2005.2211530000002
+   "cum_wan": 2005.4211530000002
   },
   {
    "nm": "老师您辛苦了",
    "realtime_wan": 5.220171,
-   "ratio": 2.1,
+   "ratio": 1.89,
    "days": 39,
    "cum_wan": 624.1248320000001
   }
