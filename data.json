@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-21 11:30:02",
+ "generated_at": "2026-10-21 12:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 67.564132,
-   "ratio": 22.28,
+   "realtime_wan": 75.885297,
+   "ratio": 22.6,
    "days": 21,
-   "cum_wan": 57990.28787000001
+   "cum_wan": 57998.609035
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 66.875435,
-   "ratio": 22.05,
+   "realtime_wan": 74.91023299999999,
+   "ratio": 22.31,
    "days": 17,
-   "cum_wan": 38803.345955000004
+   "cum_wan": 38811.380753
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 43.132954999999995,
-   "ratio": 14.22,
+   "realtime_wan": 49.928483,
+   "ratio": 14.87,
    "days": 21,
-   "cum_wan": 34981.991175
+   "cum_wan": 34988.786703
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 16.27553,
-   "ratio": 5.37,
+   "realtime_wan": 17.858959,
+   "ratio": 5.32,
    "days": 72,
-   "cum_wan": 237966.52138299998
+   "cum_wan": 237968.10481199998
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 15.400939000000001,
-   "ratio": 5.08,
+   "realtime_wan": 16.084404,
+   "ratio": 4.79,
    "days": 69,
-   "cum_wan": 77473.266655
+   "cum_wan": 77473.95012000001
   },
   {
    "nm": "重生2",
-   "realtime_wan": 9.691483,
-   "ratio": 3.2,
+   "realtime_wan": 11.156523,
+   "ratio": 3.32,
    "days": 19,
-   "cum_wan": 6393.826454999999
+   "cum_wan": 6395.291495
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 8.594103,
-   "ratio": 2.83,
+   "realtime_wan": 9.69396,
+   "ratio": 2.89,
    "days": 21,
-   "cum_wan": 1612.507984
+   "cum_wan": 1613.607841
   },
   {
    "nm": "四渡",
-   "realtime_wan": 6.789075,
-   "ratio": 2.24,
+   "realtime_wan": 7.2093300000000005,
+   "ratio": 2.15,
    "days": 118,
-   "cum_wan": 29910.230013999997
-  },
-  {
-   "nm": "密档",
-   "realtime_wan": 5.657495,
-   "ratio": 1.87,
-   "days": 55,
-   "cum_wan": 2005.609993
+   "cum_wan": 29910.650269
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 5.5543510000000005,
-   "ratio": 1.83,
+   "realtime_wan": 6.222924,
+   "ratio": 1.85,
    "days": 104,
-   "cum_wan": 9947.531796
+   "cum_wan": 9948.200369
+  },
+  {
+   "nm": "密档",
+   "realtime_wan": 5.6995569999999995,
+   "ratio": 1.7,
+   "days": 55,
+   "cum_wan": 2005.652055
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1418966,
    "nm": "落凡尘",
    "rt": "2026-10-24",
-   "wish": 61853,
-   "wish_delta_1d": 235,
+   "wish": 61899,
+   "wish_delta_1d": 281,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 246966,
    "nm": "疾速追杀",
    "rt": "2026-10-30",
-   "wish": 41444,
-   "wish_delta_1d": 503,
+   "wish": 41655,
+   "wish_delta_1d": 714,
    "on_sale": true,
    "pooled": true
   },
@@ -95,8 +95,8 @@
    "id": 1500516,
    "nm": "恐怖直播",
    "rt": "2026-10-23",
-   "wish": 17051,
-   "wish_delta_1d": 190,
+   "wish": 17076,
+   "wish_delta_1d": 215,
    "on_sale": false,
    "pooled": false
   },
@@ -104,8 +104,8 @@
    "id": 1531816,
    "nm": "菜肉馄饨",
    "rt": "2026-10-23",
-   "wish": 16203,
-   "wish_delta_1d": 84,
+   "wish": 16208,
+   "wish_delta_1d": 89,
    "on_sale": false,
    "pooled": false
   },
@@ -113,8 +113,8 @@
    "id": 1529836,
    "nm": "床下有人5",
    "rt": "2026-10-30",
-   "wish": 14584,
-   "wish_delta_1d": 45,
+   "wish": 14595,
+   "wish_delta_1d": 56,
    "on_sale": false,
    "pooled": false
   },
@@ -131,8 +131,8 @@
    "id": 1499664,
    "nm": "愤怒的老虎",
    "rt": "2026-10-23",
-   "wish": 10199,
-   "wish_delta_1d": 1211,
+   "wish": 10260,
+   "wish_delta_1d": 1272,
    "on_sale": true,
    "pooled": true
   },
@@ -158,8 +158,8 @@
    "id": 1608027,
    "nm": "小羊肖恩3：怪兽来袭",
    "rt": "2026-10-24",
-   "wish": 5830,
-   "wish_delta_1d": 163,
+   "wish": 5875,
+   "wish_delta_1d": 208,
    "on_sale": true,
    "pooled": true
   }
@@ -214,8 +214,8 @@
    "nm": "愤怒的老虎",
    "rt": "2026-10-23",
    "status": "WATCHING",
-   "wish": 10199,
-   "wish_delta_1d": 1211,
+   "wish": 10260,
+   "wish_delta_1d": 1272,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -225,8 +225,8 @@
    "nm": "象行记",
    "rt": "2026-10-23",
    "status": "WATCHING",
-   "wish": 2167,
-   "wish_delta_1d": 75,
+   "wish": 2182,
+   "wish_delta_1d": 90,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -236,8 +236,8 @@
    "nm": "三星堆：未来往事",
    "rt": "2026-10-23",
    "status": "WATCHING",
-   "wish": 5273,
-   "wish_delta_1d": 221,
+   "wish": 5343,
+   "wish_delta_1d": 291,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -247,8 +247,8 @@
    "nm": "生日快乐",
    "rt": "2026-10-23",
    "status": "WATCHING",
-   "wish": 3916,
-   "wish_delta_1d": 100,
+   "wish": 3935,
+   "wish_delta_1d": 119,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -258,8 +258,8 @@
    "nm": "落凡尘",
    "rt": "2026-10-24",
    "status": "WATCHING",
-   "wish": 61853,
-   "wish_delta_1d": 235,
+   "wish": 61899,
+   "wish_delta_1d": 281,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -269,8 +269,8 @@
    "nm": "小羊肖恩3：怪兽来袭",
    "rt": "2026-10-24",
    "status": "WATCHING",
-   "wish": 5830,
-   "wish_delta_1d": 163,
+   "wish": 5875,
+   "wish_delta_1d": 208,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -280,8 +280,8 @@
    "nm": "疾速追杀",
    "rt": "2026-10-30",
    "status": "WATCHING",
-   "wish": 41444,
-   "wish_delta_1d": 503,
+   "wish": 41655,
+   "wish_delta_1d": 714,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
