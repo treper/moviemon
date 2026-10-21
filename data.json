@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-21 09:00:02",
+ "generated_at": "2026-10-21 09:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 45.747005,
-   "ratio": 21.92,
+   "realtime_wan": 47.129675,
+   "ratio": 21.85,
    "days": 17,
-   "cum_wan": 38781.127363
+   "cum_wan": 38782.510033
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 43.693751,
-   "ratio": 20.94,
+   "realtime_wan": 45.469511,
+   "ratio": 21.08,
    "days": 21,
-   "cum_wan": 57964.072588
+   "cum_wan": 57965.848348
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 24.197223,
-   "ratio": 11.59,
+   "realtime_wan": 25.655098000000002,
+   "ratio": 11.89,
    "days": 21,
-   "cum_wan": 34961.264846
+   "cum_wan": 34962.722721
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 13.510164000000001,
-   "ratio": 6.47,
+   "realtime_wan": 13.727935999999998,
+   "ratio": 6.36,
    "days": 69,
-   "cum_wan": 77471.123067
+   "cum_wan": 77471.340839
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 11.698883,
+   "realtime_wan": 12.09258,
    "ratio": 5.61,
    "days": 72,
-   "cum_wan": 237961.54555399998
+   "cum_wan": 237961.93925100003
   },
   {
    "nm": "重生2",
-   "realtime_wan": 6.6165080000000005,
-   "ratio": 3.17,
+   "realtime_wan": 6.799627,
+   "ratio": 3.15,
    "days": 19,
-   "cum_wan": 6390.458868
+   "cum_wan": 6390.641987
   },
   {
    "nm": "四渡",
-   "realtime_wan": 6.359093,
-   "ratio": 3.05,
+   "realtime_wan": 6.548017,
+   "ratio": 3.04,
    "days": 118,
-   "cum_wan": 29910.007633999998
+   "cum_wan": 29910.196558
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 5.9980199999999995,
+   "realtime_wan": 6.185912,
    "ratio": 2.87,
    "days": 21,
-   "cum_wan": 1609.738726
+   "cum_wan": 1609.926618
   },
   {
    "nm": "老师您辛苦了",
    "realtime_wan": 5.220311,
-   "ratio": 2.5,
+   "ratio": 2.42,
    "days": 39,
    "cum_wan": 619.750859
   },
   {
    "nm": "密档",
-   "realtime_wan": 4.817685,
-   "ratio": 2.31,
+   "realtime_wan": 4.82773,
+   "ratio": 2.24,
    "days": 55,
-   "cum_wan": 2004.655793
+   "cum_wan": 2004.665838
   }
  ],
  "presale": [
