@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-21 18:00:02",
+ "generated_at": "2026-10-21 18:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 301.509205,
-   "ratio": 27.44,
+   "realtime_wan": 327.700155,
+   "ratio": 27.66,
    "days": 21,
-   "cum_wan": 58225.010872000006
+   "cum_wan": 58251.201822
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 288.251218,
-   "ratio": 26.24,
+   "realtime_wan": 315.469479,
+   "ratio": 26.63,
    "days": 17,
-   "cum_wan": 39025.364304
+   "cum_wan": 39052.582565
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 197.66990800000002,
-   "ratio": 17.99,
+   "realtime_wan": 212.42108199999998,
+   "ratio": 17.93,
    "days": 21,
-   "cum_wan": 35136.900186
+   "cum_wan": 35151.65136
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 54.949586,
-   "ratio": 5.0,
+   "realtime_wan": 58.601911,
+   "ratio": 4.95,
    "days": 72,
-   "cum_wan": 238005.33417
+   "cum_wan": 238008.986495
   },
   {
    "nm": "重生2",
-   "realtime_wan": 39.725092,
-   "ratio": 3.62,
+   "realtime_wan": 43.209516,
+   "ratio": 3.65,
    "days": 19,
-   "cum_wan": 6423.991357
+   "cum_wan": 6427.475781
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 25.692159,
-   "ratio": 2.34,
+   "realtime_wan": 26.623414,
+   "ratio": 2.25,
    "days": 69,
-   "cum_wan": 77483.575102
+   "cum_wan": 77484.506357
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 19.704541,
-   "ratio": 1.79,
+   "realtime_wan": 20.595479,
+   "ratio": 1.74,
    "days": 21,
-   "cum_wan": 1623.661257
+   "cum_wan": 1624.552195
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 17.428966,
+   "realtime_wan": 18.872848,
    "ratio": 1.59,
    "days": 104,
-   "cum_wan": 9959.43701
+   "cum_wan": 9960.880892000001
+  },
+  {
+   "nm": "鲸口脱险",
+   "realtime_wan": 15.986099,
+   "ratio": 1.35,
+   "days": 6,
+   "cum_wan": 515.8538580000001
   },
   {
    "nm": "勇敢女孩合唱团",
-   "realtime_wan": 15.15586,
-   "ratio": 1.38,
+   "realtime_wan": 15.719657999999999,
+   "ratio": 1.33,
    "days": 2,
-   "cum_wan": 32.406784
-  },
-  {
-   "nm": "四渡",
-   "realtime_wan": 15.058038,
-   "ratio": 1.37,
-   "days": 118,
-   "cum_wan": 29918.488281
+   "cum_wan": 32.970582
   }
  ],
  "presale": [
