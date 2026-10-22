@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-22 20:00:03",
+ "generated_at": "2026-10-22 20:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 395.796715,
-   "ratio": 28.07,
+   "realtime_wan": 422.64929800000004,
+   "ratio": 28.1,
    "days": 22,
-   "cum_wan": 58828.08067999999
+   "cum_wan": 58854.933263
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 379.708082,
-   "ratio": 26.93,
+   "realtime_wan": 410.41479100000004,
+   "ratio": 27.29,
    "days": 18,
-   "cum_wan": 39655.509649
+   "cum_wan": 39686.216358
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 245.66789,
-   "ratio": 17.42,
+   "realtime_wan": 261.883677,
+   "ratio": 17.41,
    "days": 22,
-   "cum_wan": 35512.693363
+   "cum_wan": 35528.90915
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 64.79977199999999,
-   "ratio": 4.6,
+   "realtime_wan": 68.639821,
+   "ratio": 4.56,
    "days": 73,
-   "cum_wan": 238096.17975900002
+   "cum_wan": 238100.01980799998
   },
   {
    "nm": "重生2",
-   "realtime_wan": 53.371584999999996,
-   "ratio": 3.79,
+   "realtime_wan": 57.499031,
+   "ratio": 3.82,
    "days": 20,
-   "cum_wan": 6512.018215
+   "cum_wan": 6516.145661
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 30.483837,
-   "ratio": 2.16,
+   "realtime_wan": 31.087358000000002,
+   "ratio": 2.07,
    "days": 70,
-   "cum_wan": 77520.26295
+   "cum_wan": 77520.866471
   },
   {
    "nm": "四渡",
-   "realtime_wan": 25.750355,
-   "ratio": 1.83,
+   "realtime_wan": 28.056997999999997,
+   "ratio": 1.87,
    "days": 119,
-   "cum_wan": 29949.785720999997
+   "cum_wan": 29952.092364
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 19.304641,
-   "ratio": 1.37,
+   "realtime_wan": 19.829161,
+   "ratio": 1.32,
    "days": 105,
-   "cum_wan": 9986.410020000001
+   "cum_wan": 9986.93454
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 19.078492,
-   "ratio": 1.35,
+   "realtime_wan": 19.425143,
+   "ratio": 1.29,
    "days": 22,
-   "cum_wan": 1646.4924839999999
+   "cum_wan": 1646.839135
   },
   {
    "nm": "勇敢女孩合唱团",
-   "realtime_wan": 17.313968,
-   "ratio": 1.23,
+   "realtime_wan": 18.332911,
+   "ratio": 1.22,
    "days": 3,
-   "cum_wan": 53.45743100000001
+   "cum_wan": 54.476374
   }
  ],
  "presale": [
