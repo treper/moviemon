@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-22 21:30:02",
+ "generated_at": "2026-10-22 22:00:02",
  "realtime": [
   {
-   "nm": "神探之痕迹",
-   "realtime_wan": 455.64542800000004,
-   "ratio": 27.95,
-   "days": 22,
-   "cum_wan": 58888.010023
+   "nm": "生化危机：爆发夜",
+   "realtime_wan": 463.810061,
+   "ratio": 28.0,
+   "days": 18,
+   "cum_wan": 39740.013406
   },
   {
-   "nm": "生化危机：爆发夜",
-   "realtime_wan": 453.841008,
-   "ratio": 27.84,
-   "days": 18,
-   "cum_wan": 39729.654294
+   "nm": "神探之痕迹",
+   "realtime_wan": 462.802571,
+   "ratio": 27.94,
+   "days": 22,
+   "cum_wan": 58895.37330399999
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 282.540613,
+   "realtime_wan": 287.123841,
    "ratio": 17.33,
    "days": 22,
-   "cum_wan": 35549.588381
+   "cum_wan": 35554.477079000004
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 73.499212,
-   "ratio": 4.51,
+   "realtime_wan": 74.469606,
+   "ratio": 4.5,
    "days": 73,
-   "cum_wan": 238104.879199
+   "cum_wan": 238105.861408
   },
   {
    "nm": "重生2",
-   "realtime_wan": 63.418801,
-   "ratio": 3.89,
+   "realtime_wan": 64.567463,
+   "ratio": 3.9,
    "days": 20,
-   "cum_wan": 6522.064931
+   "cum_wan": 6523.322448
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 31.968904,
+   "realtime_wan": 32.423988,
    "ratio": 1.96,
    "days": 70,
-   "cum_wan": 77521.74801699999
+   "cum_wan": 77522.218101
   },
   {
    "nm": "四渡",
-   "realtime_wan": 30.234627000000003,
-   "ratio": 1.85,
+   "realtime_wan": 30.323627000000002,
+   "ratio": 1.83,
    "days": 119,
-   "cum_wan": 29954.269993
+   "cum_wan": 29954.358993
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 20.501610999999997,
-   "ratio": 1.26,
+   "realtime_wan": 20.640372,
+   "ratio": 1.25,
    "days": 105,
-   "cum_wan": 9987.60597
+   "cum_wan": 9987.744731
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 20.334775,
-   "ratio": 1.25,
+   "realtime_wan": 20.611901,
+   "ratio": 1.24,
    "days": 22,
-   "cum_wan": 1647.748767
+   "cum_wan": 1648.048757
   },
   {
-   "nm": "勇敢女孩合唱团",
-   "realtime_wan": 19.322607,
-   "ratio": 1.19,
-   "days": 3,
-   "cum_wan": 55.466069999999995
+   "nm": "鲸口脱险",
+   "realtime_wan": 19.927155,
+   "ratio": 1.2,
+   "days": 7,
+   "cum_wan": 545.556122
   }
  ],
  "presale": [
