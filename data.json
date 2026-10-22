@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-22 09:30:02",
+ "generated_at": "2026-10-22 10:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 46.85552,
-   "ratio": 21.19,
+   "realtime_wan": 49.699852,
+   "ratio": 21.37,
    "days": 22,
-   "cum_wan": 58475.708562
+   "cum_wan": 58478.55289400001
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 43.330737,
-   "ratio": 19.6,
+   "realtime_wan": 45.679119,
+   "ratio": 19.64,
    "days": 18,
-   "cum_wan": 39316.769094
+   "cum_wan": 39319.117476
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 23.463323000000003,
-   "ratio": 10.61,
+   "realtime_wan": 25.911239000000002,
+   "ratio": 11.14,
    "days": 22,
-   "cum_wan": 35287.890485
+   "cum_wan": 35290.338401
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 13.995737,
-   "ratio": 6.33,
+   "realtime_wan": 14.263235,
+   "ratio": 6.13,
    "days": 70,
-   "cum_wan": 77503.5007
+   "cum_wan": 77503.768198
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 9.988605,
-   "ratio": 4.52,
+   "realtime_wan": 10.60516,
+   "ratio": 4.56,
    "days": 73,
-   "cum_wan": 238040.87031300002
+   "cum_wan": 238041.48686799998
   },
   {
    "nm": "四渡",
-   "realtime_wan": 9.781865,
-   "ratio": 4.42,
+   "realtime_wan": 10.107314,
+   "ratio": 4.35,
    "days": 119,
-   "cum_wan": 29933.625645
+   "cum_wan": 29933.951094
   },
   {
    "nm": "重生2",
-   "realtime_wan": 6.607952,
-   "ratio": 2.99,
+   "realtime_wan": 6.972542999999999,
+   "ratio": 3.0,
    "days": 20,
-   "cum_wan": 6464.963048
+   "cum_wan": 6465.327639
   },
   {
    "nm": "追光者",
-   "realtime_wan": 5.97385,
-   "ratio": 2.7,
+   "realtime_wan": 6.37285,
+   "ratio": 2.74,
    "days": 30,
-   "cum_wan": 85.153695
+   "cum_wan": 85.552695
   },
   {
    "nm": "密档",
-   "realtime_wan": 5.679279,
-   "ratio": 2.57,
+   "realtime_wan": 5.888479,
+   "ratio": 2.53,
    "days": 56,
-   "cum_wan": 2016.194841
+   "cum_wan": 2016.404041
   },
   {
    "nm": "愤怒的老虎",
    "realtime_wan": 5.525,
-   "ratio": 2.5,
+   "ratio": 2.38,
    "days": 0,
    "cum_wan": 5.525
   }
