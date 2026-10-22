@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-10-22 09:00:03",
+ "generated_at": "2026-10-22 09:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 44.850488,
-   "ratio": 21.05,
+   "realtime_wan": 46.85552,
+   "ratio": 21.19,
    "days": 22,
-   "cum_wan": 58473.70353
+   "cum_wan": 58475.708562
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 41.582262,
-   "ratio": 19.51,
+   "realtime_wan": 43.330737,
+   "ratio": 19.6,
    "days": 18,
-   "cum_wan": 39315.020619
+   "cum_wan": 39316.769094
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 21.726155,
-   "ratio": 10.19,
+   "realtime_wan": 23.463323000000003,
+   "ratio": 10.61,
    "days": 22,
-   "cum_wan": 35286.153317000004
+   "cum_wan": 35287.890485
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 13.698765,
-   "ratio": 6.43,
+   "realtime_wan": 13.995737,
+   "ratio": 6.33,
    "days": 70,
-   "cum_wan": 77503.203728
-  },
-  {
-   "nm": "四渡",
-   "realtime_wan": 9.676347,
-   "ratio": 4.54,
-   "days": 119,
-   "cum_wan": 29933.520127
+   "cum_wan": 77503.5007
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 9.509846000000001,
-   "ratio": 4.46,
+   "realtime_wan": 9.988605,
+   "ratio": 4.52,
    "days": 73,
-   "cum_wan": 238040.391554
+   "cum_wan": 238040.87031300002
+  },
+  {
+   "nm": "四渡",
+   "realtime_wan": 9.781865,
+   "ratio": 4.42,
+   "days": 119,
+   "cum_wan": 29933.625645
   },
   {
    "nm": "重生2",
-   "realtime_wan": 6.245222,
-   "ratio": 2.93,
+   "realtime_wan": 6.607952,
+   "ratio": 2.99,
    "days": 20,
-   "cum_wan": 6464.600318
+   "cum_wan": 6464.963048
   },
   {
    "nm": "追光者",
-   "realtime_wan": 5.973463,
-   "ratio": 2.8,
+   "realtime_wan": 5.97385,
+   "ratio": 2.7,
    "days": 30,
-   "cum_wan": 85.153308
+   "cum_wan": 85.153695
   },
   {
    "nm": "密档",
-   "realtime_wan": 5.636856,
-   "ratio": 2.65,
+   "realtime_wan": 5.679279,
+   "ratio": 2.57,
    "days": 56,
-   "cum_wan": 2016.152418
+   "cum_wan": 2016.194841
   },
   {
    "nm": "愤怒的老虎",
    "realtime_wan": 5.525,
-   "ratio": 2.59,
+   "ratio": 2.5,
    "days": 0,
    "cum_wan": 5.525
   }
