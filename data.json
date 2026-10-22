@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-22 23:00:02",
+ "generated_at": "2026-10-22 23:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 485.607356,
-   "ratio": 28.45,
+   "realtime_wan": 488.39869500000003,
+   "ratio": 28.51,
    "days": 18,
-   "cum_wan": 39761.810701
+   "cum_wan": 39764.60204
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 473.415204,
-   "ratio": 27.74,
+   "realtime_wan": 474.58324000000005,
+   "ratio": 27.71,
    "days": 22,
-   "cum_wan": 58905.985937
+   "cum_wan": 58907.153973
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 295.023998,
-   "ratio": 17.29,
+   "realtime_wan": 295.95423999999997,
+   "ratio": 17.28,
    "days": 22,
-   "cum_wan": 35562.377236
+   "cum_wan": 35563.307477999995
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 75.587556,
-   "ratio": 4.43,
+   "realtime_wan": 75.723272,
+   "ratio": 4.42,
    "days": 73,
-   "cum_wan": 238106.97935799998
+   "cum_wan": 238107.11507399997
   },
   {
    "nm": "重生2",
-   "realtime_wan": 67.32932199999999,
+   "realtime_wan": 67.526721,
    "ratio": 3.94,
    "days": 20,
-   "cum_wan": 6526.084307
+   "cum_wan": 6526.281706000001
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 33.225491999999996,
+   "realtime_wan": 33.404457,
    "ratio": 1.95,
    "days": 70,
-   "cum_wan": 77523.019605
+   "cum_wan": 77523.19857000001
   },
   {
    "nm": "四渡",
    "realtime_wan": 30.372627,
-   "ratio": 1.78,
+   "ratio": 1.77,
    "days": 119,
    "cum_wan": 29954.407993
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 21.422097,
+   "realtime_wan": 21.560617999999998,
    "ratio": 1.26,
    "days": 7,
-   "cum_wan": 547.051064
+   "cum_wan": 547.189585
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 20.778948,
-   "ratio": 1.22,
+   "realtime_wan": 20.78859,
+   "ratio": 1.21,
    "days": 105,
-   "cum_wan": 9987.883307
+   "cum_wan": 9987.892949
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 20.751192,
-   "ratio": 1.22,
+   "realtime_wan": 20.780212,
+   "ratio": 1.21,
    "days": 22,
-   "cum_wan": 1648.188048
+   "cum_wan": 1648.217068
   }
  ],
  "presale": [
