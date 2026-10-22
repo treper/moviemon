@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-22 13:30:02",
+ "generated_at": "2026-10-22 14:30:03",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 119.97204599999999,
-   "ratio": 25.0,
+   "realtime_wan": 159.720349,
+   "ratio": 26.43,
    "days": 22,
-   "cum_wan": 58534.59117100001
+   "cum_wan": 58592.008054
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 103.814628,
-   "ratio": 21.63,
+   "realtime_wan": 136.407429,
+   "ratio": 22.58,
    "days": 18,
-   "cum_wan": 39358.677857
+   "cum_wan": 39412.230776
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 75.872985,
-   "ratio": 15.81,
+   "realtime_wan": 101.191385,
+   "ratio": 16.75,
    "days": 22,
-   "cum_wan": 35329.739721
+   "cum_wan": 35368.239878
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 22.237664000000002,
-   "ratio": 4.63,
+   "realtime_wan": 28.248208,
+   "ratio": 4.68,
    "days": 73,
-   "cum_wan": 238048.99851900002
+   "cum_wan": 238059.62819499997
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 19.211563,
-   "ratio": 4.0,
+   "realtime_wan": 20.863367999999998,
+   "ratio": 3.45,
    "days": 70,
-   "cum_wan": 77508.29253600001
+   "cum_wan": 77510.64248099999
   },
   {
    "nm": "重生2",
-   "realtime_wan": 16.112154999999998,
-   "ratio": 3.36,
+   "realtime_wan": 20.512598,
+   "ratio": 3.39,
    "days": 20,
-   "cum_wan": 6472.037859
+   "cum_wan": 6479.156428
   },
   {
    "nm": "四渡",
-   "realtime_wan": 11.919689,
-   "ratio": 2.48,
+   "realtime_wan": 13.325464000000002,
+   "ratio": 2.21,
    "days": 119,
-   "cum_wan": 29937.4025
-  },
-  {
-   "nm": "勇敢女孩合唱团",
-   "realtime_wan": 10.015905,
-   "ratio": 2.09,
-   "days": 3,
-   "cum_wan": 46.346239000000004
+   "cum_wan": 29937.36083
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 9.500202,
-   "ratio": 1.98,
+   "realtime_wan": 11.134079,
+   "ratio": 1.84,
    "days": 22,
-   "cum_wan": 1636.6531
+   "cum_wan": 1638.5480710000002
+  },
+  {
+   "nm": "勇敢女孩合唱团",
+   "realtime_wan": 10.721821,
+   "ratio": 1.77,
+   "days": 3,
+   "cum_wan": 46.865284
   },
   {
    "nm": "密档",
-   "realtime_wan": 8.293846,
-   "ratio": 1.73,
+   "realtime_wan": 9.038950999999999,
+   "ratio": 1.5,
    "days": 56,
-   "cum_wan": 2019.761736
+   "cum_wan": 2019.6591079999998
   }
  ],
  "presale": [
