@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-22 10:30:02",
+ "generated_at": "2026-10-22 11:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 55.877439,
-   "ratio": 21.85,
+   "realtime_wan": 61.012874,
+   "ratio": 22.03,
    "days": 22,
-   "cum_wan": 58470.483521
+   "cum_wan": 58475.61895599999
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 50.453082,
-   "ratio": 19.73,
+   "realtime_wan": 55.163307999999994,
+   "ratio": 19.92,
    "days": 18,
-   "cum_wan": 39305.307615
+   "cum_wan": 39310.017841
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 30.08813,
-   "ratio": 11.76,
+   "realtime_wan": 34.202117,
+   "ratio": 12.35,
    "days": 22,
-   "cum_wan": 35283.914227
+   "cum_wan": 35288.028214
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 15.025557000000001,
-   "ratio": 5.87,
+   "realtime_wan": 15.450807999999999,
+   "ratio": 5.58,
    "days": 70,
-   "cum_wan": 77504.10652999999
+   "cum_wan": 77504.531781
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 11.81432,
-   "ratio": 4.62,
+   "realtime_wan": 13.152579000000001,
+   "ratio": 4.75,
    "days": 73,
-   "cum_wan": 238038.575175
+   "cum_wan": 238039.91343400002
   },
   {
    "nm": "四渡",
-   "realtime_wan": 10.425262,
-   "ratio": 4.08,
+   "realtime_wan": 10.573641,
+   "ratio": 3.82,
    "days": 119,
-   "cum_wan": 29935.908073000002
+   "cum_wan": 29936.056451999997
   },
   {
    "nm": "重生2",
-   "realtime_wan": 7.758143,
-   "ratio": 3.03,
+   "realtime_wan": 8.539503,
+   "ratio": 3.08,
    "days": 20,
-   "cum_wan": 6463.683847
+   "cum_wan": 6464.465207
+  },
+  {
+   "nm": "勇敢女孩合唱团",
+   "realtime_wan": 6.5362860000000005,
+   "ratio": 2.36,
+   "days": 3,
+   "cum_wan": 42.866620000000005
   },
   {
    "nm": "追光者",
    "realtime_wan": 6.372605999999999,
-   "ratio": 2.49,
+   "ratio": 2.3,
    "days": 30,
    "cum_wan": 85.648289
   },
   {
    "nm": "密档",
-   "realtime_wan": 6.140699,
-   "ratio": 2.4,
+   "realtime_wan": 6.1826989999999995,
+   "ratio": 2.23,
    "days": 56,
-   "cum_wan": 2017.6085890000002
-  },
-  {
-   "nm": "愤怒的老虎",
-   "realtime_wan": 5.525,
-   "ratio": 2.16,
-   "days": 0,
-   "cum_wan": 5.525
+   "cum_wan": 2017.650589
   }
  ],
  "presale": [
