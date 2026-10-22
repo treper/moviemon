@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-22 22:30:02",
+ "generated_at": "2026-10-22 23:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 478.74685199999993,
-   "ratio": 28.3,
+   "realtime_wan": 485.607356,
+   "ratio": 28.45,
    "days": 18,
-   "cum_wan": 39754.950197000006
+   "cum_wan": 39761.810701
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 470.257067,
-   "ratio": 27.8,
+   "realtime_wan": 473.415204,
+   "ratio": 27.74,
    "days": 22,
-   "cum_wan": 58902.8278
+   "cum_wan": 58905.985937
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 292.87559,
-   "ratio": 17.31,
+   "realtime_wan": 295.023998,
+   "ratio": 17.29,
    "days": 22,
-   "cum_wan": 35560.228828
+   "cum_wan": 35562.377236
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 75.34021700000001,
-   "ratio": 4.45,
+   "realtime_wan": 75.587556,
+   "ratio": 4.43,
    "days": 73,
-   "cum_wan": 238106.73201900002
+   "cum_wan": 238106.97935799998
   },
   {
    "nm": "重生2",
-   "realtime_wan": 66.695695,
+   "realtime_wan": 67.32932199999999,
    "ratio": 3.94,
    "days": 20,
-   "cum_wan": 6525.45068
+   "cum_wan": 6526.084307
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 32.988492,
+   "realtime_wan": 33.225491999999996,
    "ratio": 1.95,
    "days": 70,
-   "cum_wan": 77522.782605
+   "cum_wan": 77523.019605
   },
   {
    "nm": "四渡",
    "realtime_wan": 30.372627,
-   "ratio": 1.8,
+   "ratio": 1.78,
    "days": 119,
    "cum_wan": 29954.407993
   },
   {
    "nm": "鲸口脱险",
-   "realtime_wan": 20.848034,
-   "ratio": 1.23,
+   "realtime_wan": 21.422097,
+   "ratio": 1.26,
    "days": 7,
-   "cum_wan": 546.477001
+   "cum_wan": 547.051064
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 20.758819,
-   "ratio": 1.23,
+   "realtime_wan": 20.778948,
+   "ratio": 1.22,
    "days": 105,
-   "cum_wan": 9987.863178
+   "cum_wan": 9987.883307
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 20.720688,
+   "realtime_wan": 20.751192,
    "ratio": 1.22,
    "days": 22,
-   "cum_wan": 1648.157544
+   "cum_wan": 1648.188048
   }
  ],
  "presale": [
