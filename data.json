@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-21 23:30:02",
+ "generated_at": "2026-10-22 08:00:02",
  "realtime": [
   {
-   "nm": "生化危机：爆发夜",
-   "realtime_wan": 533.263385,
-   "ratio": 29.45,
-   "days": 17,
-   "cum_wan": 39270.596864
+   "nm": "神探之痕迹",
+   "realtime_wan": 43.283155,
+   "ratio": 20.94,
+   "days": 22,
+   "cum_wan": 58472.136197
   },
   {
-   "nm": "神探之痕迹",
-   "realtime_wan": 504.194483,
-   "ratio": 27.84,
-   "days": 21,
-   "cum_wan": 58427.93070599999
+   "nm": "生化危机：爆发夜",
+   "realtime_wan": 40.202765,
+   "ratio": 19.45,
+   "days": 18,
+   "cum_wan": 39313.641122
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 324.501786,
-   "ratio": 17.92,
-   "days": 21,
-   "cum_wan": 35263.873213
-  },
-  {
-   "nm": "欢迎来龙餐馆",
-   "realtime_wan": 80.444024,
-   "ratio": 4.44,
-   "days": 72,
-   "cum_wan": 238030.831698
-  },
-  {
-   "nm": "重生2",
-   "realtime_wan": 73.88754899999999,
-   "ratio": 4.08,
-   "days": 19,
-   "cum_wan": 6458.187594
+   "realtime_wan": 21.172826999999998,
+   "ratio": 10.24,
+   "days": 22,
+   "cum_wan": 35285.599989
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 31.61202,
-   "ratio": 1.75,
-   "days": 69,
-   "cum_wan": 77489.494963
+   "realtime_wan": 13.460913,
+   "ratio": 6.51,
+   "days": 70,
+   "cum_wan": 77502.965876
   },
   {
-   "nm": "鲸口脱险",
-   "realtime_wan": 25.556216,
-   "ratio": 1.41,
-   "days": 6,
-   "cum_wan": 525.423975
-  },
-  {
-   "nm": "三国第一部：争洛阳",
-   "realtime_wan": 24.831024,
-   "ratio": 1.37,
-   "days": 104,
-   "cum_wan": 9966.847468
-  },
-  {
-   "nm": "活色生香",
-   "realtime_wan": 23.307239000000003,
-   "ratio": 1.29,
-   "days": 21,
-   "cum_wan": 1627.278555
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 9.271598,
+   "ratio": 4.48,
+   "days": 73,
+   "cum_wan": 238040.153306
   },
   {
    "nm": "四渡",
-   "realtime_wan": 20.413536999999998,
-   "ratio": 1.13,
-   "days": 118,
-   "cum_wan": 29923.843780000003
+   "realtime_wan": 9.077796000000001,
+   "ratio": 4.39,
+   "days": 119,
+   "cum_wan": 29932.921576
+  },
+  {
+   "nm": "重生2",
+   "realtime_wan": 6.080426999999999,
+   "ratio": 2.94,
+   "days": 20,
+   "cum_wan": 6464.435523
+  },
+  {
+   "nm": "追光者",
+   "realtime_wan": 5.974112,
+   "ratio": 2.89,
+   "days": 30,
+   "cum_wan": 85.15395699999999
+  },
+  {
+   "nm": "愤怒的老虎",
+   "realtime_wan": 5.525,
+   "ratio": 2.67,
+   "days": 0,
+   "cum_wan": 5.525
+  },
+  {
+   "nm": "密档",
+   "realtime_wan": 5.0805169999999995,
+   "ratio": 2.46,
+   "days": 56,
+   "cum_wan": 2015.596079
   }
  ],
  "presale": [
