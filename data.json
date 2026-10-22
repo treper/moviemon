@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-22 16:00:02",
+ "generated_at": "2026-10-22 16:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 216.100915,
-   "ratio": 27.09,
+   "realtime_wan": 234.93887,
+   "ratio": 27.15,
    "days": 22,
-   "cum_wan": 58648.388620000005
+   "cum_wan": 58667.222835
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 191.806017,
-   "ratio": 24.04,
+   "realtime_wan": 211.952563,
+   "ratio": 24.5,
    "days": 18,
-   "cum_wan": 39467.629364
+   "cum_wan": 39487.75413
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 137.407772,
-   "ratio": 17.23,
+   "realtime_wan": 149.57681100000002,
+   "ratio": 17.29,
    "days": 22,
-   "cum_wan": 35404.456265
+   "cum_wan": 35416.602284
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 37.093725,
-   "ratio": 4.65,
+   "realtime_wan": 40.088021000000005,
+   "ratio": 4.63,
    "days": 73,
-   "cum_wan": 238068.47371199998
+   "cum_wan": 238071.468008
   },
   {
    "nm": "重生2",
-   "realtime_wan": 27.670115999999997,
+   "realtime_wan": 30.042648,
    "ratio": 3.47,
    "days": 20,
-   "cum_wan": 6486.313946
+   "cum_wan": 6488.689278
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 23.65458,
-   "ratio": 2.97,
+   "realtime_wan": 24.693644,
+   "ratio": 2.85,
    "days": 70,
-   "cum_wan": 77513.433693
+   "cum_wan": 77514.47275700001
   },
   {
    "nm": "四渡",
-   "realtime_wan": 17.473755999999998,
-   "ratio": 2.19,
+   "realtime_wan": 18.67126,
+   "ratio": 2.16,
    "days": 119,
-   "cum_wan": 29941.509122000003
+   "cum_wan": 29942.706626
   },
   {
    "nm": "活色生香",
-   "realtime_wan": 12.833833,
-   "ratio": 1.61,
+   "realtime_wan": 13.803538,
+   "ratio": 1.6,
    "days": 22,
-   "cum_wan": 1640.247825
-  },
-  {
-   "nm": "勇敢女孩合唱团",
-   "realtime_wan": 11.72176,
-   "ratio": 1.47,
-   "days": 3,
-   "cum_wan": 47.865223
+   "cum_wan": 1641.2175300000001
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 11.388217,
-   "ratio": 1.43,
+   "realtime_wan": 12.447395,
+   "ratio": 1.44,
    "days": 105,
-   "cum_wan": 9978.493596
+   "cum_wan": 9979.552774
+  },
+  {
+   "nm": "勇敢女孩合唱团",
+   "realtime_wan": 12.395638,
+   "ratio": 1.43,
+   "days": 3,
+   "cum_wan": 48.539101
   }
  ],
  "presale": [
