@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-22 23:30:02",
+ "generated_at": "2026-10-23 08:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 488.39869500000003,
-   "ratio": 28.51,
-   "days": 18,
-   "cum_wan": 39764.60204
+   "realtime_wan": 74.12038100000001,
+   "ratio": 21.66,
+   "days": 19,
+   "cum_wan": 39841.335344
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 474.58324000000005,
-   "ratio": 27.71,
-   "days": 22,
-   "cum_wan": 58907.153973
+   "realtime_wan": 67.980533,
+   "ratio": 19.87,
+   "days": 23,
+   "cum_wan": 58976.27277999999
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 295.95423999999997,
-   "ratio": 17.28,
-   "days": 22,
-   "cum_wan": 35563.307477999995
+   "realtime_wan": 33.728001,
+   "ratio": 9.86,
+   "days": 23,
+   "cum_wan": 35597.678195
   },
   {
-   "nm": "欢迎来龙餐馆",
-   "realtime_wan": 75.723272,
-   "ratio": 4.42,
-   "days": 73,
-   "cum_wan": 238107.11507399997
-  },
-  {
-   "nm": "重生2",
-   "realtime_wan": 67.526721,
-   "ratio": 3.94,
-   "days": 20,
-   "cum_wan": 6526.281706000001
+   "nm": "愤怒的老虎",
+   "realtime_wan": 23.803116,
+   "ratio": 6.96,
+   "days": 1,
+   "cum_wan": 30.532116
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 33.404457,
-   "ratio": 1.95,
-   "days": 70,
-   "cum_wan": 77523.19857000001
+   "realtime_wan": 17.142528,
+   "ratio": 5.01,
+   "days": 71,
+   "cum_wan": 77540.389923
+  },
+  {
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 15.787616,
+   "ratio": 4.61,
+   "days": 74,
+   "cum_wan": 238123.01195100002
+  },
+  {
+   "nm": "生日快乐",
+   "realtime_wan": 12.648382000000002,
+   "ratio": 3.7,
+   "days": 1,
+   "cum_wan": 61.971771
+  },
+  {
+   "nm": "象行记",
+   "realtime_wan": 10.862645,
+   "ratio": 3.17,
+   "days": 1,
+   "cum_wan": 17.225845
+  },
+  {
+   "nm": "三星堆：未来往事",
+   "realtime_wan": 7.149042,
+   "ratio": 2.09,
+   "days": 1,
+   "cum_wan": 7.149042
   },
   {
    "nm": "四渡",
-   "realtime_wan": 30.372627,
-   "ratio": 1.77,
-   "days": 119,
-   "cum_wan": 29954.407993
-  },
-  {
-   "nm": "鲸口脱险",
-   "realtime_wan": 21.560617999999998,
-   "ratio": 1.26,
-   "days": 7,
-   "cum_wan": 547.189585
-  },
-  {
-   "nm": "三国第一部：争洛阳",
-   "realtime_wan": 20.78859,
-   "ratio": 1.21,
-   "days": 105,
-   "cum_wan": 9987.892949
-  },
-  {
-   "nm": "活色生香",
-   "realtime_wan": 20.780212,
-   "ratio": 1.21,
-   "days": 22,
-   "cum_wan": 1648.217068
+   "realtime_wan": 6.85163,
+   "ratio": 2.0,
+   "days": 120,
+   "cum_wan": 29961.259623
   }
  ],
  "presale": [
