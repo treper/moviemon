@@ -1,54 +1,54 @@
 {
- "generated_at": "2026-10-23 23:00:02",
+ "generated_at": "2026-10-23 23:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 733.043986,
-   "ratio": 29.46,
+   "realtime_wan": 738.590549,
+   "ratio": 29.54,
    "days": 19,
-   "cum_wan": 40502.633104
+   "cum_wan": 40508.179667000004
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 674.392791,
-   "ratio": 27.1,
+   "realtime_wan": 676.342938,
+   "ratio": 27.05,
    "days": 23,
-   "cum_wan": 59585.909358000004
+   "cum_wan": 59587.85950499999
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 385.844227,
+   "realtime_wan": 387.586954,
    "ratio": 15.5,
    "days": 23,
-   "cum_wan": 35952.686852
+   "cum_wan": 35954.429579
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 101.631978,
-   "ratio": 4.08,
+   "realtime_wan": 101.8204,
+   "ratio": 4.07,
    "days": 74,
-   "cum_wan": 238209.43373400002
-  },
-  {
-   "nm": "重生2",
-   "realtime_wan": 65.018445,
-   "ratio": 2.61,
-   "days": 21,
-   "cum_wan": 6591.9138570000005
+   "cum_wan": 238209.622156
   },
   {
    "nm": "愤怒的老虎",
-   "realtime_wan": 64.858203,
+   "realtime_wan": 65.244821,
    "ratio": 2.61,
    "days": 1,
-   "cum_wan": 75.367202
+   "cum_wan": 75.75381999999999
+  },
+  {
+   "nm": "重生2",
+   "realtime_wan": 65.20624000000001,
+   "ratio": 2.61,
+   "days": 21,
+   "cum_wan": 6592.101652
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 43.580568,
-   "ratio": 1.75,
+   "realtime_wan": 43.590536,
+   "ratio": 1.74,
    "days": 71,
-   "cum_wan": 77567.061508
+   "cum_wan": 77567.071476
   },
   {
    "nm": "四渡",
@@ -59,17 +59,17 @@
   },
   {
    "nm": "生日快乐",
-   "realtime_wan": 33.075008000000004,
+   "realtime_wan": 33.174040000000005,
    "ratio": 1.33,
    "days": 1,
-   "cum_wan": 82.398397
+   "cum_wan": 82.497429
   },
   {
    "nm": "空枪",
-   "realtime_wan": 30.384288,
+   "realtime_wan": 30.42458,
    "ratio": 1.22,
    "days": 66,
-   "cum_wan": 66552.423697
+   "cum_wan": 66552.463989
   }
  ],
  "presale": [
