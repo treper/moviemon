@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-23 19:30:02",
+ "generated_at": "2026-10-23 20:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 506.55555499999997,
-   "ratio": 27.47,
+   "realtime_wan": 552.570035,
+   "ratio": 27.46,
    "days": 23,
-   "cum_wan": 59417.870396000006
+   "cum_wan": 59463.884876
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 495.682178,
-   "ratio": 26.88,
+   "realtime_wan": 552.03822,
+   "ratio": 27.43,
    "days": 19,
-   "cum_wan": 40264.975329
+   "cum_wan": 40321.331371
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 285.468523,
-   "ratio": 15.48,
+   "realtime_wan": 314.003275,
+   "ratio": 15.6,
    "days": 23,
-   "cum_wan": 35851.761187000004
+   "cum_wan": 35880.295938999996
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 81.12101,
-   "ratio": 4.4,
+   "realtime_wan": 87.977675,
+   "ratio": 4.37,
    "days": 74,
-   "cum_wan": 238188.90576599998
+   "cum_wan": 238195.76243099998
   },
   {
    "nm": "愤怒的老虎",
-   "realtime_wan": 47.576648,
-   "ratio": 2.58,
+   "realtime_wan": 51.486596999999996,
+   "ratio": 2.56,
    "days": 1,
-   "cum_wan": 58.085646999999994
+   "cum_wan": 61.995596
   },
   {
    "nm": "重生2",
-   "realtime_wan": 42.755415,
-   "ratio": 2.32,
+   "realtime_wan": 47.872252,
+   "ratio": 2.38,
    "days": 21,
-   "cum_wan": 6569.488345000001
+   "cum_wan": 6574.605182
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 38.274394,
-   "ratio": 2.08,
+   "realtime_wan": 39.571806,
+   "ratio": 1.97,
    "days": 71,
-   "cum_wan": 77561.73863400001
+   "cum_wan": 77563.03604600001
   },
   {
    "nm": "四渡",
-   "realtime_wan": 32.165237,
-   "ratio": 1.74,
+   "realtime_wan": 34.026237,
+   "ratio": 1.69,
    "days": 120,
-   "cum_wan": 29986.843675
+   "cum_wan": 29988.704675
   },
   {
    "nm": "生日快乐",
-   "realtime_wan": 26.87831,
-   "ratio": 1.46,
+   "realtime_wan": 28.868437,
+   "ratio": 1.43,
    "days": 1,
-   "cum_wan": 76.201699
+   "cum_wan": 78.191826
   },
   {
-   "nm": "三国第一部：争洛阳",
-   "realtime_wan": 24.036629,
-   "ratio": 1.3,
-   "days": 106,
-   "cum_wan": 10012.124323
+   "nm": "八仙！",
+   "realtime_wan": 25.944048000000002,
+   "ratio": 1.29,
+   "days": 98,
+   "cum_wan": 205365.625154
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1418966,
    "nm": "落凡尘",
    "rt": "2026-10-24",
-   "wish": 62403,
-   "wish_delta_1d": 257,
+   "wish": 62610,
+   "wish_delta_1d": 352,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 246966,
    "nm": "疾速追杀",
    "rt": "2026-10-30",
-   "wish": 43341,
-   "wish_delta_1d": 805,
+   "wish": 43729,
+   "wish_delta_1d": 773,
    "on_sale": true,
    "pooled": true
   },
@@ -113,8 +113,8 @@
    "id": 1529836,
    "nm": "床下有人5",
    "rt": "2026-10-30",
-   "wish": 14715,
-   "wish_delta_1d": 59,
+   "wish": 14779,
+   "wish_delta_1d": 103,
    "on_sale": false,
    "pooled": false
   },
@@ -149,8 +149,8 @@
    "id": 1608027,
    "nm": "小羊肖恩3：怪兽来袭",
    "rt": "2026-10-24",
-   "wish": 6335,
-   "wish_delta_1d": 259,
+   "wish": 6535,
+   "wish_delta_1d": 334,
    "on_sale": true,
    "pooled": true
   },
@@ -158,7 +158,7 @@
    "id": 1599810,
    "nm": "阴阳路惊魂",
    "rt": "2026-10-30",
-   "wish": 4084,
+   "wish": 4128,
    "wish_delta_1d": null,
    "on_sale": false,
    "pooled": false
@@ -258,8 +258,8 @@
    "nm": "落凡尘",
    "rt": "2026-10-24",
    "status": "WATCHING",
-   "wish": 62403,
-   "wish_delta_1d": 257,
+   "wish": 62610,
+   "wish_delta_1d": 352,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -269,8 +269,8 @@
    "nm": "小羊肖恩3：怪兽来袭",
    "rt": "2026-10-24",
    "status": "WATCHING",
-   "wish": 6335,
-   "wish_delta_1d": 259,
+   "wish": 6535,
+   "wish_delta_1d": 334,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -280,14 +280,54 @@
    "nm": "疾速追杀",
    "rt": "2026-10-30",
    "status": "WATCHING",
-   "wish": 43341,
-   "wish_delta_1d": 805,
+   "wish": 43729,
+   "wish_delta_1d": 773,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
   }
  ],
  "events": [
+  {
+   "ts": "2026-10-23 20:00:10",
+   "etype": "E4",
+   "movie_name": "愤怒的老虎",
+   "symbol": null,
+   "title": "📊 首日战报:愤怒的老虎",
+   "body": "《愤怒的老虎》上映首日:实时票房 0.01 亿,累计 0.01 亿(目标 3.0 亿),票房占比 2.56%,评分未出。"
+  },
+  {
+   "ts": "2026-10-23 20:00:10",
+   "etype": "E6",
+   "movie_name": "愤怒的老虎",
+   "symbol": null,
+   "title": "⚠️ 票房不及预期:愤怒的老虎",
+   "body": "《愤怒的老虎》首日累计 0.01 亿,低于目标的 60%,注意相关股回调风险。"
+  },
+  {
+   "ts": "2026-10-23 20:00:10",
+   "etype": "E4",
+   "movie_name": "象行记",
+   "symbol": null,
+   "title": "📊 首日战报:象行记",
+   "body": "《象行记》上映首日:实时票房 0.00 亿,累计 0.00 亿(目标 3.0 亿),票房占比 0.93%,评分未出。"
+  },
+  {
+   "ts": "2026-10-23 20:00:10",
+   "etype": "E6",
+   "movie_name": "象行记",
+   "symbol": null,
+   "title": "⚠️ 票房不及预期:象行记",
+   "body": "《象行记》首日累计 0.00 亿,低于目标的 60%,注意相关股回调风险。"
+  },
+  {
+   "ts": "2026-10-23 20:00:10",
+   "etype": "E4",
+   "movie_name": "三星堆：未来往事",
+   "symbol": null,
+   "title": "📊 首日战报:三星堆：未来往事",
+   "body": "《三星堆：未来往事》上映首日:实时票房 0.00 亿,累计 0.00 亿(目标 3.0 亿),票房占比 1.23%,评分未出。"
+  },
   {
    "ts": "2026-10-20 12:00:03",
    "etype": "E2",
