@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-23 09:30:02",
+ "generated_at": "2026-10-23 10:00:03",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 78.09523,
-   "ratio": 21.45,
+   "realtime_wan": 81.155917,
+   "ratio": 21.33,
    "days": 19,
-   "cum_wan": 39845.310193
+   "cum_wan": 39831.892746
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 73.30106500000001,
-   "ratio": 20.13,
+   "realtime_wan": 76.798388,
+   "ratio": 20.18,
    "days": 23,
-   "cum_wan": 58981.593312
+   "cum_wan": 58972.770848
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 37.692533000000005,
-   "ratio": 10.35,
+   "realtime_wan": 40.149778000000005,
+   "ratio": 10.55,
    "days": 23,
-   "cum_wan": 35601.642727
+   "cum_wan": 35595.435805
   },
   {
    "nm": "愤怒的老虎",
-   "realtime_wan": 24.100454,
-   "ratio": 6.62,
+   "realtime_wan": 24.219537,
+   "ratio": 6.36,
    "days": 1,
-   "cum_wan": 30.829454
+   "cum_wan": 35.483559
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 17.974255,
-   "ratio": 4.94,
+   "realtime_wan": 18.310835,
+   "ratio": 4.81,
    "days": 71,
-   "cum_wan": 77541.22165
+   "cum_wan": 77540.821235
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 17.164216,
-   "ratio": 4.71,
+   "realtime_wan": 17.956684,
+   "ratio": 4.72,
    "days": 74,
-   "cum_wan": 238124.388551
+   "cum_wan": 238121.091117
   },
   {
    "nm": "生日快乐",
-   "realtime_wan": 13.024747,
-   "ratio": 3.58,
+   "realtime_wan": 13.183537,
+   "ratio": 3.46,
    "days": 1,
-   "cum_wan": 62.348136
+   "cum_wan": 62.506926
   },
   {
    "nm": "象行记",
-   "realtime_wan": 11.174694,
-   "ratio": 3.07,
+   "realtime_wan": 11.394226,
+   "ratio": 2.99,
    "days": 1,
-   "cum_wan": 17.537894
-  },
-  {
-   "nm": "三星堆：未来往事",
-   "realtime_wan": 7.483822,
-   "ratio": 2.06,
-   "days": 1,
-   "cum_wan": 7.483822
+   "cum_wan": 17.757426000000002
   },
   {
    "nm": "四渡",
-   "realtime_wan": 7.481561,
-   "ratio": 2.05,
+   "realtime_wan": 8.299482000000001,
+   "ratio": 2.18,
    "days": 120,
-   "cum_wan": 29961.889554
+   "cum_wan": 29964.516607999998
+  },
+  {
+   "nm": "三星堆：未来往事",
+   "realtime_wan": 7.535858,
+   "ratio": 1.98,
+   "days": 1,
+   "cum_wan": 9.399445
   }
  ],
  "presale": [
