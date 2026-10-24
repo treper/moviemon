@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-23 23:30:02",
+ "generated_at": "2026-10-24 08:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 738.590549,
-   "ratio": 29.54,
-   "days": 19,
-   "cum_wan": 40508.179667000004
+   "realtime_wan": 222.525414,
+   "ratio": 25.61,
+   "days": 20,
+   "cum_wan": 40735.710604
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 676.342938,
-   "ratio": 27.05,
-   "days": 23,
-   "cum_wan": 59587.85950499999
+   "realtime_wan": 151.033514,
+   "ratio": 17.38,
+   "days": 24,
+   "cum_wan": 59740.32836
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 387.586954,
-   "ratio": 15.5,
-   "days": 23,
-   "cum_wan": 35954.429579
+   "realtime_wan": 70.01777,
+   "ratio": 8.06,
+   "days": 24,
+   "cum_wan": 36025.496989
   },
   {
-   "nm": "欢迎来龙餐馆",
-   "realtime_wan": 101.8204,
-   "ratio": 4.07,
-   "days": 74,
-   "cum_wan": 238209.622156
-  },
-  {
-   "nm": "愤怒的老虎",
-   "realtime_wan": 65.244821,
-   "ratio": 2.61,
-   "days": 1,
-   "cum_wan": 75.75381999999999
-  },
-  {
-   "nm": "重生2",
-   "realtime_wan": 65.20624000000001,
-   "ratio": 2.61,
-   "days": 21,
-   "cum_wan": 6592.101652
+   "nm": "八仙！",
+   "realtime_wan": 66.92688100000001,
+   "ratio": 7.7,
+   "days": 99,
+   "cum_wan": 205434.344681
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 43.590536,
-   "ratio": 1.74,
-   "days": 71,
-   "cum_wan": 77567.071476
+   "realtime_wan": 43.661634,
+   "ratio": 5.02,
+   "days": 72,
+   "cum_wan": 77610.782811
   },
   {
-   "nm": "四渡",
-   "realtime_wan": 41.381431,
-   "ratio": 1.66,
-   "days": 120,
-   "cum_wan": 29996.059869
-  },
-  {
-   "nm": "生日快乐",
-   "realtime_wan": 33.174040000000005,
-   "ratio": 1.33,
+   "nm": "小羊肖恩3：怪兽来袭",
+   "realtime_wan": 41.467743,
+   "ratio": 4.77,
    "days": 1,
-   "cum_wan": 82.497429
+   "cum_wan": 45.102761
   },
   {
-   "nm": "空枪",
-   "realtime_wan": 30.42458,
-   "ratio": 1.22,
-   "days": 66,
-   "cum_wan": 66552.463989
+   "nm": "愤怒的老虎",
+   "realtime_wan": 41.198032,
+   "ratio": 4.74,
+   "days": 2,
+   "cum_wan": 117.17908899999999
+  },
+  {
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 39.589451000000004,
+   "ratio": 4.56,
+   "days": 75,
+   "cum_wan": 238249.350529
+  },
+  {
+   "nm": "小猪佩奇·完美假期",
+   "realtime_wan": 25.050657,
+   "ratio": 2.88,
+   "days": 24,
+   "cum_wan": 7152.756520999999
+  },
+  {
+   "nm": "三国第一部：争洛阳",
+   "realtime_wan": 21.652976000000002,
+   "ratio": 2.49,
+   "days": 107,
+   "cum_wan": 10037.23231
   }
  ],
  "presale": [
