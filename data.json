@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-24 20:00:02",
+ "generated_at": "2026-10-24 20:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 1492.127316,
-   "ratio": 30.44,
+   "realtime_wan": 1582.279013,
+   "ratio": 30.9,
    "days": 20,
-   "cum_wan": 42008.23803
+   "cum_wan": 42098.389727
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 1218.576995,
-   "ratio": 24.86,
+   "realtime_wan": 1277.519014,
+   "ratio": 24.95,
    "days": 24,
-   "cum_wan": 60810.205427999994
+   "cum_wan": 60869.147447
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 647.841901,
-   "ratio": 13.21,
+   "realtime_wan": 678.274002,
+   "ratio": 13.25,
    "days": 24,
-   "cum_wan": 36604.888261
+   "cum_wan": 36635.320362
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 223.167741,
-   "ratio": 4.55,
+   "realtime_wan": 232.63819300000003,
+   "ratio": 4.54,
    "days": 75,
-   "cum_wan": 238433.543202
+   "cum_wan": 238443.013654
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 198.746948,
-   "ratio": 4.05,
+   "realtime_wan": 200.224074,
+   "ratio": 3.91,
    "days": 1,
-   "cum_wan": 202.385266
+   "cum_wan": 203.862392
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 189.99204,
-   "ratio": 3.88,
+   "realtime_wan": 192.48505600000001,
+   "ratio": 3.76,
    "days": 99,
-   "cum_wan": 205557.863854
+   "cum_wan": 205560.35687000002
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 131.905497,
-   "ratio": 2.69,
+   "realtime_wan": 132.281738,
+   "ratio": 2.58,
    "days": 24,
-   "cum_wan": 7259.677501
-  },
-  {
-   "nm": "三国第一部：争洛阳",
-   "realtime_wan": 96.605432,
-   "ratio": 1.97,
-   "days": 107,
-   "cum_wan": 10112.332001
+   "cum_wan": 7260.053742
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 96.575575,
-   "ratio": 1.97,
+   "realtime_wan": 98.535495,
+   "ratio": 1.92,
    "days": 72,
-   "cum_wan": 77664.056882
+   "cum_wan": 77666.016802
+  },
+  {
+   "nm": "三国第一部：争洛阳",
+   "realtime_wan": 98.179736,
+   "ratio": 1.92,
+   "days": 107,
+   "cum_wan": 10113.906305
   },
   {
    "nm": "愤怒的老虎",
-   "realtime_wan": 94.234072,
-   "ratio": 1.92,
+   "realtime_wan": 96.878249,
+   "ratio": 1.89,
    "days": 2,
-   "cum_wan": 170.341035
+   "cum_wan": 172.98521200000002
   }
  ],
  "presale": [
