@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-24 10:30:02",
+ "generated_at": "2026-10-24 11:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 255.899256,
-   "ratio": 24.77,
+   "realtime_wan": 278.942959,
+   "ratio": 24.76,
    "days": 20,
-   "cum_wan": 40746.773112
+   "cum_wan": 40769.816815
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 181.90963100000002,
-   "ratio": 17.61,
+   "realtime_wan": 199.876465,
+   "ratio": 17.74,
    "days": 24,
-   "cum_wan": 59755.873114999995
+   "cum_wan": 59773.846469000004
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 87.689833,
-   "ratio": 8.49,
+   "realtime_wan": 99.34163199999999,
+   "ratio": 8.82,
    "days": 24,
-   "cum_wan": 36033.032449
+   "cum_wan": 36044.684248000005
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 83.27634599999999,
-   "ratio": 8.06,
+   "realtime_wan": 91.182276,
+   "ratio": 8.09,
    "days": 99,
-   "cum_wan": 205450.149358
+   "cum_wan": 205458.055288
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 54.359712,
-   "ratio": 5.26,
+   "realtime_wan": 59.888467000000006,
+   "ratio": 5.32,
    "days": 1,
-   "cum_wan": 57.997991000000006
-  },
-  {
-   "nm": "奥德赛",
-   "realtime_wan": 46.868711,
-   "ratio": 4.54,
-   "days": 72,
-   "cum_wan": 77612.97210700001
+   "cum_wan": 63.526745999999996
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 46.090416999999995,
-   "ratio": 4.46,
+   "realtime_wan": 49.966406,
+   "ratio": 4.44,
    "days": 75,
-   "cum_wan": 238251.80880199999
+   "cum_wan": 238255.68479099998
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 49.323151,
+   "ratio": 4.38,
+   "days": 72,
+   "cum_wan": 77615.42654700001
   },
   {
    "nm": "愤怒的老虎",
-   "realtime_wan": 44.121016999999995,
-   "ratio": 4.27,
+   "realtime_wan": 46.46267,
+   "ratio": 4.12,
    "days": 2,
-   "cum_wan": 114.536652
+   "cum_wan": 116.87830500000001
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 38.234466,
-   "ratio": 3.7,
+   "realtime_wan": 43.895439,
+   "ratio": 3.9,
    "days": 24,
-   "cum_wan": 7165.4738370000005
+   "cum_wan": 7171.13481
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 26.601190999999996,
-   "ratio": 2.57,
+   "realtime_wan": 28.80695,
+   "ratio": 2.56,
    "days": 107,
-   "cum_wan": 10041.944813
+   "cum_wan": 10044.150572
   }
  ],
  "presale": [
