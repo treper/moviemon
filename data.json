@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-24 13:30:02",
+ "generated_at": "2026-10-24 14:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 508.29020599999996,
-   "ratio": 26.55,
+   "realtime_wan": 582.563044,
+   "ratio": 27.13,
    "days": 20,
-   "cum_wan": 40999.163062
+   "cum_wan": 41073.4359
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 391.39588399999997,
-   "ratio": 20.45,
+   "realtime_wan": 453.86191900000006,
+   "ratio": 21.14,
    "days": 24,
-   "cum_wan": 59965.339228
+   "cum_wan": 60027.805263
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 206.093597,
-   "ratio": 10.77,
+   "realtime_wan": 238.96496000000002,
+   "ratio": 11.13,
    "days": 24,
-   "cum_wan": 36151.399909
+   "cum_wan": 36184.271272000005
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 122.415481,
-   "ratio": 6.4,
+   "realtime_wan": 130.05270900000002,
+   "ratio": 6.06,
    "days": 99,
-   "cum_wan": 205489.288493
+   "cum_wan": 205496.925721
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 102.26966999999999,
-   "ratio": 5.34,
+   "realtime_wan": 111.705727,
+   "ratio": 5.2,
    "days": 1,
-   "cum_wan": 105.907949
+   "cum_wan": 115.34400600000001
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 85.57994599999999,
-   "ratio": 4.47,
+   "realtime_wan": 95.526737,
+   "ratio": 4.45,
    "days": 75,
-   "cum_wan": 238291.298331
+   "cum_wan": 238301.245122
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 76.133875,
-   "ratio": 3.98,
+   "realtime_wan": 82.795373,
+   "ratio": 3.86,
    "days": 24,
-   "cum_wan": 7203.373245999999
+   "cum_wan": 7210.034744
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 61.737173,
-   "ratio": 3.23,
+   "realtime_wan": 64.43038,
+   "ratio": 3.0,
    "days": 72,
-   "cum_wan": 77627.840569
+   "cum_wan": 77630.533776
   },
   {
    "nm": "愤怒的老虎",
-   "realtime_wan": 58.884088,
-   "ratio": 3.08,
+   "realtime_wan": 61.230261,
+   "ratio": 2.85,
    "days": 2,
-   "cum_wan": 129.299723
+   "cum_wan": 131.645896
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 46.351925,
-   "ratio": 2.42,
+   "realtime_wan": 50.974558,
+   "ratio": 2.37,
    "days": 107,
-   "cum_wan": 10061.695547
+   "cum_wan": 10066.31818
   }
  ],
  "presale": [
