@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-25 14:30:02",
+ "generated_at": "2026-10-25 16:30:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 531.3532309999999,
-   "ratio": 25.86,
+   "realtime_wan": 776.688081,
+   "ratio": 27.29,
    "days": 21,
-   "cum_wan": 42848.896777999995
+   "cum_wan": 43094.190257999995
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 452.808491,
-   "ratio": 22.04,
+   "realtime_wan": 663.893154,
+   "ratio": 23.32,
    "days": 25,
-   "cum_wan": 61466.867376
+   "cum_wan": 61677.917219
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 261.254145,
-   "ratio": 12.72,
+   "realtime_wan": 384.484804,
+   "ratio": 13.51,
    "days": 25,
-   "cum_wan": 36975.499172
+   "cum_wan": 37098.741771
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 105.99543100000001,
-   "ratio": 5.16,
+   "realtime_wan": 143.77109,
+   "ratio": 5.05,
    "days": 76,
-   "cum_wan": 238568.56387399998
+   "cum_wan": 238606.339533
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 105.139271,
-   "ratio": 5.12,
+   "realtime_wan": 127.95363799999998,
+   "ratio": 4.5,
    "days": 25,
-   "cum_wan": 7367.680385
-  },
-  {
-   "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 98.045812,
-   "ratio": 4.77,
-   "days": 2,
-   "cum_wan": 305.82545899999997
+   "cum_wan": 7390.494752
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 96.112575,
-   "ratio": 4.68,
+   "realtime_wan": 125.999898,
+   "ratio": 4.43,
    "days": 100,
-   "cum_wan": 205664.64063699997
+   "cum_wan": 205694.53636
+  },
+  {
+   "nm": "小羊肖恩3：怪兽来袭",
+   "realtime_wan": 123.06065,
+   "ratio": 4.32,
+   "days": 2,
+   "cum_wan": 330.829337
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 62.985303,
-   "ratio": 3.07,
+   "realtime_wan": 72.845884,
+   "ratio": 2.56,
    "days": 73,
-   "cum_wan": 77733.865202
+   "cum_wan": 77743.725783
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 56.59061,
-   "ratio": 2.75,
+   "realtime_wan": 72.577866,
+   "ratio": 2.55,
    "days": 108,
-   "cum_wan": 10174.656931
+   "cum_wan": 10190.623587
   },
   {
    "nm": "落凡尘",
-   "realtime_wan": 41.260099,
-   "ratio": 2.01,
+   "realtime_wan": 51.564603000000005,
+   "ratio": 1.81,
    "days": 836,
-   "cum_wan": 3920.881475
+   "cum_wan": 3931.185979
   }
  ],
  "presale": [
