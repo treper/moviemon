@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-25 11:30:02",
+ "generated_at": "2026-10-25 12:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 215.16112400000003,
-   "ratio": 23.1,
+   "realtime_wan": 236.218638,
+   "ratio": 23.25,
    "days": 21,
-   "cum_wan": 42474.303098000004
+   "cum_wan": 42495.360612000004
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 167.924295,
-   "ratio": 18.03,
+   "realtime_wan": 186.023087,
+   "ratio": 18.31,
    "days": 25,
-   "cum_wan": 61133.669979
+   "cum_wan": 61151.768771
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 94.98092700000001,
-   "ratio": 10.2,
+   "realtime_wan": 107.62615600000001,
+   "ratio": 10.59,
    "days": 25,
-   "cum_wan": 36783.63773
+   "cum_wan": 36796.282959
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 55.168356,
-   "ratio": 5.92,
+   "realtime_wan": 60.898571,
+   "ratio": 5.99,
    "days": 25,
-   "cum_wan": 7313.289954000001
+   "cum_wan": 7319.020168999999
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 49.929193,
-   "ratio": 5.36,
+   "realtime_wan": 54.549567,
+   "ratio": 5.37,
    "days": 2,
-   "cum_wan": 252.132861
+   "cum_wan": 256.753235
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 49.431008,
-   "ratio": 5.31,
+   "realtime_wan": 53.774747,
+   "ratio": 5.29,
    "days": 76,
-   "cum_wan": 238497.13096500002
+   "cum_wan": 238501.474704
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 45.243912,
-   "ratio": 4.86,
+   "realtime_wan": 48.892874,
+   "ratio": 4.81,
    "days": 100,
-   "cum_wan": 205611.21059
+   "cum_wan": 205614.859552
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 44.602664000000004,
-   "ratio": 4.79,
+   "realtime_wan": 45.90939,
+   "ratio": 4.52,
    "days": 73,
-   "cum_wan": 77712.397974
+   "cum_wan": 77713.7047
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 31.158869,
-   "ratio": 3.35,
+   "realtime_wan": 33.484469,
+   "ratio": 3.3,
    "days": 108,
-   "cum_wan": 10147.468106
+   "cum_wan": 10149.793706
   },
   {
    "nm": "落凡尘",
-   "realtime_wan": 22.891695000000002,
-   "ratio": 2.46,
+   "realtime_wan": 25.217886,
+   "ratio": 2.48,
    "days": 836,
-   "cum_wan": 3900.336064
+   "cum_wan": 3902.6622549999997
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 246966,
    "nm": "疾速追杀",
    "rt": "2026-10-30",
-   "wish": 44906,
-   "wish_delta_1d": 758,
+   "wish": 45054,
+   "wish_delta_1d": 906,
    "on_sale": true,
    "pooled": true
   },
@@ -104,8 +104,8 @@
    "id": 1529836,
    "nm": "床下有人5",
    "rt": "2026-10-30",
-   "wish": 14971,
-   "wish_delta_1d": 138,
+   "wish": 14994,
+   "wish_delta_1d": 161,
    "on_sale": false,
    "pooled": false
   },
@@ -113,8 +113,8 @@
    "id": 1500853,
    "nm": "白衣逆行者",
    "rt": "2026-11-06",
-   "wish": 14340,
-   "wish_delta_1d": 550,
+   "wish": 14429,
+   "wish_delta_1d": 639,
    "on_sale": false,
    "pooled": true
   },
@@ -131,8 +131,8 @@
    "id": 1543699,
    "nm": "酒店404惊魂",
    "rt": "2026-11-06",
-   "wish": 9850,
-   "wish_delta_1d": 10,
+   "wish": 9852,
+   "wish_delta_1d": 12,
    "on_sale": false,
    "pooled": false
   },
@@ -149,8 +149,8 @@
    "id": 1599810,
    "nm": "阴阳路惊魂",
    "rt": "2026-10-30",
-   "wish": 4262,
-   "wish_delta_1d": 99,
+   "wish": 4273,
+   "wish_delta_1d": 110,
    "on_sale": true,
    "pooled": false
   },
@@ -158,8 +158,8 @@
    "id": 298609,
    "nm": "笑傲江湖2：东方不败",
    "rt": "2026-10-30",
-   "wish": 4178,
-   "wish_delta_1d": 459,
+   "wish": 4235,
+   "wish_delta_1d": 516,
    "on_sale": true,
    "pooled": true
   }
@@ -269,8 +269,8 @@
    "nm": "疾速追杀",
    "rt": "2026-10-30",
    "status": "WATCHING",
-   "wish": 44906,
-   "wish_delta_1d": 758,
+   "wish": 45054,
+   "wish_delta_1d": 906,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -280,8 +280,8 @@
    "nm": "笑傲江湖2：东方不败",
    "rt": "2026-10-30",
    "status": "WATCHING",
-   "wish": 4178,
-   "wish_delta_1d": 459,
+   "wish": 4235,
+   "wish_delta_1d": 516,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "民宿惊魂",
    "rt": "2026-10-31",
    "status": "WATCHING",
-   "wish": 3735,
-   "wish_delta_1d": 777,
+   "wish": 3829,
+   "wish_delta_1d": 871,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +302,8 @@
    "nm": "白衣逆行者",
    "rt": "2026-11-06",
    "status": "WATCHING",
-   "wish": 14340,
-   "wish_delta_1d": 550,
+   "wish": 14429,
+   "wish_delta_1d": 639,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
