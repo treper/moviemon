@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-25 17:00:02",
+ "generated_at": "2026-10-25 18:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 814.992181,
-   "ratio": 27.32,
+   "realtime_wan": 893.928526,
+   "ratio": 27.47,
    "days": 21,
-   "cum_wan": 43132.494357999996
+   "cum_wan": 43211.430703
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 702.1606009999999,
-   "ratio": 23.54,
+   "realtime_wan": 778.8186519999999,
+   "ratio": 23.94,
    "days": 25,
-   "cum_wan": 61716.184665999994
+   "cum_wan": 61792.84271699999
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 404.45622099999997,
-   "ratio": 13.56,
+   "realtime_wan": 446.497076,
+   "ratio": 13.72,
    "days": 25,
-   "cum_wan": 37118.713188
+   "cum_wan": 37160.754043
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 150.462421,
-   "ratio": 5.04,
+   "realtime_wan": 162.505846,
+   "ratio": 4.99,
    "days": 76,
-   "cum_wan": 238613.030864
-  },
-  {
-   "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 131.963026,
-   "ratio": 4.42,
-   "days": 25,
-   "cum_wan": 7394.504140000001
+   "cum_wan": 238625.07428899998
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 131.12358600000002,
-   "ratio": 4.4,
+   "realtime_wan": 139.347387,
+   "ratio": 4.28,
    "days": 100,
-   "cum_wan": 205699.660048
+   "cum_wan": 205707.883849
+  },
+  {
+   "nm": "小猪佩奇·完美假期",
+   "realtime_wan": 138.266327,
+   "ratio": 4.25,
+   "days": 25,
+   "cum_wan": 7400.807441
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 127.25690800000001,
-   "ratio": 4.27,
+   "realtime_wan": 134.24451100000002,
+   "ratio": 4.13,
    "days": 2,
-   "cum_wan": 335.025595
+   "cum_wan": 342.013198
   },
   {
    "nm": "三国第一部：争洛阳",
-   "realtime_wan": 75.498486,
-   "ratio": 2.53,
+   "realtime_wan": 80.12069100000001,
+   "ratio": 2.46,
    "days": 108,
-   "cum_wan": 10193.544206999999
+   "cum_wan": 10198.166412
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 75.014111,
-   "ratio": 2.52,
+   "realtime_wan": 78.37031800000001,
+   "ratio": 2.41,
    "days": 73,
-   "cum_wan": 77745.89401
+   "cum_wan": 77749.250217
   },
   {
-   "nm": "落凡尘",
-   "realtime_wan": 53.513959,
-   "ratio": 1.79,
-   "days": 836,
-   "cum_wan": 3933.135335
+   "nm": "重生2",
+   "realtime_wan": 60.32911800000001,
+   "ratio": 1.85,
+   "days": 23,
+   "cum_wan": 6748.998766
   }
  ],
  "presale": [
