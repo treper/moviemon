@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-25 23:30:02",
+ "generated_at": "2026-10-26 08:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 1204.833372,
-   "ratio": 28.82,
-   "days": 21,
-   "cum_wan": 43523.693763
+   "realtime_wan": 24.011134,
+   "ratio": 19.39,
+   "days": 22,
+   "cum_wan": 43550.938585
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 1043.504867,
-   "ratio": 24.96,
-   "days": 25,
-   "cum_wan": 62059.018848
+   "realtime_wan": 23.215785999999998,
+   "ratio": 18.74,
+   "days": 26,
+   "cum_wan": 62083.165849000005
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 597.7239099999999,
-   "ratio": 14.3,
-   "days": 25,
-   "cum_wan": 37314.872232
+   "realtime_wan": 13.835889000000002,
+   "ratio": 11.17,
+   "days": 26,
+   "cum_wan": 37329.430799
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 204.2017,
-   "ratio": 4.88,
-   "days": 76,
-   "cum_wan": 238667.02502399997
-  },
-  {
-   "nm": "八仙！",
-   "realtime_wan": 155.17457199999998,
-   "ratio": 3.71,
-   "days": 100,
-   "cum_wan": 205724.05743
-  },
-  {
-   "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 144.095968,
-   "ratio": 3.45,
-   "days": 25,
-   "cum_wan": 7407.007157999999
-  },
-  {
-   "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 143.540106,
-   "ratio": 3.43,
-   "days": 2,
-   "cum_wan": 351.30879300000004
-  },
-  {
-   "nm": "重生2",
-   "realtime_wan": 90.186852,
-   "ratio": 2.16,
-   "days": 23,
-   "cum_wan": 6779.077259999999
+   "realtime_wan": 7.276451,
+   "ratio": 5.88,
+   "days": 77,
+   "cum_wan": 238674.41985500001
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 89.973011,
-   "ratio": 2.15,
-   "days": 73,
-   "cum_wan": 77760.85291
+   "realtime_wan": 6.9306149999999995,
+   "ratio": 5.6,
+   "days": 74,
+   "cum_wan": 77767.783525
   },
   {
-   "nm": "三国第一部：争洛阳",
-   "realtime_wan": 88.476417,
-   "ratio": 2.12,
-   "days": 108,
-   "cum_wan": 10206.832932
+   "nm": "生日快乐",
+   "realtime_wan": 6.413416000000001,
+   "ratio": 5.18,
+   "days": 4,
+   "cum_wan": 169.60273
+  },
+  {
+   "nm": "正义必胜",
+   "realtime_wan": 4.84,
+   "ratio": 3.91,
+   "days": 54,
+   "cum_wan": 68.36338
+  },
+  {
+   "nm": "勇敢女孩合唱团",
+   "realtime_wan": 3.39285,
+   "ratio": 2.74,
+   "days": 7,
+   "cum_wan": 113.066947
+  },
+  {
+   "nm": "重生2",
+   "realtime_wan": 3.265834,
+   "ratio": 2.64,
+   "days": 24,
+   "cum_wan": 6782.451951999999
+  },
+  {
+   "nm": "密档",
+   "realtime_wan": 3.2219130000000002,
+   "ratio": 2.6,
+   "days": 60,
+   "cum_wan": 2046.027911
   }
  ],
  "presale": [
