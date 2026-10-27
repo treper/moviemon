@@ -1,6 +1,77 @@
 {
- "generated_at": "2026-10-26 23:30:02",
- "realtime": [],
+ "generated_at": "2026-10-27 08:00:02",
+ "realtime": [
+  {
+   "nm": "生化危机：爆发夜",
+   "realtime_wan": 29.067969,
+   "ratio": 18.67,
+   "days": 23,
+   "cum_wan": 43960.654257999995
+  },
+  {
+   "nm": "神探之痕迹",
+   "realtime_wan": 27.907121999999998,
+   "ratio": 17.93,
+   "days": 27,
+   "cum_wan": 62479.05512999999
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 18.52055,
+   "ratio": 11.9,
+   "days": 75,
+   "cum_wan": 77807.080905
+  },
+  {
+   "nm": "什么意思夫妇",
+   "realtime_wan": 16.658698,
+   "ratio": 10.7,
+   "days": 27,
+   "cum_wan": 37583.215673
+  },
+  {
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 8.331375999999999,
+   "ratio": 5.35,
+   "days": 78,
+   "cum_wan": 238751.177763
+  },
+  {
+   "nm": "密档",
+   "realtime_wan": 4.670879,
+   "ratio": 3.0,
+   "days": 61,
+   "cum_wan": 2054.024945
+  },
+  {
+   "nm": "重生2",
+   "realtime_wan": 4.424834,
+   "ratio": 2.84,
+   "days": 25,
+   "cum_wan": 6834.366051999999
+  },
+  {
+   "nm": "正义必胜",
+   "realtime_wan": 4.399,
+   "ratio": 2.83,
+   "days": 55,
+   "cum_wan": 72.865381
+  },
+  {
+   "nm": "四渡",
+   "realtime_wan": 4.164099,
+   "ratio": 2.68,
+   "days": 124,
+   "cum_wan": 30046.269918
+  },
+  {
+   "nm": "生日快乐",
+   "realtime_wan": 3.848104,
+   "ratio": 2.47,
+   "days": 5,
+   "cum_wan": 188.623802
+  }
+ ],
  "presale": [
   {
    "id": 246966,
