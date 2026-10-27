@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-27 11:30:03",
+ "generated_at": "2026-10-27 12:00:03",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 47.159819,
-   "ratio": 20.34,
+   "realtime_wan": 53.461564,
+   "ratio": 20.95,
    "days": 27,
-   "cum_wan": 62486.381912
+   "cum_wan": 62492.68365700001
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 45.886072999999996,
-   "ratio": 19.79,
+   "realtime_wan": 51.294872999999995,
+   "ratio": 20.1,
    "days": 23,
-   "cum_wan": 43964.693869999996
+   "cum_wan": 43970.10267
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 31.90275,
-   "ratio": 13.76,
+   "realtime_wan": 36.287385,
+   "ratio": 14.22,
    "days": 27,
-   "cum_wan": 37590.063316
+   "cum_wan": 37594.447951
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 20.80935,
-   "ratio": 8.98,
+   "realtime_wan": 21.373864,
+   "ratio": 8.38,
    "days": 75,
-   "cum_wan": 77808.552683
+   "cum_wan": 77809.117197
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 13.165716,
-   "ratio": 5.68,
+   "realtime_wan": 13.855013,
+   "ratio": 5.43,
    "days": 78,
-   "cum_wan": 238751.53679
+   "cum_wan": 238752.226087
   },
   {
    "nm": "重生2",
-   "realtime_wan": 6.569497,
-   "ratio": 2.83,
+   "realtime_wan": 7.236824,
+   "ratio": 2.84,
    "days": 25,
-   "cum_wan": 6834.836047
-  },
-  {
-   "nm": "密档",
-   "realtime_wan": 5.92086,
-   "ratio": 2.55,
-   "days": 61,
-   "cum_wan": 2055.3347129999997
-  },
-  {
-   "nm": "生日快乐",
-   "realtime_wan": 5.39786,
-   "ratio": 2.33,
-   "days": 5,
-   "cum_wan": 189.909175
+   "cum_wan": 6835.503374
   },
   {
    "nm": "四渡",
-   "realtime_wan": 5.255497,
-   "ratio": 2.27,
+   "realtime_wan": 6.6415,
+   "ratio": 2.6,
    "days": 124,
-   "cum_wan": 30048.329433999996
+   "cum_wan": 30049.715437
   },
   {
-   "nm": "勇敢女孩合唱团",
-   "realtime_wan": 4.621762,
-   "ratio": 1.99,
-   "days": 8,
-   "cum_wan": 130.060342
+   "nm": "密档",
+   "realtime_wan": 6.141165,
+   "ratio": 2.41,
+   "days": 61,
+   "cum_wan": 2055.555018
+  },
+  {
+   "nm": "生日快乐",
+   "realtime_wan": 5.827043,
+   "ratio": 2.28,
+   "days": 5,
+   "cum_wan": 190.338358
+  },
+  {
+   "nm": "活色生香",
+   "realtime_wan": 5.05921,
+   "ratio": 1.98,
+   "days": 27,
+   "cum_wan": 1728.100927
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 246966,
    "nm": "疾速追杀",
    "rt": "2026-10-30",
-   "wish": 46661,
-   "wish_delta_1d": 846,
+   "wish": 46830,
+   "wish_delta_1d": 1015,
    "on_sale": true,
    "pooled": true
   },
@@ -104,8 +104,8 @@
    "id": 1500853,
    "nm": "白衣逆行者",
    "rt": "2026-11-06",
-   "wish": 15423,
-   "wish_delta_1d": 448,
+   "wish": 15483,
+   "wish_delta_1d": 508,
    "on_sale": false,
    "pooled": true
   },
@@ -113,8 +113,8 @@
    "id": 1529836,
    "nm": "床下有人5",
    "rt": "2026-10-30",
-   "wish": 15323,
-   "wish_delta_1d": 166,
+   "wish": 15343,
+   "wish_delta_1d": 186,
    "on_sale": false,
    "pooled": false
   },
@@ -131,7 +131,7 @@
    "id": 1256044,
    "nm": "戴帽子的猫",
    "rt": "2026-11-06",
-   "wish": 9912,
+   "wish": 9990,
    "wish_delta_1d": null,
    "on_sale": false,
    "pooled": false
@@ -158,9 +158,9 @@
    "id": 1511601,
    "nm": "民宿惊魂",
    "rt": "2026-10-31",
-   "wish": 5536,
-   "wish_delta_1d": 735,
-   "on_sale": false,
+   "wish": 5604,
+   "wish_delta_1d": 803,
+   "on_sale": true,
    "pooled": true
   }
  ],
@@ -269,8 +269,8 @@
    "nm": "疾速追杀",
    "rt": "2026-10-30",
    "status": "WATCHING",
-   "wish": 46661,
-   "wish_delta_1d": 846,
+   "wish": 46830,
+   "wish_delta_1d": 1015,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -280,8 +280,8 @@
    "nm": "笑傲江湖2：东方不败",
    "rt": "2026-10-30",
    "status": "WATCHING",
-   "wish": 5020,
-   "wish_delta_1d": 366,
+   "wish": 5071,
+   "wish_delta_1d": 417,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "民宿惊魂",
    "rt": "2026-10-31",
    "status": "WATCHING",
-   "wish": 5536,
-   "wish_delta_1d": 735,
+   "wish": 5604,
+   "wish_delta_1d": 803,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,14 +302,22 @@
    "nm": "白衣逆行者",
    "rt": "2026-11-06",
    "status": "WATCHING",
-   "wish": 15423,
-   "wish_delta_1d": 448,
+   "wish": 15483,
+   "wish_delta_1d": 508,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
   }
  ],
  "events": [
+  {
+   "ts": "2026-10-27 12:00:04",
+   "etype": "E2",
+   "movie_name": "民宿惊魂",
+   "symbol": null,
+   "title": "🎟️ 预售开启:民宿惊魂",
+   "body": "《民宿惊魂》(2026-10-31) 预售已开启,当前想看 5604。可关注相关影视股的埋伏窗口。"
+  },
   {
    "ts": "2026-10-23 20:00:10",
    "etype": "E4",
