@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-28 19:00:02",
+ "generated_at": "2026-10-28 19:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 269.815108,
-   "ratio": 27.79,
+   "realtime_wan": 289.50372400000003,
+   "ratio": 27.96,
    "days": 28,
-   "cum_wan": 63109.914322000004
+   "cum_wan": 63129.602937999996
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 233.270379,
-   "ratio": 24.03,
+   "realtime_wan": 250.809427,
+   "ratio": 24.23,
    "days": 24,
-   "cum_wan": 44537.998346
+   "cum_wan": 44555.537394
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 161.125539,
-   "ratio": 16.6,
+   "realtime_wan": 172.695588,
+   "ratio": 16.68,
    "days": 28,
-   "cum_wan": 37966.778342000005
+   "cum_wan": 37978.348391
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 57.979493000000005,
-   "ratio": 5.97,
+   "realtime_wan": 61.618489000000004,
+   "ratio": 5.95,
    "days": 79,
-   "cum_wan": 238875.939042
+   "cum_wan": 238879.578038
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 33.356266999999995,
-   "ratio": 3.44,
+   "realtime_wan": 34.692443,
+   "ratio": 3.35,
    "days": 76,
-   "cum_wan": 77860.331133
+   "cum_wan": 77861.667309
   },
   {
    "nm": "重生2",
-   "realtime_wan": 28.051075,
-   "ratio": 2.89,
+   "realtime_wan": 30.623839,
+   "ratio": 2.96,
    "days": 26,
-   "cum_wan": 6906.526787000001
+   "cum_wan": 6909.099551
   },
   {
    "nm": "四渡",
-   "realtime_wan": 26.205551,
-   "ratio": 2.7,
+   "realtime_wan": 27.1751,
+   "ratio": 2.62,
    "days": 125,
-   "cum_wan": 30086.342275
+   "cum_wan": 30087.311824
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 15.823464999999999,
-   "ratio": 1.63,
+   "realtime_wan": 16.54561,
+   "ratio": 1.6,
    "days": 103,
-   "cum_wan": 205775.124615
+   "cum_wan": 205775.84676
   },
   {
    "nm": "生日快乐",
-   "realtime_wan": 13.351465,
-   "ratio": 1.38,
+   "realtime_wan": 13.906026999999998,
+   "ratio": 1.34,
    "days": 6,
-   "cum_wan": 214.73936400000002
+   "cum_wan": 215.29392599999997
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 13.287405999999999,
-   "ratio": 1.37,
+   "realtime_wan": 13.712019,
+   "ratio": 1.32,
    "days": 5,
-   "cum_wan": 391.032848
+   "cum_wan": 391.45746099999997
   }
  ],
  "presale": [
