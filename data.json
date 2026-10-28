@@ -1,6 +1,77 @@
 {
- "generated_at": "2026-10-27 23:30:02",
- "realtime": [],
+ "generated_at": "2026-10-28 08:00:02",
+ "realtime": [
+  {
+   "nm": "神探之痕迹",
+   "realtime_wan": 30.65509,
+   "ratio": 20.08,
+   "days": 28,
+   "cum_wan": 62868.478969
+  },
+  {
+   "nm": "生化危机：爆发夜",
+   "realtime_wan": 27.701201,
+   "ratio": 18.14,
+   "days": 24,
+   "cum_wan": 44331.502606
+  },
+  {
+   "nm": "什么意思夫妇",
+   "realtime_wan": 14.992506,
+   "ratio": 9.82,
+   "days": 28,
+   "cum_wan": 37818.742578
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 12.214326,
+   "ratio": 8.0,
+   "days": 76,
+   "cum_wan": 77839.024258
+  },
+  {
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 10.441413,
+   "ratio": 6.84,
+   "days": 79,
+   "cum_wan": 238827.8127
+  },
+  {
+   "nm": "四渡",
+   "realtime_wan": 9.203574,
+   "ratio": 6.03,
+   "days": 125,
+   "cum_wan": 30069.190545999998
+  },
+  {
+   "nm": "密档",
+   "realtime_wan": 4.240407,
+   "ratio": 2.78,
+   "days": 62,
+   "cum_wan": 2064.605184
+  },
+  {
+   "nm": "生日快乐",
+   "realtime_wan": 3.9898160000000003,
+   "ratio": 2.61,
+   "days": 6,
+   "cum_wan": 205.234375
+  },
+  {
+   "nm": "八仙！",
+   "realtime_wan": 3.851696,
+   "ratio": 2.52,
+   "days": 103,
+   "cum_wan": 205763.014307
+  },
+  {
+   "nm": "小羊肖恩3：怪兽来袭",
+   "realtime_wan": 3.623703,
+   "ratio": 2.37,
+   "days": 5,
+   "cum_wan": 381.228642
+  }
+ ],
  "presale": [
   {
    "id": 246966,
