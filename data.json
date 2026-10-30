@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-30 11:30:02",
+ "generated_at": "2026-10-30 12:00:02",
  "realtime": [
   {
    "nm": "疾速追杀",
-   "realtime_wan": 90.424647,
-   "ratio": 16.83,
+   "realtime_wan": 92.69030500000001,
+   "ratio": 16.22,
    "days": 1,
-   "cum_wan": 90.424647
+   "cum_wan": 92.69030500000001
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 83.84148499999999,
-   "ratio": 15.61,
+   "realtime_wan": 91.721303,
+   "ratio": 16.05,
    "days": 30,
-   "cum_wan": 63678.122274
+   "cum_wan": 63686.002091999995
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 77.026088,
-   "ratio": 14.34,
+   "realtime_wan": 84.084304,
+   "ratio": 14.71,
    "days": 26,
-   "cum_wan": 45085.710848
-  },
-  {
-   "nm": "落凡尘",
-   "realtime_wan": 43.987214,
-   "ratio": 8.19,
-   "days": 841,
-   "cum_wan": 4055.6995509999997
+   "cum_wan": 45092.769064
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 40.74906,
-   "ratio": 7.58,
+   "realtime_wan": 45.966019,
+   "ratio": 8.04,
    "days": 30,
-   "cum_wan": 38296.142775
+   "cum_wan": 38301.359734
+  },
+  {
+   "nm": "落凡尘",
+   "realtime_wan": 45.749031,
+   "ratio": 8.0,
+   "days": 841,
+   "cum_wan": 4057.4613679999998
   },
   {
    "nm": "阴阳路惊魂",
-   "realtime_wan": 27.419148,
-   "ratio": 5.1,
+   "realtime_wan": 27.834927,
+   "ratio": 4.87,
    "days": 1,
-   "cum_wan": 27.766654
+   "cum_wan": 28.182433000000003
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 25.22346,
-   "ratio": 4.69,
+   "realtime_wan": 27.253078000000002,
+   "ratio": 4.77,
    "days": 81,
-   "cum_wan": 238999.337933
+   "cum_wan": 239001.36755100003
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 19.956119,
-   "ratio": 3.71,
+   "realtime_wan": 20.382343,
+   "ratio": 3.57,
    "days": 78,
-   "cum_wan": 77928.365723
+   "cum_wan": 77928.791947
   },
   {
    "nm": "四渡",
-   "realtime_wan": 16.127913,
-   "ratio": 3.0,
+   "realtime_wan": 16.929149,
+   "ratio": 2.96,
    "days": 127,
-   "cum_wan": 30137.425310000002
+   "cum_wan": 30138.226545999998
   },
   {
    "nm": "笑傲江湖2：东方不败",
-   "realtime_wan": 13.923274,
-   "ratio": 2.59,
+   "realtime_wan": 14.705041,
+   "ratio": 2.57,
    "days": 1,
-   "cum_wan": 27.873423
+   "cum_wan": 28.65519
   }
  ],
  "presale": [
@@ -86,8 +86,8 @@
    "id": 1500853,
    "nm": "白衣逆行者",
    "rt": "2026-11-06",
-   "wish": 16857,
-   "wish_delta_1d": 431,
+   "wish": 16962,
+   "wish_delta_1d": 536,
    "on_sale": false,
    "pooled": true
   },
@@ -113,7 +113,7 @@
    "id": 1502289,
    "nm": "我们仅有一次的人生",
    "rt": "2026-11-07",
-   "wish": 15537,
+   "wish": 15671,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -131,7 +131,7 @@
    "id": 1563514,
    "nm": "心迷宫之三重罪",
    "rt": "2026-11-07",
-   "wish": 11915,
+   "wish": 12012,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -140,8 +140,8 @@
    "id": 1256044,
    "nm": "戴帽子的猫",
    "rt": "2026-11-06",
-   "wish": 10811,
-   "wish_delta_1d": 216,
+   "wish": 10840,
+   "wish_delta_1d": 245,
    "on_sale": true,
    "pooled": true
   },
@@ -149,8 +149,8 @@
    "id": 1543699,
    "nm": "酒店404惊魂",
    "rt": "2026-11-06",
-   "wish": 9924,
-   "wish_delta_1d": 16,
+   "wish": 9928,
+   "wish_delta_1d": 20,
    "on_sale": false,
    "pooled": false
   },
@@ -158,8 +158,8 @@
    "id": 1511601,
    "nm": "民宿惊魂",
    "rt": "2026-10-31",
-   "wish": 7324,
-   "wish_delta_1d": 474,
+   "wish": 7404,
+   "wish_delta_1d": 554,
    "on_sale": true,
    "pooled": true
   }
@@ -280,8 +280,8 @@
    "nm": "民宿惊魂",
    "rt": "2026-10-31",
    "status": "WATCHING",
-   "wish": 7324,
-   "wish_delta_1d": 474,
+   "wish": 7404,
+   "wish_delta_1d": 554,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "戴帽子的猫",
    "rt": "2026-11-06",
    "status": "WATCHING",
-   "wish": 10811,
-   "wish_delta_1d": 216,
+   "wish": 10840,
+   "wish_delta_1d": 245,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +302,8 @@
    "nm": "白衣逆行者",
    "rt": "2026-11-06",
    "status": "WATCHING",
-   "wish": 16857,
-   "wish_delta_1d": 431,
+   "wish": 16962,
+   "wish_delta_1d": 536,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
