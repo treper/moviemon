@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-30 16:00:02",
+ "generated_at": "2026-10-30 16:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 230.43782599999997,
-   "ratio": 21.32,
+   "realtime_wan": 245.15331899999998,
+   "ratio": 21.5,
    "days": 30,
-   "cum_wan": 63836.255755
+   "cum_wan": 63850.983048
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 201.45535900000002,
-   "ratio": 18.64,
+   "realtime_wan": 215.553625,
+   "ratio": 18.91,
    "days": 26,
-   "cum_wan": 45222.665451
-  },
-  {
-   "nm": "疾速追杀",
-   "realtime_wan": 120.76378899999999,
-   "ratio": 11.17,
-   "days": 1,
-   "cum_wan": 120.774289
+   "cum_wan": 45236.751317
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 120.61735700000001,
-   "ratio": 11.16,
+   "realtime_wan": 128.36555900000002,
+   "ratio": 11.26,
    "days": 30,
-   "cum_wan": 38384.473277
+   "cum_wan": 38392.221479
+  },
+  {
+   "nm": "疾速追杀",
+   "realtime_wan": 126.6231,
+   "ratio": 11.11,
+   "days": 1,
+   "cum_wan": 126.6336
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 60.211691,
-   "ratio": 5.57,
+   "realtime_wan": 63.625489,
+   "ratio": 5.58,
    "days": 81,
-   "cum_wan": 239039.281085
+   "cum_wan": 239042.694883
   },
   {
    "nm": "落凡尘",
-   "realtime_wan": 49.724307,
-   "ratio": 4.6,
+   "realtime_wan": 49.959782000000004,
+   "ratio": 4.38,
    "days": 841,
-   "cum_wan": 4058.2997170000003
+   "cum_wan": 4058.5351920000003
   },
   {
    "nm": "阴阳路惊魂",
-   "realtime_wan": 35.995831,
-   "ratio": 3.33,
+   "realtime_wan": 37.400616,
+   "ratio": 3.28,
    "days": 1,
-   "cum_wan": 36.372851000000004
+   "cum_wan": 37.777636
   },
   {
    "nm": "四渡",
-   "realtime_wan": 30.679984,
-   "ratio": 2.84,
+   "realtime_wan": 31.294147,
+   "ratio": 2.74,
    "days": 127,
-   "cum_wan": 30150.196874
+   "cum_wan": 30150.811037
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 29.702326,
-   "ratio": 2.75,
+   "realtime_wan": 30.503982,
+   "ratio": 2.68,
    "days": 78,
-   "cum_wan": 77938.255019
+   "cum_wan": 77939.056675
   },
   {
    "nm": "笑傲江湖2：东方不败",
-   "realtime_wan": 23.369278,
-   "ratio": 2.16,
+   "realtime_wan": 24.308181,
+   "ratio": 2.13,
    "days": 1,
-   "cum_wan": 37.321227
+   "cum_wan": 38.26013
   }
  ],
  "presale": [
