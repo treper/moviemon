@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-10-31 22:30:02",
+ "generated_at": "2026-10-31 23:00:02",
  "realtime": [
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 1362.5248119999999,
-   "ratio": 24.92,
+   "realtime_wan": 1376.303425,
+   "ratio": 24.95,
    "days": 27,
-   "cum_wan": 46910.676873000004
+   "cum_wan": 46924.455486
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 1135.432421,
-   "ratio": 20.77,
+   "realtime_wan": 1141.713787,
+   "ratio": 20.7,
    "days": 31,
-   "cum_wan": 65278.491521
+   "cum_wan": 65284.772887
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 635.206661,
-   "ratio": 11.62,
+   "realtime_wan": 640.1755,
+   "ratio": 11.61,
    "days": 2,
-   "cum_wan": 1033.863854
+   "cum_wan": 1038.832693
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 564.5605730000001,
-   "ratio": 10.33,
+   "realtime_wan": 567.520664,
+   "ratio": 10.29,
    "days": 31,
-   "cum_wan": 39121.861636
+   "cum_wan": 39124.821726999995
   },
   {
    "nm": "民宿惊魂",
-   "realtime_wan": 374.628513,
-   "ratio": 6.85,
+   "realtime_wan": 384.75697599999995,
+   "ratio": 6.97,
    "days": 1,
-   "cum_wan": 374.739713
+   "cum_wan": 384.868176
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 257.440584,
-   "ratio": 4.71,
+   "realtime_wan": 258.074483,
+   "ratio": 4.68,
    "days": 82,
-   "cum_wan": 239349.49408200002
+   "cum_wan": 239350.127981
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 182.663717,
-   "ratio": 3.34,
+   "realtime_wan": 182.762292,
+   "ratio": 3.31,
    "days": 106,
-   "cum_wan": 206016.218724
+   "cum_wan": 206016.317299
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 165.776223,
-   "ratio": 3.03,
+   "realtime_wan": 165.95422299999998,
+   "ratio": 3.01,
    "days": 8,
-   "cum_wan": 608.469443
+   "cum_wan": 608.647443
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 127.83265700000001,
-   "ratio": 2.34,
+   "realtime_wan": 127.94158999999999,
+   "ratio": 2.32,
    "days": 31,
-   "cum_wan": 7570.568209999999
+   "cum_wan": 7570.677143000001
   },
   {
    "nm": "阴阳路惊魂",
-   "realtime_wan": 114.90296000000001,
-   "ratio": 2.1,
+   "realtime_wan": 120.572179,
+   "ratio": 2.19,
    "days": 2,
-   "cum_wan": 195.889676
+   "cum_wan": 201.558895
   }
  ],
  "presale": [
