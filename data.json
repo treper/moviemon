@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-02 16:00:02",
+ "generated_at": "2026-11-02 16:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 143.492013,
-   "ratio": 23.48,
+   "realtime_wan": 155.81348300000002,
+   "ratio": 23.66,
    "days": 33,
-   "cum_wan": 66340.342406
+   "cum_wan": 66352.64778
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 124.163379,
-   "ratio": 20.32,
+   "realtime_wan": 136.08764,
+   "ratio": 20.66,
    "days": 29,
-   "cum_wan": 47999.45450299999
+   "cum_wan": 48011.362843
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 93.453885,
+   "realtime_wan": 100.720275,
    "ratio": 15.29,
    "days": 33,
-   "cum_wan": 39710.871849
+   "cum_wan": 39718.132638999996
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 66.914789,
-   "ratio": 10.95,
+   "realtime_wan": 72.259477,
+   "ratio": 10.97,
    "days": 4,
-   "cum_wan": 1572.285151
+   "cum_wan": 1577.629839
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 35.598428999999996,
+   "realtime_wan": 38.348086,
    "ratio": 5.82,
    "days": 84,
-   "cum_wan": 239600.27207399998
+   "cum_wan": 239603.021731
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 19.208639,
-   "ratio": 3.14,
+   "realtime_wan": 20.336491,
+   "ratio": 3.09,
    "days": 10,
-   "cum_wan": 789.22807
+   "cum_wan": 790.352622
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 14.963625,
-   "ratio": 2.45,
+   "realtime_wan": 16.069945,
+   "ratio": 2.44,
    "days": 108,
-   "cum_wan": 206196.968219
+   "cum_wan": 206198.080139
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 12.775335,
-   "ratio": 2.09,
+   "realtime_wan": 13.566429000000001,
+   "ratio": 2.06,
    "days": 81,
-   "cum_wan": 78125.988489
+   "cum_wan": 78126.77958300001
   },
   {
    "nm": "民宿惊魂",
-   "realtime_wan": 12.476068,
-   "ratio": 2.04,
+   "realtime_wan": 12.908008,
+   "ratio": 1.96,
    "days": 3,
-   "cum_wan": 522.883279
+   "cum_wan": 523.330419
   },
   {
    "nm": "重生2",
-   "realtime_wan": 9.508218,
-   "ratio": 1.56,
+   "realtime_wan": 10.400211,
+   "ratio": 1.58,
    "days": 31,
-   "cum_wan": 7116.536676000001
+   "cum_wan": 7117.428669
   }
  ],
  "presale": [
