@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-02 13:00:02",
+ "generated_at": "2026-11-02 13:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 57.93591800000001,
-   "ratio": 19.64,
+   "realtime_wan": 75.303923,
+   "ratio": 20.97,
    "days": 33,
-   "cum_wan": 66220.428503
+   "cum_wan": 66237.796508
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 51.277011,
-   "ratio": 17.38,
+   "realtime_wan": 65.148318,
+   "ratio": 18.14,
    "days": 29,
-   "cum_wan": 47893.016759
+   "cum_wan": 47906.888066
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 39.903005,
-   "ratio": 13.53,
+   "realtime_wan": 51.424186999999996,
+   "ratio": 14.32,
    "days": 33,
-   "cum_wan": 39638.814312
+   "cum_wan": 39650.335494
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 32.100722,
-   "ratio": 10.88,
+   "realtime_wan": 39.212848,
+   "ratio": 10.92,
    "days": 4,
-   "cum_wan": 1523.490864
+   "cum_wan": 1530.60299
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 17.373086999999998,
-   "ratio": 5.89,
+   "realtime_wan": 20.955645999999998,
+   "ratio": 5.83,
    "days": 84,
-   "cum_wan": 239567.140441
+   "cum_wan": 239570.723
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 13.709906,
-   "ratio": 4.65,
+   "realtime_wan": 14.936876000000002,
+   "ratio": 4.16,
    "days": 10,
-   "cum_wan": 779.5060179999999
+   "cum_wan": 780.732988
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 9.164661,
-   "ratio": 3.11,
+   "realtime_wan": 10.531097,
+   "ratio": 2.93,
    "days": 108,
-   "cum_wan": 206185.885168
+   "cum_wan": 206187.251604
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 8.680099,
-   "ratio": 2.94,
+   "realtime_wan": 9.618532,
+   "ratio": 2.68,
    "days": 81,
-   "cum_wan": 78119.48126799999
+   "cum_wan": 78120.419701
   },
   {
    "nm": "民宿惊魂",
-   "realtime_wan": 6.390809,
-   "ratio": 2.17,
+   "realtime_wan": 7.737371,
+   "ratio": 2.15,
    "days": 3,
-   "cum_wan": 507.310971
+   "cum_wan": 508.657533
   },
   {
-   "nm": "重渡沟（豫剧）",
-   "realtime_wan": 6.279,
-   "ratio": 2.13,
-   "days": 193,
-   "cum_wan": 61.279
+   "nm": "小猪佩奇·完美假期",
+   "realtime_wan": 6.421401,
+   "ratio": 1.79,
+   "days": 33,
+   "cum_wan": 7696.065373
   }
  ],
  "presale": [
