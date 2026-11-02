@@ -1,6 +1,77 @@
 {
- "generated_at": "2026-11-02 11:00:03",
- "realtime": [],
+ "generated_at": "2026-11-02 11:30:02",
+ "realtime": [
+  {
+   "nm": "神探之痕迹",
+   "realtime_wan": 36.723545,
+   "ratio": 17.76,
+   "days": 33,
+   "cum_wan": 66199.219312
+  },
+  {
+   "nm": "生化危机：爆发夜",
+   "realtime_wan": 33.428579,
+   "ratio": 16.17,
+   "days": 29,
+   "cum_wan": 47875.168327
+  },
+  {
+   "nm": "什么意思夫妇",
+   "realtime_wan": 24.526912,
+   "ratio": 11.86,
+   "days": 33,
+   "cum_wan": 39623.438219
+  },
+  {
+   "nm": "疾速追杀",
+   "realtime_wan": 21.280869,
+   "ratio": 10.29,
+   "days": 4,
+   "cum_wan": 1512.667531
+  },
+  {
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 12.794884,
+   "ratio": 6.19,
+   "days": 84,
+   "cum_wan": 239562.562238
+  },
+  {
+   "nm": "小羊肖恩3：怪兽来袭",
+   "realtime_wan": 11.79025,
+   "ratio": 5.7,
+   "days": 10,
+   "cum_wan": 777.586362
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 7.2957,
+   "ratio": 3.53,
+   "days": 81,
+   "cum_wan": 78118.096869
+  },
+  {
+   "nm": "八仙！",
+   "realtime_wan": 6.8966080000000005,
+   "ratio": 3.34,
+   "days": 108,
+   "cum_wan": 206183.633915
+  },
+  {
+   "nm": "重渡沟（豫剧）",
+   "realtime_wan": 6.225675,
+   "ratio": 3.01,
+   "days": 193,
+   "cum_wan": 61.225675
+  },
+  {
+   "nm": "民宿惊魂",
+   "realtime_wan": 4.717203,
+   "ratio": 2.28,
+   "days": 3,
+   "cum_wan": 505.61769100000004
+  }
+ ],
  "presale": [
   {
    "id": 1500853,
