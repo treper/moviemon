@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-02 12:30:02",
+ "generated_at": "2026-11-02 13:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 49.427378999999995,
-   "ratio": 18.88,
+   "realtime_wan": 57.93591800000001,
+   "ratio": 19.64,
    "days": 33,
-   "cum_wan": 66211.919964
+   "cum_wan": 66220.428503
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 44.649673,
-   "ratio": 17.05,
+   "realtime_wan": 51.277011,
+   "ratio": 17.38,
    "days": 29,
-   "cum_wan": 47886.389421
+   "cum_wan": 47893.016759
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 34.147586,
-   "ratio": 13.04,
+   "realtime_wan": 39.903005,
+   "ratio": 13.53,
    "days": 33,
-   "cum_wan": 39633.058893
+   "cum_wan": 39638.814312
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 28.445302,
-   "ratio": 10.86,
+   "realtime_wan": 32.100722,
+   "ratio": 10.88,
    "days": 4,
-   "cum_wan": 1519.835444
+   "cum_wan": 1523.490864
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 15.510329999999998,
-   "ratio": 5.92,
+   "realtime_wan": 17.373086999999998,
+   "ratio": 5.89,
    "days": 84,
-   "cum_wan": 239565.27768400003
+   "cum_wan": 239567.140441
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 12.818767999999999,
-   "ratio": 4.9,
+   "realtime_wan": 13.709906,
+   "ratio": 4.65,
    "days": 10,
-   "cum_wan": 778.61488
+   "cum_wan": 779.5060179999999
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 8.422369999999999,
-   "ratio": 3.22,
+   "realtime_wan": 9.164661,
+   "ratio": 3.11,
    "days": 108,
-   "cum_wan": 206185.142877
+   "cum_wan": 206185.885168
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 8.166499,
-   "ratio": 3.12,
+   "realtime_wan": 8.680099,
+   "ratio": 2.94,
    "days": 81,
-   "cum_wan": 78118.967668
-  },
-  {
-   "nm": "重渡沟（豫剧）",
-   "realtime_wan": 6.258,
-   "ratio": 2.39,
-   "days": 193,
-   "cum_wan": 61.258
+   "cum_wan": 78119.48126799999
   },
   {
    "nm": "民宿惊魂",
-   "realtime_wan": 5.816871,
-   "ratio": 2.22,
+   "realtime_wan": 6.390809,
+   "ratio": 2.17,
    "days": 3,
-   "cum_wan": 506.737033
+   "cum_wan": 507.310971
+  },
+  {
+   "nm": "重渡沟（豫剧）",
+   "realtime_wan": 6.279,
+   "ratio": 2.13,
+   "days": 193,
+   "cum_wan": 61.279
   }
  ],
  "presale": [
