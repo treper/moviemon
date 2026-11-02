@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-02 23:00:02",
+ "generated_at": "2026-11-02 23:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 324.952831,
-   "ratio": 24.85,
+   "realtime_wan": 325.812475,
+   "ratio": 24.8,
    "days": 33,
-   "cum_wan": 66521.857955
+   "cum_wan": 66522.717599
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 297.374973,
-   "ratio": 22.74,
+   "realtime_wan": 299.295522,
+   "ratio": 22.78,
    "days": 29,
-   "cum_wan": 48172.729432
+   "cum_wan": 48174.649981
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 197.127654,
-   "ratio": 15.07,
+   "realtime_wan": 197.671752,
+   "ratio": 15.05,
    "days": 33,
-   "cum_wan": 39814.70104
+   "cum_wan": 39815.245138
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 154.30737,
+   "realtime_wan": 154.980417,
    "ratio": 11.8,
    "days": 4,
-   "cum_wan": 1659.691432
+   "cum_wan": 1660.3644789999998
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 67.935106,
-   "ratio": 5.19,
+   "realtime_wan": 68.053562,
+   "ratio": 5.18,
    "days": 84,
-   "cum_wan": 239632.63494400002
+   "cum_wan": 239632.7534
   },
   {
    "nm": "民宿惊魂",
-   "realtime_wan": 38.044965000000005,
-   "ratio": 2.91,
+   "realtime_wan": 38.866883,
+   "ratio": 2.96,
    "days": 3,
-   "cum_wan": 548.49895
+   "cum_wan": 549.320868
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 26.742653000000004,
+   "realtime_wan": 26.771706,
    "ratio": 2.04,
    "days": 10,
-   "cum_wan": 796.782811
+   "cum_wan": 796.811864
   },
   {
    "nm": "重生2",
-   "realtime_wan": 22.657997,
+   "realtime_wan": 22.756934,
    "ratio": 1.73,
    "days": 31,
-   "cum_wan": 7129.716931999999
+   "cum_wan": 7129.815869
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 22.520301999999997,
+   "realtime_wan": 22.560156,
    "ratio": 1.72,
    "days": 108,
-   "cum_wan": 206204.563506
+   "cum_wan": 206204.60335999998
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 20.574323,
+   "realtime_wan": 20.603199,
    "ratio": 1.57,
    "days": 81,
-   "cum_wan": 78133.796477
+   "cum_wan": 78133.825353
   }
  ],
  "presale": [
