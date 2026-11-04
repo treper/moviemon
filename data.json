@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-04 13:30:02",
+ "generated_at": "2026-11-04 14:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 78.612776,
-   "ratio": 23.43,
+   "realtime_wan": 95.39761700000001,
+   "ratio": 24.31,
    "days": 35,
-   "cum_wan": 66911.541375
+   "cum_wan": 66928.326216
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 57.979032999999994,
-   "ratio": 17.28,
+   "realtime_wan": 70.034195,
+   "ratio": 17.85,
    "days": 31,
-   "cum_wan": 48504.473167000004
+   "cum_wan": 48516.528329
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 45.981319,
-   "ratio": 13.7,
+   "realtime_wan": 55.40488199999999,
+   "ratio": 14.12,
    "days": 35,
-   "cum_wan": 40040.763252
+   "cum_wan": 40050.186815
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 29.814889,
-   "ratio": 8.89,
+   "realtime_wan": 35.131788,
+   "ratio": 8.95,
    "days": 6,
-   "cum_wan": 1826.930359
+   "cum_wan": 1832.2472579999999
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 25.365083,
-   "ratio": 7.56,
+   "realtime_wan": 29.0474,
+   "ratio": 7.4,
    "days": 86,
-   "cum_wan": 239722.936182
+   "cum_wan": 239726.61849899997
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 13.756497,
-   "ratio": 4.1,
+   "realtime_wan": 14.74675,
+   "ratio": 3.76,
    "days": 12,
-   "cum_wan": 836.0581269999999
+   "cum_wan": 837.04838
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 12.808522,
-   "ratio": 3.82,
+   "realtime_wan": 13.808467000000002,
+   "ratio": 3.52,
    "days": 83,
-   "cum_wan": 78170.04784500001
+   "cum_wan": 78171.04779
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 8.073671000000001,
-   "ratio": 2.41,
+   "realtime_wan": 9.343338000000001,
+   "ratio": 2.38,
    "days": 110,
-   "cum_wan": 206231.706833
+   "cum_wan": 206232.9765
   },
   {
    "nm": "生日快乐",
-   "realtime_wan": 6.247018,
-   "ratio": 1.86,
+   "realtime_wan": 6.656122,
+   "ratio": 1.7,
    "days": 13,
-   "cum_wan": 329.236608
+   "cum_wan": 329.645712
   },
   {
-   "nm": "民宿惊魂",
-   "realtime_wan": 4.514233,
-   "ratio": 1.35,
-   "days": 5,
-   "cum_wan": 580.5457610000001
+   "nm": "重生2",
+   "realtime_wan": 5.462608,
+   "ratio": 1.39,
+   "days": 33,
+   "cum_wan": 7153.291509000001
   }
  ],
  "presale": [
