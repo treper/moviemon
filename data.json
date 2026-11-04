@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-04 11:30:02",
+ "generated_at": "2026-11-04 12:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 41.120106,
-   "ratio": 20.16,
+   "realtime_wan": 46.041166,
+   "ratio": 20.5,
    "days": 35,
-   "cum_wan": 66874.054305
+   "cum_wan": 66878.97536499999
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 32.308896000000004,
-   "ratio": 15.84,
+   "realtime_wan": 36.076171,
+   "ratio": 16.06,
    "days": 31,
-   "cum_wan": 48478.79643
+   "cum_wan": 48482.563705
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 23.698899,
-   "ratio": 11.62,
+   "realtime_wan": 27.380603999999998,
+   "ratio": 12.19,
    "days": 35,
-   "cum_wan": 40018.492197
+   "cum_wan": 40022.173901999995
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 17.32989,
-   "ratio": 8.5,
+   "realtime_wan": 19.697612,
+   "ratio": 8.77,
    "days": 6,
-   "cum_wan": 1814.4453600000002
+   "cum_wan": 1816.8130820000001
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 16.504835999999997,
-   "ratio": 8.09,
+   "realtime_wan": 17.960391,
+   "ratio": 8.0,
    "days": 86,
-   "cum_wan": 239714.075935
+   "cum_wan": 239715.53149000002
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 11.648302000000001,
-   "ratio": 5.71,
+   "realtime_wan": 12.20249,
+   "ratio": 5.43,
    "days": 12,
-   "cum_wan": 833.957892
+   "cum_wan": 834.51208
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 10.875238000000001,
-   "ratio": 5.33,
+   "realtime_wan": 11.178557000000001,
+   "ratio": 4.98,
    "days": 83,
-   "cum_wan": 78168.114561
-  },
-  {
-   "nm": "生日快乐",
-   "realtime_wan": 4.9640260000000005,
-   "ratio": 2.43,
-   "days": 13,
-   "cum_wan": 327.953616
+   "cum_wan": 78168.41788
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 4.9121239999999995,
-   "ratio": 2.41,
+   "realtime_wan": 5.465386,
+   "ratio": 2.43,
    "days": 110,
-   "cum_wan": 206228.54528599998
+   "cum_wan": 206229.098548
+  },
+  {
+   "nm": "生日快乐",
+   "realtime_wan": 5.267923000000001,
+   "ratio": 2.35,
+   "days": 13,
+   "cum_wan": 328.257513
   },
   {
    "nm": "密档",
-   "realtime_wan": 3.6634050000000005,
-   "ratio": 1.8,
+   "realtime_wan": 3.663465,
+   "ratio": 1.63,
    "days": 69,
-   "cum_wan": 2099.616903
+   "cum_wan": 2099.616963
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1502289,
    "nm": "我们仅有一次的人生",
    "rt": "2026-11-07",
-   "wish": 22873,
-   "wish_delta_1d": 1550,
+   "wish": 23196,
+   "wish_delta_1d": 1873,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1500853,
    "nm": "白衣逆行者",
    "rt": "2026-11-06",
-   "wish": 21808,
-   "wish_delta_1d": 1033,
+   "wish": 21951,
+   "wish_delta_1d": 1176,
    "on_sale": false,
    "pooled": true
   },
@@ -122,8 +122,8 @@
    "id": 1563514,
    "nm": "心迷宫之三重罪",
    "rt": "2026-11-07",
-   "wish": 14529,
-   "wish_delta_1d": 613,
+   "wish": 14626,
+   "wish_delta_1d": 710,
    "on_sale": true,
    "pooled": true
   },
@@ -140,8 +140,8 @@
    "id": 1256044,
    "nm": "戴帽子的猫",
    "rt": "2026-11-06",
-   "wish": 11844,
-   "wish_delta_1d": 112,
+   "wish": 11870,
+   "wish_delta_1d": 138,
    "on_sale": true,
    "pooled": true
   },
@@ -149,8 +149,8 @@
    "id": 1543699,
    "nm": "酒店404惊魂",
    "rt": "2026-11-06",
-   "wish": 10422,
-   "wish_delta_1d": 99,
+   "wish": 10433,
+   "wish_delta_1d": 110,
    "on_sale": false,
    "pooled": false
   },
@@ -269,8 +269,8 @@
    "nm": "戴帽子的猫",
    "rt": "2026-11-06",
    "status": "WATCHING",
-   "wish": 11844,
-   "wish_delta_1d": 112,
+   "wish": 11870,
+   "wish_delta_1d": 138,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -280,8 +280,8 @@
    "nm": "白衣逆行者",
    "rt": "2026-11-06",
    "status": "WATCHING",
-   "wish": 21808,
-   "wish_delta_1d": 1033,
+   "wish": 21951,
+   "wish_delta_1d": 1176,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "一朵山花别样红",
    "rt": "2026-11-06",
    "status": "WATCHING",
-   "wish": 1487,
-   "wish_delta_1d": 116,
+   "wish": 1503,
+   "wish_delta_1d": 132,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +302,8 @@
    "nm": "珠穆朗玛：云中彼岸",
    "rt": "2026-11-06",
    "status": "WATCHING",
-   "wish": 4138,
-   "wish_delta_1d": 381,
+   "wish": 4221,
+   "wish_delta_1d": 464,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "我们仅有一次的人生",
    "rt": "2026-11-07",
    "status": "WATCHING",
-   "wish": 22873,
-   "wish_delta_1d": 1550,
+   "wish": 23196,
+   "wish_delta_1d": 1873,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "心迷宫之三重罪",
    "rt": "2026-11-07",
    "status": "WATCHING",
-   "wish": 14529,
-   "wish_delta_1d": 613,
+   "wish": 14626,
+   "wish_delta_1d": 710,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
