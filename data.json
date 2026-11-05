@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-05 14:30:02",
+ "generated_at": "2026-11-05 15:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 105.525777,
-   "ratio": 23.86,
+   "realtime_wan": 116.86146200000002,
+   "ratio": 24.22,
    "days": 36,
-   "cum_wan": 67285.049282
+   "cum_wan": 67296.38496699999
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 82.450435,
-   "ratio": 18.64,
+   "realtime_wan": 92.413616,
+   "ratio": 19.16,
    "days": 32,
-   "cum_wan": 48811.321087000004
+   "cum_wan": 48821.284268
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 59.939313,
-   "ratio": 13.55,
+   "realtime_wan": 66.193184,
+   "ratio": 13.72,
    "days": 36,
-   "cum_wan": 40245.467102999995
+   "cum_wan": 40251.720974
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 35.164862,
-   "ratio": 7.95,
+   "realtime_wan": 38.884125,
+   "ratio": 8.06,
    "days": 7,
-   "cum_wan": 1959.496529
+   "cum_wan": 1963.2157920000002
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 29.708901,
-   "ratio": 6.72,
+   "realtime_wan": 32.369481,
+   "ratio": 6.71,
    "days": 87,
-   "cum_wan": 239805.213205
+   "cum_wan": 239807.873785
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 14.797691,
-   "ratio": 3.35,
+   "realtime_wan": 15.73771,
+   "ratio": 3.26,
    "days": 84,
-   "cum_wan": 78196.575852
+   "cum_wan": 78197.51587100001
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 14.749168,
-   "ratio": 3.34,
+   "realtime_wan": 15.521718,
+   "ratio": 3.22,
    "days": 13,
-   "cum_wan": 862.1355060000001
+   "cum_wan": 862.9080560000001
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 11.52079,
-   "ratio": 2.61,
+   "realtime_wan": 11.941266,
+   "ratio": 2.48,
    "days": 111,
-   "cum_wan": 206255.99771199998
+   "cum_wan": 206256.418188
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 10.800104,
-   "ratio": 2.44,
+   "realtime_wan": 10.820103999999999,
+   "ratio": 2.24,
    "days": 0,
-   "cum_wan": 10.800104
+   "cum_wan": 10.820103999999999
   },
   {
    "nm": "戴帽子的猫",
    "realtime_wan": 7.990119,
-   "ratio": 1.81,
+   "ratio": 1.66,
    "days": 0,
    "cum_wan": 9.112119
   }
