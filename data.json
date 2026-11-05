@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-05 10:00:02",
+ "generated_at": "2026-11-05 10:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 30.024189,
-   "ratio": 17.97,
+   "realtime_wan": 32.631446000000004,
+   "ratio": 18.23,
    "days": 36,
-   "cum_wan": 67198.398461
+   "cum_wan": 67201.005718
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 23.887598,
-   "ratio": 14.3,
+   "realtime_wan": 25.654322,
+   "ratio": 14.34,
    "days": 32,
-   "cum_wan": 48742.977979
+   "cum_wan": 48744.744703
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 14.735273000000001,
-   "ratio": 8.82,
+   "realtime_wan": 16.535224,
+   "ratio": 9.24,
    "days": 36,
-   "cum_wan": 40193.471666000005
+   "cum_wan": 40195.271617
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 11.540030999999999,
+   "realtime_wan": 12.363973,
    "ratio": 6.91,
    "days": 87,
-   "cum_wan": 239782.588423
+   "cum_wan": 239783.412365
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 11.052491,
-   "ratio": 6.62,
+   "realtime_wan": 12.035767,
+   "ratio": 6.73,
    "days": 7,
-   "cum_wan": 1932.0250809999998
+   "cum_wan": 1933.008357
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
    "realtime_wan": 10.652104,
-   "ratio": 6.38,
+   "ratio": 5.95,
    "days": 0,
    "cum_wan": 10.652104
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 9.766491,
-   "ratio": 5.85,
+   "realtime_wan": 10.132137,
+   "ratio": 5.66,
    "days": 84,
-   "cum_wan": 78190.939233
+   "cum_wan": 78191.304879
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 9.293125,
-   "ratio": 5.56,
+   "realtime_wan": 9.678968,
+   "ratio": 5.41,
    "days": 13,
-   "cum_wan": 855.919444
+   "cum_wan": 856.3052869999999
   },
   {
    "nm": "戴帽子的猫",
    "realtime_wan": 7.990119,
-   "ratio": 4.78,
+   "ratio": 4.46,
    "days": 0,
    "cum_wan": 9.112119
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 4.200219000000001,
-   "ratio": 2.51,
+   "realtime_wan": 4.658681,
+   "ratio": 2.6,
    "days": 111,
-   "cum_wan": 206248.018
+   "cum_wan": 206248.476462
   }
  ],
  "presale": [
