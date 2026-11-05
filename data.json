@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-05 12:00:02",
+ "generated_at": "2026-11-05 12:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 47.168709,
-   "ratio": 20.01,
+   "realtime_wan": 53.523014,
+   "ratio": 20.54,
    "days": 36,
-   "cum_wan": 67215.560945
+   "cum_wan": 67221.90729
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 37.004525,
-   "ratio": 15.7,
+   "realtime_wan": 41.894707000000004,
+   "ratio": 16.08,
    "days": 32,
-   "cum_wan": 48756.12107
+   "cum_wan": 48761.011252
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 25.240744,
-   "ratio": 10.71,
+   "realtime_wan": 29.187419000000002,
+   "ratio": 11.2,
    "days": 36,
-   "cum_wan": 40203.994568
+   "cum_wan": 40207.947843
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 17.387572,
-   "ratio": 7.38,
+   "realtime_wan": 20.017548,
+   "ratio": 7.68,
    "days": 7,
-   "cum_wan": 1938.371586
+   "cum_wan": 1940.997402
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 15.676978,
-   "ratio": 6.65,
+   "realtime_wan": 17.312938,
+   "ratio": 6.64,
    "days": 87,
-   "cum_wan": 239786.72536999997
+   "cum_wan": 239788.36133
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 11.452339,
-   "ratio": 4.86,
+   "realtime_wan": 12.089207,
+   "ratio": 4.64,
    "days": 13,
-   "cum_wan": 858.0806150000001
+   "cum_wan": 858.717483
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 11.353828,
-   "ratio": 4.82,
+   "realtime_wan": 11.799041,
+   "ratio": 4.53,
    "days": 84,
-   "cum_wan": 78192.52657
+   "cum_wan": 78192.971783
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 10.691104,
-   "ratio": 4.53,
+   "realtime_wan": 10.711103999999999,
+   "ratio": 4.11,
    "days": 0,
-   "cum_wan": 10.691104
+   "cum_wan": 10.711103999999999
   },
   {
    "nm": "戴帽子的猫",
    "realtime_wan": 7.990119,
-   "ratio": 3.39,
+   "ratio": 3.07,
    "days": 0,
    "cum_wan": 9.112119
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 6.432007,
-   "ratio": 2.73,
+   "realtime_wan": 7.17276,
+   "ratio": 2.75,
    "days": 111,
-   "cum_wan": 206250.24978800002
+   "cum_wan": 206250.990541
   }
  ],
  "presale": [
