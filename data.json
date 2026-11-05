@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-05 18:00:02",
+ "generated_at": "2026-11-05 18:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 191.46858799999998,
-   "ratio": 25.49,
+   "realtime_wan": 201.42398400000002,
+   "ratio": 25.54,
    "days": 36,
-   "cum_wan": 67371.03469
+   "cum_wan": 67380.990086
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 152.94591499999999,
-   "ratio": 20.36,
+   "realtime_wan": 160.812104,
+   "ratio": 20.39,
    "days": 32,
-   "cum_wan": 48881.934989999994
+   "cum_wan": 48889.801179
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 106.751001,
-   "ratio": 14.21,
+   "realtime_wan": 112.559901,
+   "ratio": 14.27,
    "days": 36,
-   "cum_wan": 40292.306053
+   "cum_wan": 40298.114953
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 63.177166,
-   "ratio": 8.41,
+   "realtime_wan": 67.262395,
+   "ratio": 8.53,
    "days": 7,
-   "cum_wan": 1987.580539
+   "cum_wan": 1991.665768
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 48.386013,
-   "ratio": 6.44,
+   "realtime_wan": 50.721109999999996,
+   "ratio": 6.43,
    "days": 87,
-   "cum_wan": 239823.96920999998
+   "cum_wan": 239826.304307
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 21.119398,
-   "ratio": 2.81,
+   "realtime_wan": 21.960335999999998,
+   "ratio": 2.78,
    "days": 13,
-   "cum_wan": 868.521903
+   "cum_wan": 869.362841
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 20.001967,
-   "ratio": 2.66,
+   "realtime_wan": 20.61557,
+   "ratio": 2.61,
    "days": 84,
-   "cum_wan": 78201.780128
+   "cum_wan": 78202.39373099999
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 18.113267999999998,
+   "realtime_wan": 18.993658,
    "ratio": 2.41,
    "days": 111,
-   "cum_wan": 206262.615817
-  },
-  {
-   "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 10.939103999999999,
-   "ratio": 1.46,
-   "days": 0,
-   "cum_wan": 10.939103999999999
+   "cum_wan": 206263.496207
   },
   {
    "nm": "重生2",
-   "realtime_wan": 10.483057,
-   "ratio": 1.4,
+   "realtime_wan": 11.104371,
+   "ratio": 1.41,
    "days": 34,
-   "cum_wan": 7178.631296
+   "cum_wan": 7179.25261
+  },
+  {
+   "nm": "珠穆朗玛：云中彼岸",
+   "realtime_wan": 10.959104,
+   "ratio": 1.39,
+   "days": 0,
+   "cum_wan": 10.959104
   }
  ],
  "presale": [
