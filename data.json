@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-05 14:00:02",
+ "generated_at": "2026-11-05 14:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 90.29552,
-   "ratio": 23.23,
+   "realtime_wan": 105.525777,
+   "ratio": 23.86,
    "days": 36,
-   "cum_wan": 67258.679796
+   "cum_wan": 67285.049282
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 69.599067,
-   "ratio": 17.9,
+   "realtime_wan": 82.450435,
+   "ratio": 18.64,
    "days": 32,
-   "cum_wan": 48788.715612
+   "cum_wan": 48811.321087000004
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 50.891571,
-   "ratio": 13.09,
+   "realtime_wan": 59.939313,
+   "ratio": 13.55,
    "days": 36,
-   "cum_wan": 40229.651995
+   "cum_wan": 40245.467102999995
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 30.670810999999997,
-   "ratio": 7.89,
+   "realtime_wan": 35.164862,
+   "ratio": 7.95,
    "days": 7,
-   "cum_wan": 1951.650665
+   "cum_wan": 1959.496529
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 26.413383000000003,
-   "ratio": 6.79,
+   "realtime_wan": 29.708901,
+   "ratio": 6.72,
    "days": 87,
-   "cum_wan": 239797.461775
+   "cum_wan": 239805.213205
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 14.066134,
-   "ratio": 3.62,
+   "realtime_wan": 14.797691,
+   "ratio": 3.35,
    "days": 84,
-   "cum_wan": 78195.238876
+   "cum_wan": 78196.575852
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 13.830060999999999,
-   "ratio": 3.56,
+   "realtime_wan": 14.749168,
+   "ratio": 3.34,
    "days": 13,
-   "cum_wan": 860.4583369999999
-  },
-  {
-   "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 10.771104,
-   "ratio": 2.77,
-   "days": 0,
-   "cum_wan": 10.771104
+   "cum_wan": 862.1355060000001
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 10.382214,
-   "ratio": 2.67,
+   "realtime_wan": 11.52079,
+   "ratio": 2.61,
    "days": 111,
-   "cum_wan": 206254.199995
+   "cum_wan": 206255.99771199998
+  },
+  {
+   "nm": "珠穆朗玛：云中彼岸",
+   "realtime_wan": 10.800104,
+   "ratio": 2.44,
+   "days": 0,
+   "cum_wan": 10.800104
   },
   {
    "nm": "戴帽子的猫",
    "realtime_wan": 7.990119,
-   "ratio": 2.06,
+   "ratio": 1.81,
    "days": 0,
    "cum_wan": 9.112119
   }
