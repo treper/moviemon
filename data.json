@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-06 09:30:02",
+ "generated_at": "2026-11-06 10:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 45.633307,
-   "ratio": 17.11,
+   "realtime_wan": 48.001114,
+   "ratio": 17.18,
    "days": 37,
-   "cum_wan": 67542.279039
+   "cum_wan": 67535.998624
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 42.775954999999996,
+   "realtime_wan": 44.826962,
    "ratio": 16.04,
    "days": 33,
-   "cum_wan": 49037.164323000005
+   "cum_wan": 49031.337651
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 20.295724,
-   "ratio": 7.61,
+   "realtime_wan": 21.228632,
+   "ratio": 7.6,
    "days": 37,
-   "cum_wan": 40379.5574
+   "cum_wan": 40375.440729
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 17.996126,
-   "ratio": 6.75,
+   "realtime_wan": 18.706957,
+   "ratio": 6.69,
    "days": 1,
-   "cum_wan": 27.813229999999997
+   "cum_wan": 26.004457000000002
   },
   {
    "nm": "戴帽子的猫",
-   "realtime_wan": 16.389210000000002,
-   "ratio": 6.14,
+   "realtime_wan": 16.578594,
+   "ratio": 5.93,
    "days": 1,
-   "cum_wan": 25.501329000000002
-  },
-  {
-   "nm": "疾速追杀",
-   "realtime_wan": 15.320494,
-   "ratio": 5.74,
-   "days": 8,
-   "cum_wan": 2052.7050280000003
+   "cum_wan": 20.231029
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 15.09171,
-   "ratio": 5.66,
+   "realtime_wan": 16.181507,
+   "ratio": 5.79,
    "days": 88,
-   "cum_wan": 239863.35602600002
+   "cum_wan": 239860.97135300003
+  },
+  {
+   "nm": "疾速追杀",
+   "realtime_wan": 16.060437,
+   "ratio": 5.75,
+   "days": 8,
+   "cum_wan": 2050.8873989999997
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 12.807751,
-   "ratio": 4.8,
+   "realtime_wan": 13.282573000000001,
+   "ratio": 4.75,
    "days": 85,
-   "cum_wan": 78219.827887
+   "cum_wan": 78219.86288500001
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 10.328031,
-   "ratio": 3.87,
+   "realtime_wan": 10.630852,
+   "ratio": 3.8,
    "days": 14,
-   "cum_wan": 881.9698369999999
+   "cum_wan": 881.9568869999999
   },
   {
    "nm": "密档",
-   "realtime_wan": 9.238154,
+   "realtime_wan": 9.679153999999999,
    "ratio": 3.46,
    "days": 71,
-   "cum_wan": 2115.607533
+   "cum_wan": 2116.1400320000002
   }
  ],
  "presale": [
