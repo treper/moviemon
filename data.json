@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-06 19:30:02",
+ "generated_at": "2026-11-06 20:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 337.78672400000005,
-   "ratio": 24.99,
+   "realtime_wan": 369.315292,
+   "ratio": 25.2,
    "days": 37,
-   "cum_wan": 67836.21042100001
+   "cum_wan": 67867.738989
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 278.989423,
-   "ratio": 20.64,
+   "realtime_wan": 307.272476,
+   "ratio": 20.97,
    "days": 33,
-   "cum_wan": 49274.646365
+   "cum_wan": 49302.929418
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 163.16103600000002,
-   "ratio": 12.07,
+   "realtime_wan": 180.123293,
+   "ratio": 12.29,
    "days": 37,
-   "cum_wan": 40523.651346
+   "cum_wan": 40540.613603
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 96.854038,
-   "ratio": 7.17,
+   "realtime_wan": 107.89177,
+   "ratio": 7.36,
    "days": 8,
-   "cum_wan": 2135.051957
+   "cum_wan": 2146.089689
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 80.239717,
-   "ratio": 5.94,
+   "realtime_wan": 87.219163,
+   "ratio": 5.95,
    "days": 88,
-   "cum_wan": 239929.170075
+   "cum_wan": 239936.149521
   },
   {
    "nm": "戴帽子的猫",
-   "realtime_wan": 65.42959300000001,
-   "ratio": 4.84,
+   "realtime_wan": 69.686138,
+   "ratio": 4.76,
    "days": 1,
-   "cum_wan": 68.880095
+   "cum_wan": 73.13664
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 43.030852,
-   "ratio": 3.18,
+   "realtime_wan": 44.714437,
+   "ratio": 3.05,
    "days": 1,
-   "cum_wan": 49.746621999999995
+   "cum_wan": 51.430207
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 35.503598,
-   "ratio": 2.63,
+   "realtime_wan": 37.235966,
+   "ratio": 2.54,
    "days": 112,
-   "cum_wan": 206303.42709800001
+   "cum_wan": 206305.159466
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 29.46446,
-   "ratio": 2.18,
+   "realtime_wan": 30.642838,
+   "ratio": 2.09,
    "days": 85,
-   "cum_wan": 78236.506162
+   "cum_wan": 78237.68454
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 28.218139,
-   "ratio": 2.09,
+   "realtime_wan": 28.653523,
+   "ratio": 1.96,
    "days": 14,
-   "cum_wan": 900.200118
+   "cum_wan": 900.635502
   }
  ],
  "presale": [
@@ -77,7 +77,7 @@
    "id": 1292,
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
-   "wish": 154215,
+   "wish": 154625,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -86,8 +86,8 @@
    "id": 1502289,
    "nm": "我们仅有一次的人生",
    "rt": "2026-11-07",
-   "wish": 27246,
-   "wish_delta_1d": 2307,
+   "wish": 28577,
+   "wish_delta_1d": 2712,
    "on_sale": true,
    "pooled": true
   },
@@ -95,7 +95,7 @@
    "id": 1365977,
    "nm": "无可替代的你",
    "rt": "2026-11-11",
-   "wish": 17785,
+   "wish": 18808,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -110,6 +110,15 @@
    "pooled": false
   },
   {
+   "id": 1563514,
+   "nm": "心迷宫之三重罪",
+   "rt": "2026-11-07",
+   "wish": 16647,
+   "wish_delta_1d": 873,
+   "on_sale": true,
+   "pooled": true
+  },
+  {
    "id": 1531816,
    "nm": "菜肉馄饨",
    "rt": "2026-10-23",
@@ -117,15 +126,6 @@
    "wish_delta_1d": 79,
    "on_sale": false,
    "pooled": false
-  },
-  {
-   "id": 1563514,
-   "nm": "心迷宫之三重罪",
-   "rt": "2026-11-07",
-   "wish": 16140,
-   "wish_delta_1d": 713,
-   "on_sale": true,
-   "pooled": true
   },
   {
    "id": 1529836,
@@ -158,8 +158,8 @@
    "id": 1595715,
    "nm": "怨宅",
    "rt": "2026-11-13",
-   "wish": 7460,
-   "wish_delta_1d": 193,
+   "wish": 7471,
+   "wish_delta_1d": 204,
    "on_sale": false,
    "pooled": false
   }
@@ -313,8 +313,8 @@
    "nm": "我们仅有一次的人生",
    "rt": "2026-11-07",
    "status": "WATCHING",
-   "wish": 27246,
-   "wish_delta_1d": 2307,
+   "wish": 28577,
+   "wish_delta_1d": 2712,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "心迷宫之三重罪",
    "rt": "2026-11-07",
    "status": "WATCHING",
-   "wish": 16140,
-   "wish_delta_1d": 713,
+   "wish": 16647,
+   "wish_delta_1d": 873,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -335,14 +335,62 @@
    "nm": "乡归",
    "rt": "2026-11-07",
    "status": "WATCHING",
-   "wish": 3262,
-   "wish_delta_1d": 715,
+   "wish": 3413,
+   "wish_delta_1d": 285,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
   }
  ],
  "events": [
+  {
+   "ts": "2026-11-06 20:00:11",
+   "etype": "E4",
+   "movie_name": "戴帽子的猫",
+   "symbol": null,
+   "title": "📊 首日战报:戴帽子的猫",
+   "body": "《戴帽子的猫》上映首日:实时票房 0.01 亿,累计 0.01 亿(目标 3.0 亿),票房占比 4.76%,评分未出。"
+  },
+  {
+   "ts": "2026-11-06 20:00:11",
+   "etype": "E6",
+   "movie_name": "戴帽子的猫",
+   "symbol": null,
+   "title": "⚠️ 票房不及预期:戴帽子的猫",
+   "body": "《戴帽子的猫》首日累计 0.01 亿,低于目标的 60%,注意相关股回调风险。"
+  },
+  {
+   "ts": "2026-11-06 20:00:11",
+   "etype": "E4",
+   "movie_name": "一朵山花别样红",
+   "symbol": null,
+   "title": "📊 首日战报:一朵山花别样红",
+   "body": "《一朵山花别样红》上映首日:实时票房 0.00 亿,累计 0.00 亿(目标 3.0 亿),票房占比 0.3%,评分未出。"
+  },
+  {
+   "ts": "2026-11-06 20:00:11",
+   "etype": "E6",
+   "movie_name": "一朵山花别样红",
+   "symbol": null,
+   "title": "⚠️ 票房不及预期:一朵山花别样红",
+   "body": "《一朵山花别样红》首日累计 0.00 亿,低于目标的 60%,注意相关股回调风险。"
+  },
+  {
+   "ts": "2026-11-06 20:00:11",
+   "etype": "E4",
+   "movie_name": "珠穆朗玛：云中彼岸",
+   "symbol": null,
+   "title": "📊 首日战报:珠穆朗玛：云中彼岸",
+   "body": "《珠穆朗玛：云中彼岸》上映首日:实时票房 0.00 亿,累计 0.01 亿(目标 3.0 亿),票房占比 3.05%,评分未出。"
+  },
+  {
+   "ts": "2026-11-06 20:00:11",
+   "etype": "E6",
+   "movie_name": "珠穆朗玛：云中彼岸",
+   "symbol": null,
+   "title": "⚠️ 票房不及预期:珠穆朗玛：云中彼岸",
+   "body": "《珠穆朗玛：云中彼岸》首日累计 0.01 亿,低于目标的 60%,注意相关股回调风险。"
+  },
   {
    "ts": "2026-11-03 09:00:03",
    "etype": "E2",
