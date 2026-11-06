@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-06 17:30:02",
+ "generated_at": "2026-11-06 18:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 233.472431,
-   "ratio": 23.95,
+   "realtime_wan": 250.855435,
+   "ratio": 24.07,
    "days": 37,
-   "cum_wan": 67731.896128
+   "cum_wan": 67749.27913200001
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 194.561294,
-   "ratio": 19.96,
+   "realtime_wan": 208.941632,
+   "ratio": 20.05,
    "days": 33,
-   "cum_wan": 49190.218236
+   "cum_wan": 49204.598574
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 113.427672,
-   "ratio": 11.63,
+   "realtime_wan": 121.81233999999999,
+   "ratio": 11.69,
    "days": 37,
-   "cum_wan": 40473.917982
+   "cum_wan": 40482.30265
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 64.046617,
-   "ratio": 6.57,
+   "realtime_wan": 69.230992,
+   "ratio": 6.64,
    "days": 8,
-   "cum_wan": 2102.244536
+   "cum_wan": 2107.428911
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 58.812219999999996,
-   "ratio": 6.03,
+   "realtime_wan": 62.623416000000006,
+   "ratio": 6.01,
    "days": 88,
-   "cum_wan": 239907.74257800003
+   "cum_wan": 239911.55377399997
   },
   {
    "nm": "戴帽子的猫",
-   "realtime_wan": 44.782419,
-   "ratio": 4.59,
+   "realtime_wan": 48.692518,
+   "ratio": 4.67,
    "days": 1,
-   "cum_wan": 48.232921000000005
+   "cum_wan": 52.14302
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 35.6008,
-   "ratio": 3.65,
+   "realtime_wan": 37.291857,
+   "ratio": 3.58,
    "days": 1,
-   "cum_wan": 42.31657
+   "cum_wan": 44.007627
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 27.100859000000003,
-   "ratio": 2.78,
+   "realtime_wan": 28.842237,
+   "ratio": 2.77,
    "days": 112,
-   "cum_wan": 206295.024359
+   "cum_wan": 206296.76573699998
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 24.643259,
-   "ratio": 2.53,
+   "realtime_wan": 25.682779,
+   "ratio": 2.46,
    "days": 85,
-   "cum_wan": 78231.684961
+   "cum_wan": 78232.724481
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 22.521428,
+   "realtime_wan": 24.091628,
    "ratio": 2.31,
    "days": 14,
-   "cum_wan": 894.503407
+   "cum_wan": 896.073607
   }
  ],
  "presale": [
