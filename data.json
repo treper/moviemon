@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-05 23:30:02",
+ "generated_at": "2026-11-06 08:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 316.163985,
-   "ratio": 26.31,
-   "days": 36,
-   "cum_wan": 67496.031725
+   "realtime_wan": 42.153782,
+   "ratio": 16.79,
+   "days": 37,
+   "cum_wan": 67538.799514
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 263.89492,
-   "ratio": 21.96,
-   "days": 32,
-   "cum_wan": 48993.299838
+   "realtime_wan": 40.268214,
+   "ratio": 16.04,
+   "days": 33,
+   "cum_wan": 49034.656581999996
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 173.14678500000002,
-   "ratio": 14.41,
-   "days": 36,
-   "cum_wan": 40359.003638
+   "realtime_wan": 18.324451,
+   "ratio": 7.3,
+   "days": 37,
+   "cum_wan": 40377.586126999995
+  },
+  {
+   "nm": "珠穆朗玛：云中彼岸",
+   "realtime_wan": 17.064807000000002,
+   "ratio": 6.8,
+   "days": 1,
+   "cum_wan": 26.881911
+  },
+  {
+   "nm": "戴帽子的猫",
+   "realtime_wan": 15.295545,
+   "ratio": 6.09,
+   "days": 1,
+   "cum_wan": 24.407664
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 112.672002,
-   "ratio": 9.38,
-   "days": 7,
-   "cum_wan": 2037.0971530000002
+   "realtime_wan": 14.360801,
+   "ratio": 5.72,
+   "days": 8,
+   "cum_wan": 2051.745335
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 72.478953,
-   "ratio": 6.03,
-   "days": 87,
-   "cum_wan": 239848.18462800002
+   "realtime_wan": 14.230048000000002,
+   "ratio": 5.67,
+   "days": 88,
+   "cum_wan": 239862.49436399998
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 25.009975,
-   "ratio": 2.08,
-   "days": 84,
-   "cum_wan": 78206.97113600001
+   "realtime_wan": 12.204121,
+   "ratio": 4.86,
+   "days": 85,
+   "cum_wan": 78219.22425700001
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 24.222993,
-   "ratio": 2.02,
-   "days": 13,
-   "cum_wan": 871.642084
+   "realtime_wan": 9.868633,
+   "ratio": 3.93,
+   "days": 14,
+   "cum_wan": 881.510439
   },
   {
-   "nm": "八仙！",
-   "realtime_wan": 23.147976,
-   "ratio": 1.93,
-   "days": 111,
-   "cum_wan": 206267.678261
-  },
-  {
-   "nm": "民宿惊魂",
-   "realtime_wan": 22.658374,
-   "ratio": 1.89,
-   "days": 6,
-   "cum_wan": 626.5954230000001
-  },
-  {
-   "nm": "重生2",
-   "realtime_wan": 18.52931,
-   "ratio": 1.54,
-   "days": 34,
-   "cum_wan": 7186.7364959999995
+   "nm": "密档",
+   "realtime_wan": 9.228141,
+   "ratio": 3.68,
+   "days": 71,
+   "cum_wan": 2115.59752
   }
  ],
  "presale": [
