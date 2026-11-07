@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-07 11:00:02",
+ "generated_at": "2026-11-07 11:30:02",
  "realtime": [
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 379.13739100000004,
-   "ratio": 31.07,
+   "realtime_wan": 396.448147,
+   "ratio": 30.26,
    "days": 1,
-   "cum_wan": 379.13739100000004
+   "cum_wan": 396.448147
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 151.26830900000002,
-   "ratio": 12.39,
+   "realtime_wan": 164.422899,
+   "ratio": 12.55,
    "days": 34,
-   "cum_wan": 49547.978343
+   "cum_wan": 49561.132933
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 137.490813,
-   "ratio": 11.27,
+   "realtime_wan": 151.951266,
+   "ratio": 11.6,
    "days": 38,
-   "cum_wan": 68084.871499
+   "cum_wan": 68099.331952
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 114.63408500000001,
-   "ratio": 9.39,
+   "realtime_wan": 122.42983000000001,
+   "ratio": 9.34,
    "days": 1,
-   "cum_wan": 114.63758500000002
+   "cum_wan": 122.43333
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 53.579271999999996,
-   "ratio": 4.39,
+   "realtime_wan": 59.249623,
+   "ratio": 4.52,
    "days": 38,
-   "cum_wan": 40635.303603
+   "cum_wan": 40640.973954
   },
   {
    "nm": "戴帽子的猫",
-   "realtime_wan": 50.06446,
-   "ratio": 4.1,
+   "realtime_wan": 55.379594999999995,
+   "ratio": 4.23,
    "days": 2,
-   "cum_wan": 129.197357
+   "cum_wan": 134.51249199999998
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 45.829603000000006,
-   "ratio": 3.76,
+   "realtime_wan": 48.264724,
+   "ratio": 3.68,
    "days": 15,
-   "cum_wan": 947.039525
+   "cum_wan": 949.4746460000001
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 44.609353999999996,
-   "ratio": 3.66,
+   "realtime_wan": 47.746809000000006,
+   "ratio": 3.64,
    "days": 2,
-   "cum_wan": 99.993588
+   "cum_wan": 103.131043
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 42.564415000000004,
-   "ratio": 3.49,
+   "realtime_wan": 45.811345,
+   "ratio": 3.5,
    "days": 89,
-   "cum_wan": 239989.05729899998
+   "cum_wan": 239992.304229
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 35.843412,
+   "realtime_wan": 38.504388,
    "ratio": 2.94,
    "days": 9,
-   "cum_wan": 2214.064697
+   "cum_wan": 2216.725673
   }
  ],
  "presale": [
