@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-07 08:00:02",
+ "generated_at": "2026-11-07 09:00:02",
  "realtime": [
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 325.894282,
-   "ratio": 33.41,
+   "realtime_wan": 330.406941,
+   "ratio": 33.24,
    "days": 1,
-   "cum_wan": 325.89532599999995
+   "cum_wan": 330.407985
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 120.09393899999999,
-   "ratio": 12.31,
+   "realtime_wan": 121.805647,
+   "ratio": 12.25,
    "days": 34,
-   "cum_wan": 49530.637284
+   "cum_wan": 49532.348992
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 102.958386,
-   "ratio": 10.56,
+   "realtime_wan": 104.88841000000001,
+   "ratio": 10.55,
    "days": 38,
-   "cum_wan": 68063.76466100001
+   "cum_wan": 68065.69468500001
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 95.238456,
-   "ratio": 9.76,
+   "realtime_wan": 96.375888,
+   "ratio": 9.69,
    "days": 1,
-   "cum_wan": 95.243328
+   "cum_wan": 96.38076
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 39.259786,
-   "ratio": 4.03,
+   "realtime_wan": 40.535525,
+   "ratio": 4.08,
    "days": 38,
-   "cum_wan": 40628.079158
+   "cum_wan": 40629.354897000005
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 37.397338,
+   "realtime_wan": 38.050515999999995,
    "ratio": 3.83,
    "days": 15,
-   "cum_wan": 939.2307390000001
+   "cum_wan": 939.883917
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 34.396518,
-   "ratio": 3.53,
+   "realtime_wan": 35.335527,
+   "ratio": 3.55,
    "days": 2,
-   "cum_wan": 90.79342700000001
+   "cum_wan": 91.73243599999999
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 33.688955,
-   "ratio": 3.45,
+   "realtime_wan": 34.223639,
+   "ratio": 3.44,
    "days": 89,
-   "cum_wan": 239985.78654200002
+   "cum_wan": 239986.32122600003
   },
   {
    "nm": "戴帽子的猫",
-   "realtime_wan": 32.219518,
-   "ratio": 3.3,
+   "realtime_wan": 33.683828999999996,
+   "ratio": 3.39,
    "days": 2,
-   "cum_wan": 112.462066
+   "cum_wan": 113.926377
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 30.691663000000002,
-   "ratio": 3.15,
+   "realtime_wan": 30.810632000000002,
+   "ratio": 3.1,
    "days": 86,
-   "cum_wan": 78272.55362
+   "cum_wan": 78272.672589
   }
  ],
  "presale": [
@@ -77,17 +77,8 @@
    "id": 1292,
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
-   "wish": 154625,
-   "wish_delta_1d": null,
-   "on_sale": true,
-   "pooled": false
-  },
-  {
-   "id": 1502289,
-   "nm": "我们仅有一次的人生",
-   "rt": "2026-11-07",
-   "wish": 28577,
-   "wish_delta_1d": 2712,
+   "wish": 155062,
+   "wish_delta_1d": 847,
    "on_sale": true,
    "pooled": true
   },
@@ -95,10 +86,10 @@
    "id": 1365977,
    "nm": "无可替代的你",
    "rt": "2026-11-11",
-   "wish": 18808,
-   "wish_delta_1d": null,
+   "wish": 20038,
+   "wish_delta_1d": 2253,
    "on_sale": true,
-   "pooled": false
+   "pooled": true
   },
   {
    "id": 1500516,
@@ -108,15 +99,6 @@
    "wish_delta_1d": 250,
    "on_sale": false,
    "pooled": false
-  },
-  {
-   "id": 1563514,
-   "nm": "心迷宫之三重罪",
-   "rt": "2026-11-07",
-   "wish": 16647,
-   "wish_delta_1d": 873,
-   "on_sale": true,
-   "pooled": true
   },
   {
    "id": 1531816,
@@ -158,57 +140,31 @@
    "id": 1595715,
    "nm": "怨宅",
    "rt": "2026-11-13",
-   "wish": 7471,
-   "wish_delta_1d": 204,
+   "wish": 7486,
+   "wish_delta_1d": 26,
+   "on_sale": false,
+   "pooled": false
+  },
+  {
+   "id": 1599810,
+   "nm": "阴阳路惊魂",
+   "rt": "2026-10-30",
+   "wish": 4795,
+   "wish_delta_1d": 141,
+   "on_sale": true,
+   "pooled": false
+  },
+  {
+   "id": 1498217,
+   "nm": "凶宅怪谈",
+   "rt": "2026-11-07",
+   "wish": 4476,
+   "wish_delta_1d": 166,
    "on_sale": false,
    "pooled": false
   }
  ],
  "watching": [
-  {
-   "id": 1499664,
-   "nm": "愤怒的老虎",
-   "rt": "2026-10-23",
-   "status": "RELEASED",
-   "wish": 10800,
-   "wish_delta_1d": 355,
-   "maoyan_score": null,
-   "target_yi": 3.0,
-   "links": []
-  },
-  {
-   "id": 1516940,
-   "nm": "象行记",
-   "rt": "2026-10-23",
-   "status": "RELEASED",
-   "wish": 2358,
-   "wish_delta_1d": 141,
-   "maoyan_score": null,
-   "target_yi": 3.0,
-   "links": []
-  },
-  {
-   "id": 1595704,
-   "nm": "三星堆：未来往事",
-   "rt": "2026-10-23",
-   "status": "RELEASED",
-   "wish": 5872,
-   "wish_delta_1d": 336,
-   "maoyan_score": null,
-   "target_yi": 3.0,
-   "links": []
-  },
-  {
-   "id": 1640476,
-   "nm": "生日快乐",
-   "rt": "2026-10-23",
-   "status": "RELEASED",
-   "wish": 4105,
-   "wish_delta_1d": 122,
-   "maoyan_score": null,
-   "target_yi": 3.0,
-   "links": []
-  },
   {
    "id": 1418966,
    "nm": "落凡尘",
@@ -312,7 +268,7 @@
    "id": 1502289,
    "nm": "我们仅有一次的人生",
    "rt": "2026-11-07",
-   "status": "WATCHING",
+   "status": "RELEASED",
    "wish": 28577,
    "wish_delta_1d": 2712,
    "maoyan_score": null,
@@ -323,7 +279,7 @@
    "id": 1563514,
    "nm": "心迷宫之三重罪",
    "rt": "2026-11-07",
-   "status": "WATCHING",
+   "status": "RELEASED",
    "wish": 16647,
    "wish_delta_1d": 873,
    "maoyan_score": null,
@@ -334,9 +290,42 @@
    "id": 1601225,
    "nm": "乡归",
    "rt": "2026-11-07",
-   "status": "WATCHING",
+   "status": "RELEASED",
    "wish": 3413,
    "wish_delta_1d": 285,
+   "maoyan_score": null,
+   "target_yi": 3.0,
+   "links": []
+  },
+  {
+   "id": 1510966,
+   "nm": "爷爷奶奶那些事",
+   "rt": "2026-11-10",
+   "status": "WATCHING",
+   "wish": 253,
+   "wish_delta_1d": 37,
+   "maoyan_score": null,
+   "target_yi": 3.0,
+   "links": []
+  },
+  {
+   "id": 1365977,
+   "nm": "无可替代的你",
+   "rt": "2026-11-11",
+   "status": "WATCHING",
+   "wish": 20038,
+   "wish_delta_1d": 2253,
+   "maoyan_score": null,
+   "target_yi": 3.0,
+   "links": []
+  },
+  {
+   "id": 1292,
+   "nm": "海上钢琴师",
+   "rt": "2026-11-13",
+   "status": "WATCHING",
+   "wish": 155062,
+   "wish_delta_1d": 847,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
