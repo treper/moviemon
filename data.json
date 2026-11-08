@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-08 19:30:03",
+ "generated_at": "2026-11-08 20:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 621.831365,
-   "ratio": 19.79,
+   "realtime_wan": 645.206825,
+   "ratio": 19.91,
    "days": 39,
-   "cum_wan": 69544.903964
+   "cum_wan": 69568.27942400001
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 520.9590969999999,
-   "ratio": 16.58,
+   "realtime_wan": 540.939127,
+   "ratio": 16.7,
    "days": 35,
-   "cum_wan": 50887.783183
+   "cum_wan": 50907.763213
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 353.29711499999996,
-   "ratio": 11.24,
+   "realtime_wan": 371.66668799999997,
+   "ratio": 11.47,
    "days": 2,
-   "cum_wan": 1028.015804
+   "cum_wan": 1046.385377
   },
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 338.713907,
-   "ratio": 10.78,
+   "realtime_wan": 348.851237,
+   "ratio": 10.77,
    "days": 2,
-   "cum_wan": 1388.268359
+   "cum_wan": 1398.4056890000002
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 273.67983799999996,
-   "ratio": 8.71,
+   "realtime_wan": 281.94518,
+   "ratio": 8.7,
    "days": 39,
-   "cum_wan": 41239.876006
+   "cum_wan": 41248.141348000005
   },
   {
    "nm": "戴帽子的猫",
-   "realtime_wan": 156.881495,
-   "ratio": 4.99,
+   "realtime_wan": 157.119327,
+   "ratio": 4.85,
    "days": 3,
-   "cum_wan": 427.66858099999996
+   "cum_wan": 427.906413
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 134.030328,
+   "realtime_wan": 138.154461,
    "ratio": 4.26,
    "days": 90,
-   "cum_wan": 240279.698491
+   "cum_wan": 240283.82262399996
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 124.604302,
-   "ratio": 3.96,
+   "realtime_wan": 126.911281,
+   "ratio": 3.92,
    "days": 3,
-   "cum_wan": 285.524445
+   "cum_wan": 287.831424
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 118.186627,
-   "ratio": 3.76,
+   "realtime_wan": 119.34288500000001,
+   "ratio": 3.68,
    "days": 114,
-   "cum_wan": 206554.31573099998
+   "cum_wan": 206555.471989
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 107.699777,
-   "ratio": 3.43,
+   "realtime_wan": 111.84695,
+   "ratio": 3.45,
    "days": 10,
-   "cum_wan": 2459.769191
+   "cum_wan": 2463.916364
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1292,
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
-   "wish": 156099,
-   "wish_delta_1d": 902,
+   "wish": 156506,
+   "wish_delta_1d": 870,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1365977,
    "nm": "无可替代的你",
    "rt": "2026-11-11",
-   "wish": 22954,
-   "wish_delta_1d": 2595,
+   "wish": 24140,
+   "wish_delta_1d": 2891,
    "on_sale": true,
    "pooled": true
   },
@@ -95,8 +95,8 @@
    "id": 1500516,
    "nm": "恐怖直播",
    "rt": "2026-11-20",
-   "wish": 17726,
-   "wish_delta_1d": 291,
+   "wish": 17771,
+   "wish_delta_1d": 336,
    "on_sale": false,
    "pooled": true
   },
@@ -140,8 +140,8 @@
    "id": 1595715,
    "nm": "怨宅",
    "rt": "2026-11-13",
-   "wish": 7592,
-   "wish_delta_1d": 97,
+   "wish": 7637,
+   "wish_delta_1d": 96,
    "on_sale": false,
    "pooled": true
   },
@@ -280,8 +280,8 @@
    "nm": "爷爷奶奶那些事",
    "rt": "2026-11-10",
    "status": "WATCHING",
-   "wish": 324,
-   "wish_delta_1d": 57,
+   "wish": 358,
+   "wish_delta_1d": 67,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "无可替代的你",
    "rt": "2026-11-11",
    "status": "WATCHING",
-   "wish": 22954,
-   "wish_delta_1d": 2595,
+   "wish": 24140,
+   "wish_delta_1d": 2891,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +302,8 @@
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 156099,
-   "wish_delta_1d": 902,
+   "wish": 156506,
+   "wish_delta_1d": 870,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "怨宅",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 7592,
-   "wish_delta_1d": 97,
+   "wish": 7637,
+   "wish_delta_1d": 96,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "恐怖直播",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 17726,
-   "wish_delta_1d": 291,
+   "wish": 17771,
+   "wish_delta_1d": 336,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
