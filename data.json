@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-08 09:00:02",
+ "generated_at": "2026-11-08 09:30:02",
  "realtime": [
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 115.19299099999999,
-   "ratio": 20.07,
+   "realtime_wan": 117.16065,
+   "ratio": 19.73,
    "days": 2,
-   "cum_wan": 1154.291595
+   "cum_wan": 1156.2592539999998
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 69.40196,
-   "ratio": 12.09,
+   "realtime_wan": 71.46913599999999,
+   "ratio": 12.03,
    "days": 35,
-   "cum_wan": 50428.148669
+   "cum_wan": 50430.215845
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 66.503137,
-   "ratio": 11.59,
+   "realtime_wan": 69.10462199999999,
+   "ratio": 11.64,
    "days": 39,
-   "cum_wan": 68980.172765
+   "cum_wan": 68982.77425
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 40.862823999999996,
-   "ratio": 7.12,
+   "realtime_wan": 42.355018,
+   "ratio": 7.13,
    "days": 3,
-   "cum_wan": 201.11203799999998
+   "cum_wan": 202.604232
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 39.626521999999994,
-   "ratio": 6.91,
+   "realtime_wan": 41.089724,
+   "ratio": 6.92,
    "days": 2,
-   "cum_wan": 709.297608
+   "cum_wan": 710.76081
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 36.90101,
-   "ratio": 6.43,
+   "realtime_wan": 38.276409,
+   "ratio": 6.44,
    "days": 39,
-   "cum_wan": 40999.056641
-  },
-  {
-   "nm": "奥德赛",
-   "realtime_wan": 28.071146999999996,
-   "ratio": 4.89,
-   "days": 87,
-   "cum_wan": 78348.464449
+   "cum_wan": 41000.43204
   },
   {
    "nm": "戴帽子的猫",
-   "realtime_wan": 27.252376,
-   "ratio": 4.75,
+   "realtime_wan": 29.231713,
+   "ratio": 4.92,
    "days": 3,
-   "cum_wan": 296.345417
+   "cum_wan": 298.324754
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 28.684619,
+   "ratio": 4.83,
+   "days": 87,
+   "cum_wan": 78349.077921
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 26.697521000000002,
-   "ratio": 4.65,
+   "realtime_wan": 27.677796999999998,
+   "ratio": 4.66,
    "days": 16,
-   "cum_wan": 1033.734444
+   "cum_wan": 1034.71472
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 24.023363,
-   "ratio": 4.19,
+   "realtime_wan": 24.785313000000002,
+   "ratio": 4.17,
    "days": 90,
-   "cum_wan": 240168.08299
+   "cum_wan": 240168.84494
   }
  ],
  "presale": [
