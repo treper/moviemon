@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-08 16:00:02",
+ "generated_at": "2026-11-08 16:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 442.55443899999995,
-   "ratio": 18.82,
+   "realtime_wan": 475.412446,
+   "ratio": 19.0,
    "days": 39,
-   "cum_wan": 69365.627038
+   "cum_wan": 69398.48504500001
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 373.522393,
-   "ratio": 15.89,
+   "realtime_wan": 402.54107799999997,
+   "ratio": 16.09,
    "days": 35,
-   "cum_wan": 50740.346479
+   "cum_wan": 50769.365163999995
   },
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 266.478948,
-   "ratio": 11.33,
+   "realtime_wan": 278.73440800000003,
+   "ratio": 11.14,
    "days": 2,
-   "cum_wan": 1316.0334
+   "cum_wan": 1328.2888599999999
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 237.986796,
-   "ratio": 10.12,
+   "realtime_wan": 256.92992200000003,
+   "ratio": 10.27,
    "days": 2,
-   "cum_wan": 912.705485
+   "cum_wan": 931.648611
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 197.454808,
-   "ratio": 8.4,
+   "realtime_wan": 212.837556,
+   "ratio": 8.51,
    "days": 39,
-   "cum_wan": 41163.650976
+   "cum_wan": 41179.033724
   },
   {
    "nm": "戴帽子的猫",
-   "realtime_wan": 131.758938,
-   "ratio": 5.6,
+   "realtime_wan": 138.252399,
+   "ratio": 5.53,
    "days": 3,
-   "cum_wan": 402.54602400000005
+   "cum_wan": 409.039485
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 101.90679499999999,
+   "realtime_wan": 108.29676,
    "ratio": 4.33,
    "days": 90,
-   "cum_wan": 240247.57495799998
-  },
-  {
-   "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 98.750121,
-   "ratio": 4.2,
-   "days": 3,
-   "cum_wan": 259.67026400000003
+   "cum_wan": 240253.964923
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 98.688435,
-   "ratio": 4.2,
+   "realtime_wan": 103.667406,
+   "ratio": 4.14,
    "days": 114,
-   "cum_wan": 206534.817539
+   "cum_wan": 206539.79651
   },
   {
-   "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 74.97242,
-   "ratio": 3.19,
-   "days": 16,
-   "cum_wan": 1084.297149
+   "nm": "珠穆朗玛：云中彼岸",
+   "realtime_wan": 103.220105,
+   "ratio": 4.13,
+   "days": 3,
+   "cum_wan": 264.140248
+  },
+  {
+   "nm": "疾速追杀",
+   "realtime_wan": 78.526596,
+   "ratio": 3.14,
+   "days": 10,
+   "cum_wan": 2430.59601
   }
  ],
  "presale": [
