@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-08 13:30:02",
+ "generated_at": "2026-11-08 14:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 218.921336,
-   "ratio": 15.76,
+   "realtime_wan": 270.87552400000004,
+   "ratio": 16.85,
    "days": 39,
-   "cum_wan": 69141.861223
-  },
-  {
-   "nm": "我们仅有一次的人生",
-   "realtime_wan": 190.733976,
-   "ratio": 13.73,
-   "days": 2,
-   "cum_wan": 1240.203929
+   "cum_wan": 69193.815411
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 190.545986,
-   "ratio": 13.72,
+   "realtime_wan": 231.757409,
+   "ratio": 14.41,
    "days": 35,
-   "cum_wan": 50557.278720999995
+   "cum_wan": 50598.490144
+  },
+  {
+   "nm": "我们仅有一次的人生",
+   "realtime_wan": 206.96822,
+   "ratio": 12.87,
+   "days": 2,
+   "cum_wan": 1256.438173
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 117.993253,
-   "ratio": 8.5,
+   "realtime_wan": 144.058736,
+   "ratio": 8.96,
    "days": 2,
-   "cum_wan": 792.476602
+   "cum_wan": 818.5420849999999
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 107.58304199999999,
-   "ratio": 7.75,
+   "realtime_wan": 127.727696,
+   "ratio": 7.94,
    "days": 39,
-   "cum_wan": 41073.6165
+   "cum_wan": 41093.761154
   },
   {
    "nm": "戴帽子的猫",
-   "realtime_wan": 85.174269,
-   "ratio": 6.13,
+   "realtime_wan": 97.438854,
+   "ratio": 6.06,
    "days": 3,
-   "cum_wan": 355.69288900000004
+   "cum_wan": 367.95747400000005
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 76.892646,
-   "ratio": 5.54,
+   "realtime_wan": 81.591314,
+   "ratio": 5.07,
    "days": 3,
-   "cum_wan": 237.79053399999998
+   "cum_wan": 242.489202
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 59.360362,
-   "ratio": 4.27,
+   "realtime_wan": 68.861083,
+   "ratio": 4.28,
    "days": 114,
-   "cum_wan": 206495.45801300002
+   "cum_wan": 206504.95873399999
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 59.282757,
-   "ratio": 4.27,
+   "realtime_wan": 68.545005,
+   "ratio": 4.26,
    "days": 90,
-   "cum_wan": 240204.91725700002
+   "cum_wan": 240214.179505
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 55.274915,
-   "ratio": 3.98,
+   "realtime_wan": 60.234552,
+   "ratio": 3.75,
    "days": 16,
-   "cum_wan": 1063.0628769999998
+   "cum_wan": 1068.022514
   }
  ],
  "presale": [
