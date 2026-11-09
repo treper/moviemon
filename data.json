@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-09 14:00:02",
+ "generated_at": "2026-11-09 14:30:03",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 67.036183,
-   "ratio": 18.55,
+   "realtime_wan": 82.506527,
+   "ratio": 19.82,
    "days": 40,
-   "cum_wan": 69676.716299
+   "cum_wan": 69731.618265
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 46.483867,
-   "ratio": 12.86,
+   "realtime_wan": 55.006686,
+   "ratio": 13.21,
    "days": 36,
-   "cum_wan": 51010.408147
+   "cum_wan": 51038.539464
   },
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 41.429476,
-   "ratio": 11.46,
+   "realtime_wan": 46.663847,
+   "ratio": 11.21,
    "days": 3,
-   "cum_wan": 1472.071653
+   "cum_wan": 1482.251079
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 40.953509000000004,
-   "ratio": 11.33,
+   "realtime_wan": 43.445921999999996,
+   "ratio": 10.43,
    "days": 4,
-   "cum_wan": 327.260293
+   "cum_wan": 339.532058
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 34.527628,
-   "ratio": 9.55,
+   "realtime_wan": 40.795394,
+   "ratio": 9.8,
    "days": 3,
-   "cum_wan": 1127.115444
+   "cum_wan": 1151.017388
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 33.603749,
-   "ratio": 9.3,
+   "realtime_wan": 40.363814,
+   "ratio": 9.69,
    "days": 40,
-   "cum_wan": 41293.158535
+   "cum_wan": 41312.095456999996
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 15.000428,
-   "ratio": 4.15,
+   "realtime_wan": 17.15493,
+   "ratio": 4.12,
    "days": 91,
-   "cum_wan": 240299.86441100002
+   "cum_wan": 240312.730767
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 10.608048,
-   "ratio": 2.93,
+   "realtime_wan": 12.380087,
+   "ratio": 2.97,
    "days": 11,
-   "cum_wan": 2491.648332
-  },
-  {
-   "nm": "戴帽子的猫",
-   "realtime_wan": 10.135568,
-   "ratio": 2.8,
-   "days": 4,
-   "cum_wan": 440.70780599999995
+   "cum_wan": 2491.839484
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 10.004286,
-   "ratio": 2.77,
+   "realtime_wan": 11.142041,
+   "ratio": 2.68,
    "days": 115,
-   "cum_wan": 206561.81468900002
+   "cum_wan": 206569.68203
+  },
+  {
+   "nm": "戴帽子的猫",
+   "realtime_wan": 10.857507,
+   "ratio": 2.61,
+   "days": 4,
+   "cum_wan": 441.980291
   }
  ],
  "presale": [
