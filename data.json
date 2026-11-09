@@ -1,84 +1,13 @@
 {
- "generated_at": "2026-11-09 19:30:02",
- "realtime": [
-  {
-   "nm": "神探之痕迹",
-   "realtime_wan": 262.316127,
-   "ratio": 25.97,
-   "days": 40,
-   "cum_wan": 69911.42786499999
-  },
-  {
-   "nm": "生化危机：爆发夜",
-   "realtime_wan": 134.830735,
-   "ratio": 13.35,
-   "days": 36,
-   "cum_wan": 51118.363513
-  },
-  {
-   "nm": "什么意思夫妇",
-   "realtime_wan": 129.307284,
-   "ratio": 12.8,
-   "days": 40,
-   "cum_wan": 41401.035627
-  },
-  {
-   "nm": "心迷宫之三重罪",
-   "realtime_wan": 109.075768,
-   "ratio": 10.8,
-   "days": 3,
-   "cum_wan": 1219.329602
-  },
-  {
-   "nm": "我们仅有一次的人生",
-   "realtime_wan": 94.577477,
-   "ratio": 9.37,
-   "days": 3,
-   "cum_wan": 1530.155709
-  },
-  {
-   "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 78.293886,
-   "ratio": 7.75,
-   "days": 4,
-   "cum_wan": 374.380022
-  },
-  {
-   "nm": "欢迎来龙餐馆",
-   "realtime_wan": 37.822255,
-   "ratio": 3.75,
-   "days": 91,
-   "cum_wan": 240333.39809200002
-  },
-  {
-   "nm": "疾速追杀",
-   "realtime_wan": 27.972026,
-   "ratio": 2.77,
-   "days": 11,
-   "cum_wan": 2507.431423
-  },
-  {
-   "nm": "八仙！",
-   "realtime_wan": 16.979661,
-   "ratio": 1.68,
-   "days": 115,
-   "cum_wan": 206575.51685
-  },
-  {
-   "nm": "戴帽子的猫",
-   "realtime_wan": 15.497307000000001,
-   "ratio": 1.53,
-   "days": 4,
-   "cum_wan": 446.615591
-  }
- ],
+ "generated_at": "2026-11-09 20:00:03",
+ "realtime": [],
  "presale": [
   {
    "id": 1292,
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
-   "wish": 156937,
-   "wish_delta_1d": 838,
+   "wish": 157274,
+   "wish_delta_1d": 768,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +15,8 @@
    "id": 1365977,
    "nm": "无可替代的你",
    "rt": "2026-11-11",
-   "wish": 26365,
-   "wish_delta_1d": 3411,
+   "wish": 27700,
+   "wish_delta_1d": 3560,
    "on_sale": true,
    "pooled": true
   },
@@ -140,7 +69,7 @@
    "id": 1566940,
    "nm": "我没错！",
    "rt": "2026-11-14",
-   "wish": 8917,
+   "wish": 9167,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -149,8 +78,8 @@
    "id": 1595715,
    "nm": "怨宅",
    "rt": "2026-11-13",
-   "wish": 7680,
-   "wish_delta_1d": 88,
+   "wish": 7714,
+   "wish_delta_1d": 77,
    "on_sale": false,
    "pooled": true
   },
@@ -280,8 +209,8 @@
    "nm": "爷爷奶奶那些事",
    "rt": "2026-11-10",
    "status": "WATCHING",
-   "wish": 413,
-   "wish_delta_1d": 89,
+   "wish": 449,
+   "wish_delta_1d": 91,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +220,8 @@
    "nm": "无可替代的你",
    "rt": "2026-11-11",
    "status": "WATCHING",
-   "wish": 26365,
-   "wish_delta_1d": 3411,
+   "wish": 27700,
+   "wish_delta_1d": 3560,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +231,8 @@
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 156937,
-   "wish_delta_1d": 838,
+   "wish": 157274,
+   "wish_delta_1d": 768,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +242,8 @@
    "nm": "怨宅",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 7680,
-   "wish_delta_1d": 88,
+   "wish": 7714,
+   "wish_delta_1d": 77,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
