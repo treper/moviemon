@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-10 18:30:02",
+ "generated_at": "2026-11-10 19:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 276.664347,
-   "ratio": 30.35,
+   "realtime_wan": 304.146659,
+   "ratio": 30.58,
    "days": 41,
-   "cum_wan": 70285.334527
+   "cum_wan": 70312.81683899999
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 122.425152,
-   "ratio": 13.43,
+   "realtime_wan": 133.461781,
+   "ratio": 13.42,
    "days": 41,
-   "cum_wan": 41563.830950999996
+   "cum_wan": 41574.86758
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 105.135274,
-   "ratio": 11.53,
+   "realtime_wan": 116.328832,
+   "ratio": 11.7,
    "days": 37,
-   "cum_wan": 51279.859747
-  },
-  {
-   "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 83.310419,
-   "ratio": 9.14,
-   "days": 5,
-   "cum_wan": 469.927355
+   "cum_wan": 51291.053305
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 80.779168,
-   "ratio": 8.86,
+   "realtime_wan": 90.696686,
+   "ratio": 9.12,
    "days": 4,
-   "cum_wan": 1348.577576
+   "cum_wan": 1358.4950939999999
+  },
+  {
+   "nm": "珠穆朗玛：云中彼岸",
+   "realtime_wan": 88.971064,
+   "ratio": 8.95,
+   "days": 5,
+   "cum_wan": 475.588
   },
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 62.583025,
-   "ratio": 6.87,
+   "realtime_wan": 68.024939,
+   "ratio": 6.84,
    "days": 4,
-   "cum_wan": 1617.71259
+   "cum_wan": 1623.1545039999999
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 34.329483,
-   "ratio": 3.77,
+   "realtime_wan": 37.080752000000004,
+   "ratio": 3.73,
    "days": 92,
-   "cum_wan": 240377.126937
+   "cum_wan": 240379.878206
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 23.470485,
+   "realtime_wan": 25.558669000000002,
    "ratio": 2.57,
    "days": 12,
-   "cum_wan": 2541.5072210000003
+   "cum_wan": 2543.595405
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 14.990135,
-   "ratio": 1.64,
+   "realtime_wan": 15.772135999999998,
+   "ratio": 1.59,
    "days": 89,
-   "cum_wan": 78414.44670599999
+   "cum_wan": 78415.228707
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 13.784973999999998,
-   "ratio": 1.51,
+   "realtime_wan": 14.556529000000001,
+   "ratio": 1.46,
    "days": 41,
-   "cum_wan": 7927.304161
+   "cum_wan": 7928.075715999999
   }
  ],
  "presale": [
