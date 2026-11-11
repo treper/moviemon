@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-11 19:30:02",
+ "generated_at": "2026-11-11 20:00:02",
  "realtime": [
   {
    "nm": "无可替代的你",
-   "realtime_wan": 841.1062039999999,
-   "ratio": 41.32,
+   "realtime_wan": 878.0711,
+   "ratio": 40.93,
    "days": 1,
-   "cum_wan": 846.967064
+   "cum_wan": 883.93196
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 371.317363,
-   "ratio": 18.24,
+   "realtime_wan": 398.614542,
+   "ratio": 18.58,
    "days": 42,
-   "cum_wan": 70789.465892
+   "cum_wan": 70816.76307100001
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 183.416699,
-   "ratio": 9.01,
+   "realtime_wan": 197.358079,
+   "ratio": 9.2,
    "days": 42,
-   "cum_wan": 41804.84725
+   "cum_wan": 41818.78863
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 153.026672,
-   "ratio": 7.52,
+   "realtime_wan": 163.199275,
+   "ratio": 7.61,
    "days": 38,
-   "cum_wan": 51511.150401
-  },
-  {
-   "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 92.091308,
-   "ratio": 4.52,
-   "days": 6,
-   "cum_wan": 585.9911639999999
+   "cum_wan": 51521.323004000005
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 90.704463,
-   "ratio": 4.46,
+   "realtime_wan": 97.25738299999999,
+   "ratio": 4.53,
    "days": 5,
-   "cum_wan": 1503.388815
+   "cum_wan": 1509.9417349999999
+  },
+  {
+   "nm": "珠穆朗玛：云中彼岸",
+   "realtime_wan": 95.26910600000001,
+   "ratio": 4.44,
+   "days": 6,
+   "cum_wan": 589.168962
   },
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 58.238981,
-   "ratio": 2.86,
+   "realtime_wan": 61.060328000000005,
+   "ratio": 2.85,
    "days": 5,
-   "cum_wan": 1705.5977510000002
+   "cum_wan": 1708.419098
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 42.754746999999995,
+   "realtime_wan": 45.091444,
    "ratio": 2.1,
    "days": 93,
-   "cum_wan": 240435.342567
+   "cum_wan": 240437.67926399998
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 26.460945000000002,
-   "ratio": 1.3,
+   "realtime_wan": 28.381469,
+   "ratio": 1.32,
    "days": 13,
-   "cum_wan": 2581.712751
+   "cum_wan": 2583.633275
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 21.860988,
-   "ratio": 1.07,
+   "realtime_wan": 21.91059,
+   "ratio": 1.02,
    "days": 42,
-   "cum_wan": 7951.039798000001
+   "cum_wan": 7951.0894
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1292,
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
-   "wish": 158439,
-   "wish_delta_1d": 765,
+   "wish": 158712,
+   "wish_delta_1d": 651,
    "on_sale": true,
    "pooled": true
   },
@@ -86,7 +86,7 @@
    "id": 1500516,
    "nm": "恐怖直播",
    "rt": "2026-11-20",
-   "wish": 17865,
+   "wish": 17882,
    "wish_delta_1d": 34,
    "on_sale": false,
    "pooled": true
@@ -131,8 +131,8 @@
    "id": 1566940,
    "nm": "我没错！",
    "rt": "2026-11-14",
-   "wish": 9763,
-   "wish_delta_1d": 397,
+   "wish": 9935,
+   "wish_delta_1d": 384,
    "on_sale": true,
    "pooled": true
   },
@@ -140,8 +140,8 @@
    "id": 1595715,
    "nm": "怨宅",
    "rt": "2026-11-13",
-   "wish": 7858,
-   "wish_delta_1d": 96,
+   "wish": 7904,
+   "wish_delta_1d": 106,
    "on_sale": false,
    "pooled": true
   },
@@ -302,8 +302,8 @@
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 158439,
-   "wish_delta_1d": 765,
+   "wish": 158712,
+   "wish_delta_1d": 651,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "怨宅",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 7858,
-   "wish_delta_1d": 96,
+   "wish": 7904,
+   "wish_delta_1d": 106,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "我没错！",
    "rt": "2026-11-14",
    "status": "WATCHING",
-   "wish": 9763,
-   "wish_delta_1d": 397,
+   "wish": 9935,
+   "wish_delta_1d": 384,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -335,7 +335,7 @@
    "nm": "恐怖直播",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 17865,
+   "wish": 17882,
    "wish_delta_1d": 34,
    "maoyan_score": null,
    "target_yi": 3.0,
@@ -343,6 +343,22 @@
   }
  ],
  "events": [
+  {
+   "ts": "2026-11-11 20:00:11",
+   "etype": "E4",
+   "movie_name": "无可替代的你",
+   "symbol": null,
+   "title": "📊 首日战报:无可替代的你",
+   "body": "《无可替代的你》上映首日:实时票房 0.09 亿,累计 0.09 亿(目标 3.0 亿),票房占比 40.93%,评分未出。"
+  },
+  {
+   "ts": "2026-11-11 20:00:11",
+   "etype": "E6",
+   "movie_name": "无可替代的你",
+   "symbol": null,
+   "title": "⚠️ 票房不及预期:无可替代的你",
+   "body": "《无可替代的你》首日累计 0.09 亿,低于目标的 60%,注意相关股回调风险。"
+  },
   {
    "ts": "2026-11-06 20:00:11",
    "etype": "E4",
