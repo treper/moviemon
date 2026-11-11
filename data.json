@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-11 10:00:02",
+ "generated_at": "2026-11-11 10:30:02",
  "realtime": [
   {
    "nm": "无可替代的你",
-   "realtime_wan": 283.758158,
-   "ratio": 54.89,
+   "realtime_wan": 302.297868,
+   "ratio": 54.41,
    "days": 1,
-   "cum_wan": 289.67321699999997
+   "cum_wan": 308.120397
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 58.625144999999996,
-   "ratio": 11.34,
+   "realtime_wan": 63.224140000000006,
+   "ratio": 11.38,
    "days": 42,
-   "cum_wan": 70472.214891
+   "cum_wan": 70480.74178899999
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 30.870712,
-   "ratio": 5.97,
+   "realtime_wan": 34.095128,
+   "ratio": 6.14,
    "days": 42,
-   "cum_wan": 41649.130911
+   "cum_wan": 41654.688528
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 28.057297,
-   "ratio": 5.43,
+   "realtime_wan": 29.987269,
+   "ratio": 5.4,
    "days": 6,
-   "cum_wan": 521.170708
+   "cum_wan": 520.2495809999999
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 20.619851999999998,
-   "ratio": 3.99,
+   "realtime_wan": 22.585897,
+   "ratio": 4.06,
    "days": 38,
-   "cum_wan": 51377.712321
+   "cum_wan": 51373.64849
   },
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 14.439863,
-   "ratio": 2.79,
+   "realtime_wan": 15.948723999999999,
+   "ratio": 2.87,
    "days": 5,
-   "cum_wan": 1660.867101
+   "cum_wan": 1657.525855
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 11.543572,
-   "ratio": 2.23,
+   "realtime_wan": 13.032504,
+   "ratio": 2.35,
    "days": 5,
-   "cum_wan": 1423.248139
+   "cum_wan": 1419.0807320000001
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 8.657294,
-   "ratio": 1.67,
+   "realtime_wan": 9.376242,
+   "ratio": 1.69,
    "days": 93,
-   "cum_wan": 240400.915468
+   "cum_wan": 240398.712086
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 8.166504,
-   "ratio": 1.58,
+   "realtime_wan": 8.545856,
+   "ratio": 1.54,
    "days": 90,
-   "cum_wan": 78425.529277
+   "cum_wan": 78425.50385800001
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 5.00544,
-   "ratio": 0.97,
+   "realtime_wan": 5.175169,
+   "ratio": 0.93,
    "days": 42,
-   "cum_wan": 7933.833176
+   "cum_wan": 7934.729957
   }
  ],
  "presale": [
@@ -172,7 +172,7 @@
    "status": "RELEASED",
    "wish": 48853,
    "wish_delta_1d": 788,
-   "maoyan_score": null,
+   "maoyan_score": 9.1,
    "target_yi": 3.0,
    "links": []
   },
@@ -194,7 +194,7 @@
    "status": "RELEASED",
    "wish": 7774,
    "wish_delta_1d": 657,
-   "maoyan_score": null,
+   "maoyan_score": 5.2,
    "target_yi": 3.0,
    "links": []
   },
