@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-11 11:30:02",
+ "generated_at": "2026-11-11 12:00:02",
  "realtime": [
   {
    "nm": "无可替代的你",
-   "realtime_wan": 339.987569,
-   "ratio": 53.87,
+   "realtime_wan": 360.105404,
+   "ratio": 53.68,
    "days": 1,
-   "cum_wan": 345.810098
+   "cum_wan": 365.927933
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 73.023535,
-   "ratio": 11.57,
+   "realtime_wan": 77.684935,
+   "ratio": 11.58,
    "days": 42,
-   "cum_wan": 70490.544445
+   "cum_wan": 70495.205845
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 38.909756,
-   "ratio": 6.17,
+   "realtime_wan": 40.829189,
+   "ratio": 6.09,
    "days": 42,
-   "cum_wan": 41659.493372000004
+   "cum_wan": 41661.412805
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 34.252659,
+   "realtime_wan": 36.429757,
    "ratio": 5.43,
    "days": 6,
-   "cum_wan": 524.514971
+   "cum_wan": 526.6920690000001
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 27.435581,
-   "ratio": 4.35,
+   "realtime_wan": 30.453424,
+   "ratio": 4.54,
    "days": 38,
-   "cum_wan": 51378.491652
+   "cum_wan": 51381.509495
   },
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 18.264418,
-   "ratio": 2.89,
+   "realtime_wan": 19.599573,
+   "ratio": 2.92,
    "days": 5,
-   "cum_wan": 1659.8458970000002
+   "cum_wan": 1661.181052
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 15.465869,
-   "ratio": 2.45,
+   "realtime_wan": 17.275801,
+   "ratio": 2.58,
    "days": 5,
-   "cum_wan": 1421.511377
+   "cum_wan": 1423.321309
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 11.320955,
-   "ratio": 1.79,
+   "realtime_wan": 11.737141000000001,
+   "ratio": 1.75,
    "days": 93,
-   "cum_wan": 240400.656799
+   "cum_wan": 240401.07298499998
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 9.368473,
-   "ratio": 1.48,
+   "realtime_wan": 9.652247000000001,
+   "ratio": 1.44,
    "days": 90,
-   "cum_wan": 78426.326475
+   "cum_wan": 78426.610249
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 6.168865,
-   "ratio": 0.98,
+   "realtime_wan": 6.9063669999999995,
+   "ratio": 1.03,
    "days": 13,
-   "cum_wan": 2560.174116
+   "cum_wan": 2560.911618
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1292,
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
-   "wish": 158317,
-   "wish_delta_1d": 643,
+   "wish": 158439,
+   "wish_delta_1d": 765,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1500516,
    "nm": "恐怖直播",
    "rt": "2026-11-20",
-   "wish": 17860,
-   "wish_delta_1d": 29,
+   "wish": 17865,
+   "wish_delta_1d": 34,
    "on_sale": false,
    "pooled": true
   },
@@ -131,8 +131,8 @@
    "id": 1566940,
    "nm": "我没错！",
    "rt": "2026-11-14",
-   "wish": 9702,
-   "wish_delta_1d": 336,
+   "wish": 9763,
+   "wish_delta_1d": 397,
    "on_sale": true,
    "pooled": true
   },
@@ -140,8 +140,8 @@
    "id": 1595715,
    "nm": "怨宅",
    "rt": "2026-11-13",
-   "wish": 7843,
-   "wish_delta_1d": 81,
+   "wish": 7858,
+   "wish_delta_1d": 96,
    "on_sale": false,
    "pooled": true
   },
@@ -302,8 +302,8 @@
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 158317,
-   "wish_delta_1d": 643,
+   "wish": 158439,
+   "wish_delta_1d": 765,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "怨宅",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 7843,
-   "wish_delta_1d": 81,
+   "wish": 7858,
+   "wish_delta_1d": 96,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "我没错！",
    "rt": "2026-11-14",
    "status": "WATCHING",
-   "wish": 9702,
-   "wish_delta_1d": 336,
+   "wish": 9763,
+   "wish_delta_1d": 397,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -335,8 +335,8 @@
    "nm": "恐怖直播",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 17860,
-   "wish_delta_1d": 29,
+   "wish": 17865,
+   "wish_delta_1d": 34,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
