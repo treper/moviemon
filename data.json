@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-12 19:30:02",
+ "generated_at": "2026-11-12 20:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 362.503905,
-   "ratio": 26.42,
+   "realtime_wan": 382.00011800000004,
+   "ratio": 26.32,
    "days": 43,
-   "cum_wan": 71270.00779
+   "cum_wan": 71289.504003
   },
   {
    "nm": "无可替代的你",
-   "realtime_wan": 202.076345,
-   "ratio": 14.73,
+   "realtime_wan": 216.285802,
+   "ratio": 14.9,
    "days": 2,
-   "cum_wan": 1239.940979
-  },
-  {
-   "nm": "什么意思夫妇",
-   "realtime_wan": 169.2059,
-   "ratio": 12.33,
-   "days": 43,
-   "cum_wan": 42034.351431999996
+   "cum_wan": 1254.150436
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 166.21913600000002,
-   "ratio": 12.11,
+   "realtime_wan": 178.97030700000002,
+   "ratio": 12.33,
    "days": 39,
-   "cum_wan": 51736.064324
+   "cum_wan": 51748.815494999995
+  },
+  {
+   "nm": "什么意思夫妇",
+   "realtime_wan": 177.432929,
+   "ratio": 12.22,
+   "days": 43,
+   "cum_wan": 42042.578461000005
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 83.17522199999999,
-   "ratio": 6.06,
+   "realtime_wan": 86.766588,
+   "ratio": 5.98,
    "days": 7,
-   "cum_wan": 682.550963
+   "cum_wan": 686.142329
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 77.982352,
-   "ratio": 5.68,
+   "realtime_wan": 85.45680899999999,
+   "ratio": 5.89,
    "days": 6,
-   "cum_wan": 1615.742526
+   "cum_wan": 1623.216983
   },
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 48.431943,
-   "ratio": 3.53,
+   "realtime_wan": 50.837345,
+   "ratio": 3.5,
    "days": 6,
-   "cum_wan": 1765.512965
+   "cum_wan": 1767.9183670000002
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 46.282421,
-   "ratio": 3.37,
+   "realtime_wan": 49.459078000000005,
+   "ratio": 3.41,
    "days": 94,
-   "cum_wan": 240491.109017
+   "cum_wan": 240494.28567399998
   },
   {
    "nm": "疾速追杀",
-   "realtime_wan": 27.04771,
-   "ratio": 1.97,
+   "realtime_wan": 29.166040999999996,
+   "ratio": 2.01,
    "days": 14,
-   "cum_wan": 2618.422478
+   "cum_wan": 2620.540809
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 25.970786,
-   "ratio": 1.89,
+   "realtime_wan": 26.802513,
+   "ratio": 1.85,
    "days": 118,
-   "cum_wan": 206636.027711
+   "cum_wan": 206636.859438
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1292,
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
-   "wish": 159161,
-   "wish_delta_1d": 722,
+   "wish": 159562,
+   "wish_delta_1d": 850,
    "on_sale": true,
    "pooled": true
   },
@@ -86,7 +86,7 @@
    "id": 1528132,
    "nm": "饥饿游戏：收获日出",
    "rt": "2026-11-20",
-   "wish": 31246,
+   "wish": 34797,
    "wish_delta_1d": null,
    "on_sale": false,
    "pooled": false
@@ -95,8 +95,8 @@
    "id": 1500516,
    "nm": "恐怖直播",
    "rt": "2026-11-20",
-   "wish": 17914,
-   "wish_delta_1d": 49,
+   "wish": 17940,
+   "wish_delta_1d": 58,
    "on_sale": false,
    "pooled": true
   },
@@ -140,8 +140,8 @@
    "id": 1566940,
    "nm": "我没错！",
    "rt": "2026-11-14",
-   "wish": 10149,
-   "wish_delta_1d": 386,
+   "wish": 10362,
+   "wish_delta_1d": 427,
    "on_sale": true,
    "pooled": true
   },
@@ -149,8 +149,8 @@
    "id": 1595715,
    "nm": "怨宅",
    "rt": "2026-11-13",
-   "wish": 7970,
-   "wish_delta_1d": 112,
+   "wish": 8057,
+   "wish_delta_1d": 153,
    "on_sale": false,
    "pooled": true
   },
@@ -302,8 +302,8 @@
    "nm": "海上钢琴师",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 159161,
-   "wish_delta_1d": 722,
+   "wish": 159562,
+   "wish_delta_1d": 850,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "怨宅",
    "rt": "2026-11-13",
    "status": "WATCHING",
-   "wish": 7970,
-   "wish_delta_1d": 112,
+   "wish": 8057,
+   "wish_delta_1d": 153,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "我没错！",
    "rt": "2026-11-14",
    "status": "WATCHING",
-   "wish": 10149,
-   "wish_delta_1d": 386,
+   "wish": 10362,
+   "wish_delta_1d": 427,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -335,8 +335,8 @@
    "nm": "霹雳英雄：素还真",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 4184,
-   "wish_delta_1d": 263,
+   "wish": 4301,
+   "wish_delta_1d": 253,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -346,8 +346,8 @@
    "nm": "恐怖直播",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 17914,
-   "wish_delta_1d": 49,
+   "wish": 17940,
+   "wish_delta_1d": 58,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -580,22 +580,6 @@
    "symbol": null,
    "title": "🎟️ 预售开启:三星堆：未来往事",
    "body": "《三星堆：未来往事》(2026-10-23) 预售已开启,当前想看 3226。可关注相关影视股的埋伏窗口。"
-  },
-  {
-   "ts": "2026-10-13 20:00:06",
-   "etype": "E4",
-   "movie_name": "一个夜晚与三个夏天",
-   "symbol": null,
-   "title": "📊 首日战报:一个夜晚与三个夏天",
-   "body": "《一个夜晚与三个夏天》上映首日:实时票房 0.00 亿,累计 0.00 亿(目标 3.0 亿),票房占比 0.47%,评分未出。"
-  },
-  {
-   "ts": "2026-10-13 20:00:06",
-   "etype": "E6",
-   "movie_name": "一个夜晚与三个夏天",
-   "symbol": null,
-   "title": "⚠️ 票房不及预期:一个夜晚与三个夏天",
-   "body": "《一个夜晚与三个夏天》首日累计 0.00 亿,低于目标的 60%,注意相关股回调风险。"
   }
  ]
 }
