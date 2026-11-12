@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-11 23:30:02",
+ "generated_at": "2026-11-12 08:00:02",
  "realtime": [
   {
-   "nm": "无可替代的你",
-   "realtime_wan": 1019.540228,
-   "ratio": 40.05,
-   "days": 1,
-   "cum_wan": 1025.401088
-  },
-  {
    "nm": "神探之痕迹",
-   "realtime_wan": 484.214446,
-   "ratio": 19.02,
-   "days": 42,
-   "cum_wan": 70902.41742
+   "realtime_wan": 84.122343,
+   "ratio": 27.43,
+   "days": 43,
+   "cum_wan": 70987.411441
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 241.06663199999997,
-   "ratio": 9.47,
-   "days": 42,
-   "cum_wan": 41862.461163
+   "realtime_wan": 49.056921,
+   "ratio": 16.0,
+   "days": 43,
+   "cum_wan": 41911.973819
   },
   {
-   "nm": "生化危机：爆发夜",
-   "realtime_wan": 209.547848,
-   "ratio": 8.23,
-   "days": 38,
-   "cum_wan": 51567.723797000006
-  },
-  {
-   "nm": "心迷宫之三重罪",
-   "realtime_wan": 123.85548700000001,
-   "ratio": 4.87,
-   "days": 5,
-   "cum_wan": 1536.544039
+   "nm": "无可替代的你",
+   "realtime_wan": 41.333214,
+   "ratio": 13.48,
+   "days": 2,
+   "cum_wan": 1067.496612
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 104.51118699999999,
-   "ratio": 4.11,
-   "days": 6,
-   "cum_wan": 598.411043
+   "realtime_wan": 21.456878,
+   "ratio": 7.0,
+   "days": 7,
+   "cum_wan": 619.888219
+  },
+  {
+   "nm": "生化危机：爆发夜",
+   "realtime_wan": 19.071097,
+   "ratio": 6.22,
+   "days": 39,
+   "cum_wan": 51587.636432
   },
   {
    "nm": "我们仅有一次的人生",
-   "realtime_wan": 69.117773,
-   "ratio": 2.71,
-   "days": 5,
-   "cum_wan": 1716.487823
+   "realtime_wan": 8.980839,
+   "ratio": 2.93,
+   "days": 6,
+   "cum_wan": 1725.528864
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 7.731859,
+   "ratio": 2.52,
+   "days": 91,
+   "cum_wan": 78444.80543200001
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 51.691323,
-   "ratio": 2.03,
-   "days": 93,
-   "cum_wan": 240444.284743
+   "realtime_wan": 7.367408999999999,
+   "ratio": 2.4,
+   "days": 94,
+   "cum_wan": 240451.711623
   },
   {
-   "nm": "疾速追杀",
-   "realtime_wan": 35.9244,
-   "ratio": 1.41,
-   "days": 13,
-   "cum_wan": 2591.19121
+   "nm": "心迷宫之三重罪",
+   "realtime_wan": 7.319423,
+   "ratio": 2.39,
+   "days": 6,
+   "cum_wan": 1544.3081320000001
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 22.504707,
-   "ratio": 0.88,
-   "days": 42,
-   "cum_wan": 7951.683517
+   "realtime_wan": 6.562905000000001,
+   "ratio": 2.14,
+   "days": 43,
+   "cum_wan": 7958.731422
   }
  ],
  "presale": [
