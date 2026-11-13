@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-12 23:30:02",
+ "generated_at": "2026-11-13 08:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 426.994683,
-   "ratio": 25.39,
-   "days": 43,
-   "cum_wan": 71334.644226
-  },
-  {
-   "nm": "无可替代的你",
-   "realtime_wan": 260.963713,
-   "ratio": 15.52,
-   "days": 2,
-   "cum_wan": 1298.8283470000001
+   "realtime_wan": 87.322285,
+   "ratio": 24.51,
+   "days": 44,
+   "cum_wan": 71422.411758
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 224.44893199999999,
-   "ratio": 13.35,
-   "days": 39,
-   "cum_wan": 51794.476605
+   "realtime_wan": 34.773907,
+   "ratio": 9.76,
+   "days": 40,
+   "cum_wan": 51830.180983
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 194.352995,
-   "ratio": 11.56,
-   "days": 43,
-   "cum_wan": 42059.609045
-  },
-  {
-   "nm": "心迷宫之三重罪",
-   "realtime_wan": 109.380576,
-   "ratio": 6.5,
-   "days": 6,
-   "cum_wan": 1647.14775
+   "realtime_wan": 34.028912,
+   "ratio": 9.55,
+   "days": 44,
+   "cum_wan": 42093.945007
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 95.30659399999999,
-   "ratio": 5.67,
-   "days": 7,
-   "cum_wan": 694.682335
+   "realtime_wan": 30.204607,
+   "ratio": 8.48,
+   "days": 8,
+   "cum_wan": 724.896364
   },
   {
-   "nm": "我们仅有一次的人生",
-   "realtime_wan": 58.222035,
-   "ratio": 3.46,
-   "days": 6,
-   "cum_wan": 1775.300257
+   "nm": "海上钢琴师",
+   "realtime_wan": 26.022095,
+   "ratio": 7.3,
+   "days": 2556,
+   "cum_wan": 15276.597015000001
+  },
+  {
+   "nm": "无可替代的你",
+   "realtime_wan": 19.183963000000002,
+   "ratio": 5.38,
+   "days": 3,
+   "cum_wan": 1318.3380359999999
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 56.009834,
-   "ratio": 3.33,
-   "days": 94,
-   "cum_wan": 240500.856633
+   "realtime_wan": 12.443685,
+   "ratio": 3.49,
+   "days": 95,
+   "cum_wan": 240513.320348
   },
   {
-   "nm": "疾速追杀",
-   "realtime_wan": 36.154663,
-   "ratio": 2.15,
-   "days": 14,
-   "cum_wan": 2627.5828690000003
+   "nm": "心迷宫之三重罪",
+   "realtime_wan": 11.634732000000001,
+   "ratio": 3.27,
+   "days": 7,
+   "cum_wan": 1659.089056
   },
   {
-   "nm": "八仙！",
-   "realtime_wan": 27.801712,
-   "ratio": 1.65,
-   "days": 118,
-   "cum_wan": 206637.87201
+   "nm": "四渡",
+   "realtime_wan": 10.929731,
+   "ratio": 3.07,
+   "days": 141,
+   "cum_wan": 30316.764816000003
+  },
+  {
+   "nm": "我们仅有一次的人生",
+   "realtime_wan": 10.05613,
+   "ratio": 2.82,
+   "days": 7,
+   "cum_wan": 1785.4154989999997
   }
  ],
  "presale": [
