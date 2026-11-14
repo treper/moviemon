@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-14 19:30:02",
+ "generated_at": "2026-11-14 20:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 825.945301,
-   "ratio": 21.75,
+   "realtime_wan": 868.839404,
+   "ratio": 21.96,
    "days": 45,
-   "cum_wan": 72681.134483
+   "cum_wan": 72724.028586
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 719.214732,
-   "ratio": 18.94,
+   "realtime_wan": 752.380624,
+   "ratio": 19.01,
    "days": 41,
-   "cum_wan": 52883.716141000004
+   "cum_wan": 52916.882033
   },
   {
    "nm": "我没错！",
-   "realtime_wan": 311.121407,
-   "ratio": 8.19,
+   "realtime_wan": 329.891689,
+   "ratio": 8.34,
    "days": 1,
-   "cum_wan": 311.975007
+   "cum_wan": 330.745289
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 286.10725299999996,
-   "ratio": 7.53,
+   "realtime_wan": 300.584839,
+   "ratio": 7.6,
    "days": 45,
-   "cum_wan": 42549.648476
+   "cum_wan": 42564.126062
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 227.230525,
-   "ratio": 5.98,
+   "realtime_wan": 233.98993399999998,
+   "ratio": 5.91,
    "days": 9,
-   "cum_wan": 1056.168677
+   "cum_wan": 1062.928086
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 178.82238600000002,
-   "ratio": 4.71,
+   "realtime_wan": 182.554344,
+   "ratio": 4.61,
    "days": 120,
-   "cum_wan": 206864.445893
+   "cum_wan": 206868.177851
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 167.461313,
+   "realtime_wan": 174.536047,
    "ratio": 4.41,
    "days": 96,
-   "cum_wan": 240757.968406
+   "cum_wan": 240765.04314000002
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 162.717428,
-   "ratio": 4.28,
+   "realtime_wan": 171.06246299999998,
+   "ratio": 4.32,
    "days": 8,
-   "cum_wan": 1952.937338
+   "cum_wan": 1961.282373
   },
   {
    "nm": "无可替代的你",
-   "realtime_wan": 127.955657,
-   "ratio": 3.37,
+   "realtime_wan": 135.35075700000002,
+   "ratio": 3.42,
    "days": 4,
-   "cum_wan": 1611.45908
+   "cum_wan": 1618.85418
   },
   {
    "nm": "海上钢琴师",
-   "realtime_wan": 118.22997600000001,
-   "ratio": 3.11,
+   "realtime_wan": 120.872601,
+   "ratio": 3.05,
    "days": 2557,
-   "cum_wan": 15451.387313
+   "cum_wan": 15454.029938
   }
  ],
  "presale": [
@@ -77,7 +77,7 @@
    "id": 1217236,
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
-   "wish": 208036,
+   "wish": 208974,
    "wish_delta_1d": null,
    "on_sale": false,
    "pooled": false
@@ -86,8 +86,8 @@
    "id": 1528132,
    "nm": "饥饿游戏：收获日出",
    "rt": "2026-11-20",
-   "wish": 39769,
-   "wish_delta_1d": 1994,
+   "wish": 40943,
+   "wish_delta_1d": 2154,
    "on_sale": true,
    "pooled": true
   },
@@ -95,8 +95,8 @@
    "id": 1500516,
    "nm": "恐怖直播",
    "rt": "2026-11-20",
-   "wish": 18096,
-   "wish_delta_1d": 114,
+   "wish": 18165,
+   "wish_delta_1d": 134,
    "on_sale": false,
    "pooled": true
   },
@@ -137,6 +137,15 @@
    "pooled": false
   },
   {
+   "id": 1374350,
+   "nm": "试探",
+   "rt": "2026-11-21",
+   "wish": 5695,
+   "wish_delta_1d": 1912,
+   "on_sale": true,
+   "pooled": true
+  },
+  {
    "id": 1599810,
    "nm": "阴阳路惊魂",
    "rt": "2026-10-30",
@@ -149,19 +158,10 @@
    "id": 1447558,
    "nm": "霹雳英雄：素还真",
    "rt": "2026-11-20",
-   "wish": 4577,
-   "wish_delta_1d": 178,
+   "wish": 4691,
+   "wish_delta_1d": 208,
    "on_sale": true,
    "pooled": true
-  },
-  {
-   "id": 1498217,
-   "nm": "凶宅怪谈",
-   "rt": "2026-11-07",
-   "wish": 4476,
-   "wish_delta_1d": 166,
-   "on_sale": false,
-   "pooled": false
   }
  ],
  "watching": [
@@ -313,8 +313,8 @@
    "nm": "霹雳英雄：素还真",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 4577,
-   "wish_delta_1d": 178,
+   "wish": 4691,
+   "wish_delta_1d": 208,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "恐怖直播",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 18096,
-   "wish_delta_1d": 114,
+   "wish": 18165,
+   "wish_delta_1d": 134,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -335,8 +335,8 @@
    "nm": "饥饿游戏：收获日出",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 39769,
-   "wish_delta_1d": 1994,
+   "wish": 40943,
+   "wish_delta_1d": 2154,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -346,8 +346,8 @@
    "nm": "金哲",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 2158,
-   "wish_delta_1d": 290,
+   "wish": 2261,
+   "wish_delta_1d": 199,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -357,8 +357,8 @@
    "nm": "试探",
    "rt": "2026-11-21",
    "status": "WATCHING",
-   "wish": 4238,
-   "wish_delta_1d": 877,
+   "wish": 5695,
+   "wish_delta_1d": 1912,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -368,8 +368,8 @@
    "nm": "我的身后是祖国",
    "rt": "2026-11-25",
    "status": "WATCHING",
-   "wish": 2441,
-   "wish_delta_1d": 834,
+   "wish": 2458,
+   "wish_delta_1d": 851,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
