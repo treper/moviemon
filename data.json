@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-13 23:30:02",
+ "generated_at": "2026-11-14 08:00:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 512.881379,
-   "ratio": 24.0,
-   "days": 44,
-   "cum_wan": 71851.807277
+   "realtime_wan": 113.901553,
+   "ratio": 15.54,
+   "days": 45,
+   "cum_wan": 71966.292113
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 362.32444100000004,
-   "ratio": 16.95,
-   "days": 40,
-   "cum_wan": 52159.380801
-  },
-  {
-   "nm": "什么意思夫妇",
-   "realtime_wan": 200.998816,
-   "ratio": 9.4,
-   "days": 44,
-   "cum_wan": 42262.604087
-  },
-  {
-   "nm": "无可替代的你",
-   "realtime_wan": 179.56939599999998,
-   "ratio": 8.4,
-   "days": 3,
-   "cum_wan": 1481.526758
-  },
-  {
-   "nm": "心迷宫之三重罪",
-   "realtime_wan": 140.67478899999998,
-   "ratio": 6.58,
-   "days": 7,
-   "cum_wan": 1788.985421
+   "realtime_wan": 102.919965,
+   "ratio": 14.04,
+   "days": 41,
+   "cum_wan": 52264.053026
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 132.2974,
-   "ratio": 6.19,
-   "days": 8,
-   "cum_wan": 827.921741
+   "realtime_wan": 66.67668499999999,
+   "ratio": 9.1,
+   "days": 9,
+   "cum_wan": 894.756426
   },
   {
-   "nm": "欢迎来龙餐馆",
-   "realtime_wan": 88.542271,
-   "ratio": 4.14,
-   "days": 95,
-   "cum_wan": 240589.87176500002
+   "nm": "我没错！",
+   "realtime_wan": 63.165603000000004,
+   "ratio": 8.62,
+   "days": 1,
+   "cum_wan": 64.015603
   },
   {
    "nm": "海上钢琴师",
-   "realtime_wan": 81.807808,
-   "ratio": 3.83,
-   "days": 2556,
-   "cum_wan": 15332.382728
+   "realtime_wan": 40.772343,
+   "ratio": 5.56,
+   "days": 2557,
+   "cum_wan": 15373.175071000001
   },
   {
-   "nm": "我们仅有一次的人生",
-   "realtime_wan": 60.599814,
-   "ratio": 2.84,
-   "days": 7,
-   "cum_wan": 1836.5738219999998
+   "nm": "什么意思夫妇",
+   "realtime_wan": 39.870692,
+   "ratio": 5.44,
+   "days": 45,
+   "cum_wan": 42302.732307
   },
   {
-   "nm": "疾速追杀",
-   "realtime_wan": 46.944332,
-   "ratio": 2.2,
-   "days": 15,
-   "cum_wan": 2674.927365
+   "nm": "八仙！",
+   "realtime_wan": 36.858573,
+   "ratio": 5.03,
+   "days": 120,
+   "cum_wan": 206721.981729
+  },
+  {
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 32.91559,
+   "ratio": 4.49,
+   "days": 96,
+   "cum_wan": 240622.82713000002
+  },
+  {
+   "nm": "奥德赛",
+   "realtime_wan": 25.673168,
+   "ratio": 3.5,
+   "days": 93,
+   "cum_wan": 78510.417222
+  },
+  {
+   "nm": "心迷宫之三重罪",
+   "realtime_wan": 25.134134,
+   "ratio": 3.43,
+   "days": 8,
+   "cum_wan": 1814.396489
   }
  ],
  "presale": [
