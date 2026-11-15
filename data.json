@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-15 19:30:02",
+ "generated_at": "2026-11-15 20:00:03",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 630.206038,
-   "ratio": 21.3,
+   "realtime_wan": 657.492651,
+   "ratio": 21.5,
    "days": 46,
-   "cum_wan": 73494.69283
+   "cum_wan": 73521.97944299999
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 506.100447,
-   "ratio": 17.11,
+   "realtime_wan": 526.4859759999999,
+   "ratio": 17.21,
    "days": 42,
-   "cum_wan": 53549.386916
+   "cum_wan": 53569.772445
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 247.31551000000002,
-   "ratio": 8.36,
+   "realtime_wan": 256.241089,
+   "ratio": 8.38,
    "days": 46,
-   "cum_wan": 42852.313593
+   "cum_wan": 42861.239172
   },
   {
    "nm": "我没错！",
-   "realtime_wan": 194.019576,
-   "ratio": 6.56,
+   "realtime_wan": 203.54218899999998,
+   "ratio": 6.66,
    "days": 2,
-   "cum_wan": 587.996748
+   "cum_wan": 597.519361
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 193.616458,
-   "ratio": 6.55,
+   "realtime_wan": 199.059449,
+   "ratio": 6.51,
    "days": 10,
-   "cum_wan": 1275.013752
+   "cum_wan": 1280.456743
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 160.262536,
-   "ratio": 5.42,
+   "realtime_wan": 161.460164,
+   "ratio": 5.28,
    "days": 121,
-   "cum_wan": 207035.82554700001
+   "cum_wan": 207037.023175
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 138.086921,
+   "realtime_wan": 142.848812,
    "ratio": 4.67,
    "days": 97,
-   "cum_wan": 240923.49641300002
+   "cum_wan": 240928.258304
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 129.829546,
-   "ratio": 4.39,
+   "realtime_wan": 136.01475,
+   "ratio": 4.45,
    "days": 9,
-   "cum_wan": 2125.5701050000002
+   "cum_wan": 2131.755309
   },
   {
    "nm": "无可替代的你",
-   "realtime_wan": 104.052291,
-   "ratio": 3.52,
+   "realtime_wan": 109.468847,
+   "ratio": 3.58,
    "days": 5,
-   "cum_wan": 1753.269753
+   "cum_wan": 1758.686309
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 85.70109599999999,
-   "ratio": 2.9,
+   "realtime_wan": 86.008567,
+   "ratio": 2.81,
    "days": 46,
-   "cum_wan": 8172.595661
+   "cum_wan": 8172.9031319999995
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1217236,
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
-   "wish": 209895,
-   "wish_delta_1d": 1859,
+   "wish": 210661,
+   "wish_delta_1d": 1687,
    "on_sale": false,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1528132,
    "nm": "饥饿游戏：收获日出",
    "rt": "2026-11-20",
-   "wish": 41869,
-   "wish_delta_1d": 2100,
+   "wish": 42763,
+   "wish_delta_1d": 1820,
    "on_sale": true,
    "pooled": true
   },
@@ -95,8 +95,8 @@
    "id": 1500516,
    "nm": "恐怖直播",
    "rt": "2026-11-20",
-   "wish": 18232,
-   "wish_delta_1d": 136,
+   "wish": 18288,
+   "wish_delta_1d": 123,
    "on_sale": false,
    "pooled": true
   },
@@ -140,8 +140,17 @@
    "id": 1374350,
    "nm": "试探",
    "rt": "2026-11-21",
-   "wish": 7105,
-   "wish_delta_1d": 2867,
+   "wish": 8579,
+   "wish_delta_1d": 2884,
+   "on_sale": true,
+   "pooled": true
+  },
+  {
+   "id": 1447558,
+   "nm": "霹雳英雄：素还真",
+   "rt": "2026-11-20",
+   "wish": 4858,
+   "wish_delta_1d": 167,
    "on_sale": true,
    "pooled": true
   },
@@ -153,15 +162,6 @@
    "wish_delta_1d": 141,
    "on_sale": true,
    "pooled": false
-  },
-  {
-   "id": 1447558,
-   "nm": "霹雳英雄：素还真",
-   "rt": "2026-11-20",
-   "wish": 4794,
-   "wish_delta_1d": 217,
-   "on_sale": true,
-   "pooled": true
   }
  ],
  "watching": [
@@ -302,8 +302,8 @@
    "nm": "霹雳英雄：素还真",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 4794,
-   "wish_delta_1d": 217,
+   "wish": 4858,
+   "wish_delta_1d": 167,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "恐怖直播",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 18232,
-   "wish_delta_1d": 136,
+   "wish": 18288,
+   "wish_delta_1d": 123,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "饥饿游戏：收获日出",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 41869,
-   "wish_delta_1d": 2100,
+   "wish": 42763,
+   "wish_delta_1d": 1820,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -335,8 +335,8 @@
    "nm": "金哲",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 2338,
-   "wish_delta_1d": 180,
+   "wish": 2388,
+   "wish_delta_1d": 127,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -346,8 +346,8 @@
    "nm": "试探",
    "rt": "2026-11-21",
    "status": "WATCHING",
-   "wish": 7105,
-   "wish_delta_1d": 2867,
+   "wish": 8579,
+   "wish_delta_1d": 2884,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -357,8 +357,8 @@
    "nm": "我的身后是祖国",
    "rt": "2026-11-25",
    "status": "WATCHING",
-   "wish": 2473,
-   "wish_delta_1d": 32,
+   "wish": 2487,
+   "wish_delta_1d": 29,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -368,8 +368,8 @@
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 209895,
-   "wish_delta_1d": 1859,
+   "wish": 210661,
+   "wish_delta_1d": 1687,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -591,22 +591,6 @@
    "symbol": null,
    "title": "🎟️ 预售开启:落凡尘",
    "body": "《落凡尘》(2026-10-24) 预售已开启,当前想看 61294。可关注相关影视股的埋伏窗口。"
-  },
-  {
-   "ts": "2026-10-16 20:00:07",
-   "etype": "E4",
-   "movie_name": "鲸口脱险",
-   "symbol": null,
-   "title": "📊 首日战报:鲸口脱险",
-   "body": "《鲸口脱险》上映首日:实时票房 0.01 亿,累计 0.01 亿(目标 3.0 亿),票房占比 4.16%,评分未出。"
-  },
-  {
-   "ts": "2026-10-16 20:00:07",
-   "etype": "E6",
-   "movie_name": "鲸口脱险",
-   "symbol": null,
-   "title": "⚠️ 票房不及预期:鲸口脱险",
-   "body": "《鲸口脱险》首日累计 0.01 亿,低于目标的 60%,注意相关股回调风险。"
   }
  ]
 }
