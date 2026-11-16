@@ -1,6 +1,77 @@
 {
- "generated_at": "2026-11-16 17:00:02",
- "realtime": [],
+ "generated_at": "2026-11-16 18:00:02",
+ "realtime": [
+  {
+   "nm": "神探之痕迹",
+   "realtime_wan": 195.215618,
+   "ratio": 21.46,
+   "days": 47,
+   "cum_wan": 73794.380204
+  },
+  {
+   "nm": "生化危机：爆发夜",
+   "realtime_wan": 153.860529,
+   "ratio": 16.92,
+   "days": 43,
+   "cum_wan": 53797.257185
+  },
+  {
+   "nm": "珠穆朗玛：云中彼岸",
+   "realtime_wan": 105.64719199999999,
+   "ratio": 11.62,
+   "days": 11,
+   "cum_wan": 1400.4264859999998
+  },
+  {
+   "nm": "什么意思夫妇",
+   "realtime_wan": 86.617482,
+   "ratio": 9.52,
+   "days": 47,
+   "cum_wan": 42973.739611000005
+  },
+  {
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 43.751227,
+   "ratio": 4.81,
+   "days": 98,
+   "cum_wan": 240984.74519499997
+  },
+  {
+   "nm": "我没错！",
+   "realtime_wan": 41.606063,
+   "ratio": 4.57,
+   "days": 3,
+   "cum_wan": 668.804653
+  },
+  {
+   "nm": "无可替代的你",
+   "realtime_wan": 41.576237,
+   "ratio": 4.57,
+   "days": 6,
+   "cum_wan": 1821.894559
+  },
+  {
+   "nm": "八仙！",
+   "realtime_wan": 40.30757,
+   "ratio": 4.43,
+   "days": 122,
+   "cum_wan": 207082.247192
+  },
+  {
+   "nm": "心迷宫之三重罪",
+   "realtime_wan": 37.455692,
+   "ratio": 4.12,
+   "days": 10,
+   "cum_wan": 2191.916716
+  },
+  {
+   "nm": "海上钢琴师",
+   "realtime_wan": 19.803984,
+   "ratio": 2.18,
+   "days": 2559,
+   "cum_wan": 15568.952059000001
+  }
+ ],
  "presale": [
   {
    "id": 1164582,
@@ -134,7 +205,7 @@
    "status": "RELEASED",
    "wish": 4722,
    "wish_delta_1d": 351,
-   "maoyan_score": 9.5,
+   "maoyan_score": 9.6,
    "target_yi": 3.0,
    "links": []
   },
