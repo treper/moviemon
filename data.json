@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-16 11:00:02",
+ "generated_at": "2026-11-16 11:30:02",
  "realtime": [
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 38.153693,
-   "ratio": 18.44,
+   "realtime_wan": 41.696492,
+   "ratio": 18.09,
    "days": 11,
-   "cum_wan": 1325.720729
+   "cum_wan": 1329.263528
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 31.174902000000003,
-   "ratio": 15.07,
+   "realtime_wan": 35.671772999999995,
+   "ratio": 15.47,
    "days": 47,
-   "cum_wan": 73600.82886000001
+   "cum_wan": 73605.32573099999
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 27.668432,
-   "ratio": 13.37,
+   "realtime_wan": 31.077203000000004,
+   "ratio": 13.48,
    "days": 43,
-   "cum_wan": 53648.138984
+   "cum_wan": 53651.547755
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 13.988964999999999,
-   "ratio": 6.76,
+   "realtime_wan": 16.237862,
+   "ratio": 7.04,
    "days": 47,
-   "cum_wan": 42889.59131
-  },
-  {
-   "nm": "八仙！",
-   "realtime_wan": 11.467032000000001,
-   "ratio": 5.54,
-   "days": 122,
-   "cum_wan": 207047.66605899998
+   "cum_wan": 42891.840207
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 11.035105,
-   "ratio": 5.33,
+   "realtime_wan": 12.165527,
+   "ratio": 5.28,
    "days": 98,
-   "cum_wan": 240939.857872
+   "cum_wan": 240940.988294
+  },
+  {
+   "nm": "八仙！",
+   "realtime_wan": 12.028917,
+   "ratio": 5.22,
+   "days": 122,
+   "cum_wan": 207048.227944
   },
   {
    "nm": "无可替代的你",
-   "realtime_wan": 8.484619,
-   "ratio": 4.1,
+   "realtime_wan": 9.651812,
+   "ratio": 4.19,
    "days": 6,
-   "cum_wan": 1781.497158
+   "cum_wan": 1782.6643510000001
   },
   {
    "nm": "我没错！",
-   "realtime_wan": 8.482721000000002,
-   "ratio": 4.1,
+   "realtime_wan": 9.590111,
+   "ratio": 4.16,
    "days": 3,
-   "cum_wan": 623.96842
+   "cum_wan": 625.0758099999999
   },
   {
    "nm": "海上钢琴师",
-   "realtime_wan": 7.261908999999999,
-   "ratio": 3.51,
+   "realtime_wan": 7.874674000000001,
+   "ratio": 3.42,
    "days": 2559,
-   "cum_wan": 15553.00595
+   "cum_wan": 15553.618715
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 6.213476,
-   "ratio": 3.0,
+   "realtime_wan": 6.972187,
+   "ratio": 3.02,
    "days": 10,
-   "cum_wan": 2152.082827
+   "cum_wan": 2152.8415379999997
   }
  ],
  "presale": [
@@ -205,7 +205,7 @@
    "status": "RELEASED",
    "wish": 4722,
    "wish_delta_1d": 351,
-   "maoyan_score": 9.6,
+   "maoyan_score": 9.5,
    "target_yi": 3.0,
    "links": []
   },
