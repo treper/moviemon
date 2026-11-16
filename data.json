@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-16 15:00:02",
+ "generated_at": "2026-11-16 15:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 123.55046399999999,
-   "ratio": 20.46,
+   "realtime_wan": 134.860232,
+   "ratio": 20.78,
    "days": 47,
-   "cum_wan": 73722.70982
+   "cum_wan": 73734.019588
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 97.548216,
-   "ratio": 16.16,
+   "realtime_wan": 106.12546,
+   "ratio": 16.35,
    "days": 43,
-   "cum_wan": 53740.944872
+   "cum_wan": 53749.522116
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 76.919381,
-   "ratio": 12.74,
+   "realtime_wan": 80.353659,
+   "ratio": 12.38,
    "days": 11,
-   "cum_wan": 1371.698675
+   "cum_wan": 1375.132953
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 53.489874,
-   "ratio": 8.86,
+   "realtime_wan": 58.378025,
+   "ratio": 9.0,
    "days": 47,
-   "cum_wan": 42940.612253
-  },
-  {
-   "nm": "八仙！",
-   "realtime_wan": 29.686246,
-   "ratio": 4.92,
-   "days": 122,
-   "cum_wan": 207071.625868
+   "cum_wan": 42945.500404
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 29.613821,
-   "ratio": 4.9,
+   "realtime_wan": 31.731841999999997,
+   "ratio": 4.89,
    "days": 98,
-   "cum_wan": 240970.60778899997
+   "cum_wan": 240972.72581
+  },
+  {
+   "nm": "八仙！",
+   "realtime_wan": 31.555859,
+   "ratio": 4.86,
+   "days": 122,
+   "cum_wan": 207073.495481
   },
   {
    "nm": "无可替代的你",
-   "realtime_wan": 27.474133000000002,
-   "ratio": 4.55,
+   "realtime_wan": 29.620124,
+   "ratio": 4.56,
    "days": 6,
-   "cum_wan": 1807.825015
+   "cum_wan": 1809.9710059999998
   },
   {
    "nm": "我没错！",
-   "realtime_wan": 27.097583,
-   "ratio": 4.49,
+   "realtime_wan": 29.382223,
+   "ratio": 4.53,
    "days": 3,
-   "cum_wan": 654.2937929999999
+   "cum_wan": 656.578433
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 22.464916,
-   "ratio": 3.72,
+   "realtime_wan": 24.670576,
+   "ratio": 3.8,
    "days": 10,
-   "cum_wan": 2176.951141
+   "cum_wan": 2179.156801
   },
   {
    "nm": "海上钢琴师",
-   "realtime_wan": 14.20597,
-   "ratio": 2.35,
+   "realtime_wan": 14.897720000000001,
+   "ratio": 2.3,
    "days": 2559,
-   "cum_wan": 15563.354044999998
+   "cum_wan": 15564.045794999998
   }
  ],
  "presale": [
