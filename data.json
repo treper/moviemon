@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-11-16 19:00:02",
+ "generated_at": "2026-11-16 20:00:02",
  "realtime": [],
  "presale": [
   {
    "id": 1164582,
    "nm": "沙丘",
    "rt": "2026-11-27",
-   "wish": 288740,
+   "wish": 289538,
    "wish_delta_1d": null,
-   "on_sale": false,
+   "on_sale": true,
    "pooled": false
   },
   {
    "id": 1217236,
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
-   "wish": 211381,
-   "wish_delta_1d": 1486,
+   "wish": 211860,
+   "wish_delta_1d": 1199,
    "on_sale": false,
    "pooled": true
   },
@@ -24,8 +24,8 @@
    "id": 1528132,
    "nm": "饥饿游戏：收获日出",
    "rt": "2026-11-20",
-   "wish": 43556,
-   "wish_delta_1d": 1687,
+   "wish": 44615,
+   "wish_delta_1d": 1852,
    "on_sale": true,
    "pooled": true
   },
@@ -33,7 +33,7 @@
    "id": 1594939,
    "nm": "魔法秘境",
    "rt": "2026-11-27",
-   "wish": 25039,
+   "wish": 25681,
    "wish_delta_1d": null,
    "on_sale": false,
    "pooled": false
@@ -87,8 +87,8 @@
    "id": 1374350,
    "nm": "试探",
    "rt": "2026-11-21",
-   "wish": 8780,
-   "wish_delta_1d": 1675,
+   "wish": 9239,
+   "wish_delta_1d": 660,
    "on_sale": true,
    "pooled": true
   }
@@ -231,8 +231,8 @@
    "nm": "霹雳英雄：素还真",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 4953,
-   "wish_delta_1d": 159,
+   "wish": 5039,
+   "wish_delta_1d": 181,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -253,8 +253,8 @@
    "nm": "饥饿游戏：收获日出",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 43556,
-   "wish_delta_1d": 1687,
+   "wish": 44615,
+   "wish_delta_1d": 1852,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -264,8 +264,8 @@
    "nm": "金哲",
    "rt": "2026-11-20",
    "status": "WATCHING",
-   "wish": 2483,
-   "wish_delta_1d": 145,
+   "wish": 2554,
+   "wish_delta_1d": 166,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -275,8 +275,8 @@
    "nm": "试探",
    "rt": "2026-11-21",
    "status": "WATCHING",
-   "wish": 8780,
-   "wish_delta_1d": 1675,
+   "wish": 9239,
+   "wish_delta_1d": 660,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -286,8 +286,8 @@
    "nm": "我的身后是祖国",
    "rt": "2026-11-25",
    "status": "WATCHING",
-   "wish": 2499,
-   "wish_delta_1d": 26,
+   "wish": 2521,
+   "wish_delta_1d": 34,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -297,8 +297,8 @@
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 211381,
-   "wish_delta_1d": 1486,
+   "wish": 211860,
+   "wish_delta_1d": 1199,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
