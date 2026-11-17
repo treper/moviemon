@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-17 09:00:02",
+ "generated_at": "2026-11-17 09:30:02",
  "realtime": [
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 34.920173999999996,
-   "ratio": 21.14,
+   "realtime_wan": 36.791691,
+   "ratio": 21.12,
    "days": 12,
-   "cum_wan": 1472.014441
+   "cum_wan": 1473.885958
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 24.609991,
-   "ratio": 14.9,
+   "realtime_wan": 26.721752000000002,
+   "ratio": 15.34,
    "days": 48,
-   "cum_wan": 73949.524488
+   "cum_wan": 73951.636249
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 19.166608,
-   "ratio": 11.6,
+   "realtime_wan": 20.074177,
+   "ratio": 11.52,
    "days": 44,
-   "cum_wan": 53915.250419
+   "cum_wan": 53916.157988
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 10.752835000000001,
-   "ratio": 6.51,
+   "realtime_wan": 11.488391,
+   "ratio": 6.59,
    "days": 48,
-   "cum_wan": 43036.736206
+   "cum_wan": 43037.471762
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 9.012893,
-   "ratio": 5.46,
+   "realtime_wan": 9.470119,
+   "ratio": 5.44,
    "days": 99,
-   "cum_wan": 241016.831303
+   "cum_wan": 241017.28852899998
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 7.617811,
-   "ratio": 4.61,
+   "realtime_wan": 8.183798,
+   "ratio": 4.7,
    "days": 123,
-   "cum_wan": 207096.946967
+   "cum_wan": 207097.512954
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 6.338143,
-   "ratio": 3.84,
+   "realtime_wan": 6.5269900000000005,
+   "ratio": 3.75,
    "days": 96,
-   "cum_wan": 78623.527657
-  },
-  {
-   "nm": "我没错！",
-   "realtime_wan": 5.549852,
-   "ratio": 3.36,
-   "days": 4,
-   "cum_wan": 704.756281
+   "cum_wan": 78623.716504
   },
   {
    "nm": "海上钢琴师",
-   "realtime_wan": 5.53455,
-   "ratio": 3.35,
+   "realtime_wan": 5.861722,
+   "ratio": 3.36,
    "days": 2560,
-   "cum_wan": 15581.949741999999
+   "cum_wan": 15582.276913999998
+  },
+  {
+   "nm": "我没错！",
+   "realtime_wan": 5.796998,
+   "ratio": 3.33,
+   "days": 4,
+   "cum_wan": 705.003427
   },
   {
    "nm": "无可替代的你",
-   "realtime_wan": 4.937553,
-   "ratio": 2.99,
+   "realtime_wan": 5.230642,
+   "ratio": 3.0,
    "days": 7,
-   "cum_wan": 1853.9672260000002
+   "cum_wan": 1854.2603149999998
   }
  ],
  "presale": [
