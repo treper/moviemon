@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-18 16:00:02",
+ "generated_at": "2026-11-18 16:30:02",
  "realtime": [
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 148.87503,
-   "ratio": 21.09,
+   "realtime_wan": 160.98424599999998,
+   "ratio": 21.28,
    "days": 49,
-   "cum_wan": 74393.262739
+   "cum_wan": 74405.374675
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 108.25948600000001,
-   "ratio": 15.33,
+   "realtime_wan": 116.97263899999999,
+   "ratio": 15.46,
    "days": 45,
-   "cum_wan": 54238.303665
+   "cum_wan": 54247.016818
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 87.453755,
-   "ratio": 12.39,
+   "realtime_wan": 92.283307,
+   "ratio": 12.2,
    "days": 13,
-   "cum_wan": 1676.900607
+   "cum_wan": 1681.730159
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 67.139207,
-   "ratio": 9.51,
+   "realtime_wan": 72.669289,
+   "ratio": 9.61,
    "days": 49,
-   "cum_wan": 43238.008051
+   "cum_wan": 43243.519133
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 38.662795,
-   "ratio": 5.48,
+   "realtime_wan": 41.502154,
+   "ratio": 5.49,
    "days": 100,
-   "cum_wan": 241115.986389
+   "cum_wan": 241118.825748
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 34.701899,
-   "ratio": 4.91,
+   "realtime_wan": 36.413152000000004,
+   "ratio": 4.81,
    "days": 124,
-   "cum_wan": 207175.63178199998
+   "cum_wan": 207177.343035
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 27.674138,
-   "ratio": 3.92,
+   "realtime_wan": 30.274146000000002,
+   "ratio": 4.0,
    "days": 12,
-   "cum_wan": 2320.428953
+   "cum_wan": 2323.028961
   },
   {
    "nm": "无可替代的你",
-   "realtime_wan": 22.523314000000003,
-   "ratio": 3.19,
+   "realtime_wan": 24.194782999999997,
+   "ratio": 3.2,
    "days": 8,
-   "cum_wan": 1930.191143
+   "cum_wan": 1931.8626120000001
   },
   {
    "nm": "我没错！",
-   "realtime_wan": 19.837145,
-   "ratio": 2.81,
+   "realtime_wan": 20.969476999999998,
+   "ratio": 2.77,
    "days": 5,
-   "cum_wan": 772.990716
+   "cum_wan": 774.123048
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 14.280520000000001,
-   "ratio": 2.02,
+   "realtime_wan": 15.089882000000001,
+   "ratio": 1.99,
    "days": 26,
-   "cum_wan": 1382.5080380000002
+   "cum_wan": 1383.3174
   }
  ],
  "presale": [
