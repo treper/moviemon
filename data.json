@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-19 09:00:02",
+ "generated_at": "2026-11-19 09:30:02",
  "realtime": [
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 27.857143,
-   "ratio": 17.15,
+   "realtime_wan": 29.064915999999997,
+   "ratio": 17.25,
    "days": 14,
-   "cum_wan": 1760.090581
+   "cum_wan": 1761.298354
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 25.250107999999997,
-   "ratio": 15.55,
+   "realtime_wan": 26.289364000000003,
+   "ratio": 15.6,
    "days": 50,
-   "cum_wan": 74580.962633
+   "cum_wan": 74582.00188899999
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 18.137976000000002,
-   "ratio": 11.17,
+   "realtime_wan": 18.957063,
+   "ratio": 11.25,
    "days": 46,
-   "cum_wan": 54377.44220700001
+   "cum_wan": 54378.261294
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 10.699566,
-   "ratio": 6.59,
+   "realtime_wan": 11.067447999999999,
+   "ratio": 6.57,
    "days": 50,
-   "cum_wan": 43320.160148
+   "cum_wan": 43320.52803
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 7.931228999999999,
-   "ratio": 4.88,
+   "realtime_wan": 8.277565,
+   "ratio": 4.91,
    "days": 101,
-   "cum_wan": 241154.884425
+   "cum_wan": 241155.230761
   },
   {
    "nm": "海上钢琴师",
-   "realtime_wan": 6.143333999999999,
-   "ratio": 3.78,
+   "realtime_wan": 6.247987,
+   "ratio": 3.71,
    "days": 2562,
-   "cum_wan": 15631.901925999999
+   "cum_wan": 15632.006578999999
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 5.714473,
-   "ratio": 3.52,
+   "realtime_wan": 5.967068,
+   "ratio": 3.54,
    "days": 125,
-   "cum_wan": 207192.337743
+   "cum_wan": 207192.590338
   },
   {
    "nm": "奥德赛",
-   "realtime_wan": 5.570721,
-   "ratio": 3.43,
+   "realtime_wan": 5.717738,
+   "ratio": 3.39,
    "days": 98,
-   "cum_wan": 78656.319499
+   "cum_wan": 78656.466516
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 5.211941,
-   "ratio": 3.21,
+   "realtime_wan": 5.519841,
+   "ratio": 3.28,
    "days": 13,
-   "cum_wan": 2365.5633940000002
+   "cum_wan": 2365.871294
   },
   {
    "nm": "我没错！",
-   "realtime_wan": 4.364527,
-   "ratio": 2.69,
+   "realtime_wan": 4.363637000000001,
+   "ratio": 2.59,
    "days": 6,
-   "cum_wan": 800.065746
+   "cum_wan": 800.064856
   }
  ],
  "presale": [
