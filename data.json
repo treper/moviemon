@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-21 16:00:02",
+ "generated_at": "2026-11-21 16:30:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 982.248057,
-   "ratio": 35.35,
+   "realtime_wan": 1034.6797199999999,
+   "ratio": 35.4,
    "days": 2,
-   "cum_wan": 1986.004353
+   "cum_wan": 2038.4124149999998
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 338.225779,
-   "ratio": 12.17,
+   "realtime_wan": 361.401296,
+   "ratio": 12.37,
    "days": 52,
-   "cum_wan": 75543.466927
+   "cum_wan": 75566.658845
   },
   {
    "nm": "试探",
-   "realtime_wan": 299.716637,
-   "ratio": 10.79,
+   "realtime_wan": 310.264442,
+   "ratio": 10.62,
    "days": 1,
-   "cum_wan": 303.110148
+   "cum_wan": 313.65795299999996
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 277.711019,
-   "ratio": 9.99,
+   "realtime_wan": 294.392863,
+   "ratio": 10.07,
    "days": 48,
-   "cum_wan": 55088.08229299999
+   "cum_wan": 55104.770737
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 141.840442,
-   "ratio": 5.1,
+   "realtime_wan": 147.957598,
+   "ratio": 5.06,
    "days": 16,
-   "cum_wan": 2126.593309
+   "cum_wan": 2132.7104649999997
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 127.56609399999999,
-   "ratio": 4.59,
+   "realtime_wan": 135.653314,
+   "ratio": 4.64,
    "days": 52,
-   "cum_wan": 43725.871274
+   "cum_wan": 43733.958494
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 114.380246,
-   "ratio": 4.12,
+   "realtime_wan": 119.03788200000001,
+   "ratio": 4.07,
    "days": 127,
-   "cum_wan": 207385.439075
+   "cum_wan": 207390.096711
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 93.803552,
-   "ratio": 3.38,
+   "realtime_wan": 99.545242,
+   "ratio": 3.41,
    "days": 103,
-   "cum_wan": 241382.741451
+   "cum_wan": 241388.48314099998
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 54.469885999999995,
-   "ratio": 1.96,
+   "realtime_wan": 56.407378,
+   "ratio": 1.93,
    "days": 52,
-   "cum_wan": 8300.9322
+   "cum_wan": 8302.869692
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 41.518592,
-   "ratio": 1.49,
+   "realtime_wan": 43.31002,
+   "ratio": 1.48,
    "days": 29,
-   "cum_wan": 1455.545153
+   "cum_wan": 1457.336581
   }
  ],
  "presale": [
