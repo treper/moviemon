@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-21 09:00:02",
+ "generated_at": "2026-11-21 09:30:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 372.642833,
-   "ratio": 38.45,
+   "realtime_wan": 379.362013,
+   "ratio": 38.2,
    "days": 2,
-   "cum_wan": 1368.819534
+   "cum_wan": 1375.538714
   },
   {
    "nm": "试探",
-   "realtime_wan": 127.13105,
-   "ratio": 13.12,
+   "realtime_wan": 130.852417,
+   "ratio": 13.18,
    "days": 1,
-   "cum_wan": 130.609431
+   "cum_wan": 134.330798
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 80.978522,
-   "ratio": 8.36,
+   "realtime_wan": 82.86791099999999,
+   "ratio": 8.34,
    "days": 52,
-   "cum_wan": 75285.76048
+   "cum_wan": 75287.649869
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 71.644998,
-   "ratio": 7.39,
+   "realtime_wan": 73.099757,
+   "ratio": 7.36,
    "days": 48,
-   "cum_wan": 54881.384274000004
+   "cum_wan": 54882.839033000004
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 60.881902000000004,
-   "ratio": 6.28,
+   "realtime_wan": 63.306819,
+   "ratio": 6.37,
    "days": 16,
-   "cum_wan": 2044.8124059999998
+   "cum_wan": 2047.237323
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 30.798742999999998,
-   "ratio": 3.18,
+   "realtime_wan": 32.124528999999995,
+   "ratio": 3.23,
    "days": 127,
-   "cum_wan": 207301.466475
+   "cum_wan": 207302.792261
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 30.499333,
-   "ratio": 3.15,
+   "realtime_wan": 31.458139000000003,
+   "ratio": 3.17,
    "days": 52,
-   "cum_wan": 43628.390675999995
+   "cum_wan": 43629.349482
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 27.981358,
-   "ratio": 2.89,
+   "realtime_wan": 28.802893,
+   "ratio": 2.9,
    "days": 103,
-   "cum_wan": 241316.41041999997
+   "cum_wan": 241317.23195500002
   },
   {
    "nm": "海上钢琴师",
-   "realtime_wan": 16.029417000000002,
-   "ratio": 1.65,
+   "realtime_wan": 16.128426,
+   "ratio": 1.62,
    "days": 2564,
-   "cum_wan": 15683.774825999999
+   "cum_wan": 15683.873834999999
   },
   {
    "nm": "霹雳英雄：素还真",
-   "realtime_wan": 15.873748999999998,
-   "ratio": 1.64,
+   "realtime_wan": 15.932777,
+   "ratio": 1.6,
    "days": 2,
-   "cum_wan": 56.060161
+   "cum_wan": 56.119189
   }
  ],
  "presale": [
