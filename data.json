@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-22 19:30:02",
+ "generated_at": "2026-11-22 20:00:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 1039.899605,
-   "ratio": 34.24,
+   "realtime_wan": 1072.7476179999999,
+   "ratio": 34.37,
    "days": 3,
-   "cum_wan": 3798.3143520000003
+   "cum_wan": 3831.1623649999997
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 407.060067,
-   "ratio": 13.4,
+   "realtime_wan": 419.59380300000004,
+   "ratio": 13.44,
    "days": 53,
-   "cum_wan": 76244.081599
+   "cum_wan": 76256.61533500001
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 298.421019,
-   "ratio": 9.82,
+   "realtime_wan": 307.443803,
+   "ratio": 9.85,
    "days": 49,
-   "cum_wan": 55637.13516799999
+   "cum_wan": 55646.157952
   },
   {
    "nm": "试探",
-   "realtime_wan": 234.285985,
-   "ratio": 7.71,
+   "realtime_wan": 242.71941,
+   "ratio": 7.78,
    "days": 2,
-   "cum_wan": 702.7494889999999
+   "cum_wan": 711.182914
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 183.01516999999998,
-   "ratio": 6.03,
+   "realtime_wan": 185.37103000000002,
+   "ratio": 5.94,
    "days": 17,
-   "cum_wan": 2390.225488
+   "cum_wan": 2392.581348
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 172.350424,
-   "ratio": 5.67,
+   "realtime_wan": 178.399357,
+   "ratio": 5.72,
    "days": 53,
-   "cum_wan": 44013.893006
+   "cum_wan": 44019.941939
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 127.622506,
-   "ratio": 4.2,
+   "realtime_wan": 130.03715400000002,
+   "ratio": 4.17,
    "days": 128,
-   "cum_wan": 207559.006111
+   "cum_wan": 207561.420759
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 115.953177,
-   "ratio": 3.82,
+   "realtime_wan": 118.66578,
+   "ratio": 3.8,
    "days": 104,
-   "cum_wan": 241565.250013
+   "cum_wan": 241567.96261599998
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 68.282168,
-   "ratio": 2.25,
+   "realtime_wan": 68.520072,
+   "ratio": 2.2,
    "days": 53,
-   "cum_wan": 8383.720297
+   "cum_wan": 8383.958201000001
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 49.725786,
-   "ratio": 1.64,
+   "realtime_wan": 49.776106,
+   "ratio": 1.59,
    "days": 30,
-   "cum_wan": 1518.18381
+   "cum_wan": 1518.23413
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1164582,
    "nm": "沙丘",
    "rt": "2026-11-27",
-   "wish": 292362,
-   "wish_delta_1d": 472,
+   "wish": 292559,
+   "wish_delta_1d": 430,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1217236,
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
-   "wish": 219125,
-   "wish_delta_1d": 1934,
+   "wish": 220504,
+   "wish_delta_1d": 2331,
    "on_sale": true,
    "pooled": true
   },
@@ -95,8 +95,8 @@
    "id": 1594939,
    "nm": "魔法秘境",
    "rt": "2026-11-27",
-   "wish": 32462,
-   "wish_delta_1d": 1134,
+   "wish": 33141,
+   "wish_delta_1d": 1232,
    "on_sale": true,
    "pooled": true
   },
@@ -128,6 +128,15 @@
    "pooled": false
   },
   {
+   "id": 1589333,
+   "nm": "泥面人",
+   "rt": "2026-11-27",
+   "wish": 10677,
+   "wish_delta_1d": 550,
+   "on_sale": true,
+   "pooled": true
+  },
+  {
    "id": 1543699,
    "nm": "酒店404惊魂",
    "rt": "2026-11-06",
@@ -135,15 +144,6 @@
    "wish_delta_1d": 144,
    "on_sale": false,
    "pooled": false
-  },
-  {
-   "id": 1589333,
-   "nm": "泥面人",
-   "rt": "2026-11-27",
-   "wish": 10418,
-   "wish_delta_1d": 572,
-   "on_sale": true,
-   "pooled": true
   },
   {
    "id": 1599810,
@@ -280,8 +280,8 @@
    "nm": "我的身后是祖国",
    "rt": "2026-11-25",
    "status": "WATCHING",
-   "wish": 2767,
-   "wish_delta_1d": 91,
+   "wish": 2818,
+   "wish_delta_1d": 82,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "沙丘",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 292362,
-   "wish_delta_1d": 472,
+   "wish": 292559,
+   "wish_delta_1d": 430,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +302,8 @@
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 219125,
-   "wish_delta_1d": 1934,
+   "wish": 220504,
+   "wish_delta_1d": 2331,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "泥面人",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 10418,
-   "wish_delta_1d": 572,
+   "wish": 10677,
+   "wish_delta_1d": 550,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "魔法秘境",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 32462,
-   "wish_delta_1d": 1134,
+   "wish": 33141,
+   "wish_delta_1d": 1232,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -539,70 +539,6 @@
    "symbol": null,
    "title": "🎟️ 预售开启:民宿惊魂",
    "body": "《民宿惊魂》(2026-10-31) 预售已开启,当前想看 5604。可关注相关影视股的埋伏窗口。"
-  },
-  {
-   "ts": "2026-10-23 20:00:10",
-   "etype": "E4",
-   "movie_name": "愤怒的老虎",
-   "symbol": null,
-   "title": "📊 首日战报:愤怒的老虎",
-   "body": "《愤怒的老虎》上映首日:实时票房 0.01 亿,累计 0.01 亿(目标 3.0 亿),票房占比 2.56%,评分未出。"
-  },
-  {
-   "ts": "2026-10-23 20:00:10",
-   "etype": "E6",
-   "movie_name": "愤怒的老虎",
-   "symbol": null,
-   "title": "⚠️ 票房不及预期:愤怒的老虎",
-   "body": "《愤怒的老虎》首日累计 0.01 亿,低于目标的 60%,注意相关股回调风险。"
-  },
-  {
-   "ts": "2026-10-23 20:00:10",
-   "etype": "E4",
-   "movie_name": "象行记",
-   "symbol": null,
-   "title": "📊 首日战报:象行记",
-   "body": "《象行记》上映首日:实时票房 0.00 亿,累计 0.00 亿(目标 3.0 亿),票房占比 0.93%,评分未出。"
-  },
-  {
-   "ts": "2026-10-23 20:00:10",
-   "etype": "E6",
-   "movie_name": "象行记",
-   "symbol": null,
-   "title": "⚠️ 票房不及预期:象行记",
-   "body": "《象行记》首日累计 0.00 亿,低于目标的 60%,注意相关股回调风险。"
-  },
-  {
-   "ts": "2026-10-23 20:00:10",
-   "etype": "E4",
-   "movie_name": "三星堆：未来往事",
-   "symbol": null,
-   "title": "📊 首日战报:三星堆：未来往事",
-   "body": "《三星堆：未来往事》上映首日:实时票房 0.00 亿,累计 0.00 亿(目标 3.0 亿),票房占比 1.23%,评分未出。"
-  },
-  {
-   "ts": "2026-10-23 20:00:10",
-   "etype": "E6",
-   "movie_name": "三星堆：未来往事",
-   "symbol": null,
-   "title": "⚠️ 票房不及预期:三星堆：未来往事",
-   "body": "《三星堆：未来往事》首日累计 0.00 亿,低于目标的 60%,注意相关股回调风险。"
-  },
-  {
-   "ts": "2026-10-23 20:00:10",
-   "etype": "E4",
-   "movie_name": "生日快乐",
-   "symbol": null,
-   "title": "📊 首日战报:生日快乐",
-   "body": "《生日快乐》上映首日:实时票房 0.00 亿,累计 0.01 亿(目标 3.0 亿),票房占比 1.43%,评分未出。"
-  },
-  {
-   "ts": "2026-10-23 20:00:10",
-   "etype": "E6",
-   "movie_name": "生日快乐",
-   "symbol": null,
-   "title": "⚠️ 票房不及预期:生日快乐",
-   "body": "《生日快乐》首日累计 0.01 亿,低于目标的 60%,注意相关股回调风险。"
   }
  ]
 }
