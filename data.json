@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-22 20:00:02",
+ "generated_at": "2026-11-22 20:30:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 1072.7476179999999,
-   "ratio": 34.37,
+   "realtime_wan": 1104.147473,
+   "ratio": 34.51,
    "days": 3,
-   "cum_wan": 3831.1623649999997
+   "cum_wan": 3862.5622200000003
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 419.59380300000004,
-   "ratio": 13.44,
+   "realtime_wan": 432.02749400000005,
+   "ratio": 13.5,
    "days": 53,
-   "cum_wan": 76256.61533500001
+   "cum_wan": 76269.049026
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 307.443803,
-   "ratio": 9.85,
+   "realtime_wan": 316.034238,
+   "ratio": 9.88,
    "days": 49,
-   "cum_wan": 55646.157952
+   "cum_wan": 55654.748387
   },
   {
    "nm": "试探",
-   "realtime_wan": 242.71941,
-   "ratio": 7.78,
+   "realtime_wan": 250.53027999999998,
+   "ratio": 7.83,
    "days": 2,
-   "cum_wan": 711.182914
+   "cum_wan": 718.993784
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 185.37103000000002,
-   "ratio": 5.94,
+   "realtime_wan": 186.677952,
+   "ratio": 5.83,
    "days": 17,
-   "cum_wan": 2392.581348
+   "cum_wan": 2393.88827
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 178.399357,
-   "ratio": 5.72,
+   "realtime_wan": 184.53696100000002,
+   "ratio": 5.77,
    "days": 53,
-   "cum_wan": 44019.941939
+   "cum_wan": 44026.079543
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 130.03715400000002,
-   "ratio": 4.17,
+   "realtime_wan": 131.096725,
+   "ratio": 4.1,
    "days": 128,
-   "cum_wan": 207561.420759
+   "cum_wan": 207562.48033
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 118.66578,
-   "ratio": 3.8,
+   "realtime_wan": 121.16911599999999,
+   "ratio": 3.79,
    "days": 104,
-   "cum_wan": 241567.96261599998
+   "cum_wan": 241570.465952
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 68.520072,
-   "ratio": 2.2,
+   "realtime_wan": 68.748307,
+   "ratio": 2.15,
    "days": 53,
-   "cum_wan": 8383.958201000001
+   "cum_wan": 8384.186436
   },
   {
    "nm": "小羊肖恩3：怪兽来袭",
-   "realtime_wan": 49.776106,
-   "ratio": 1.59,
+   "realtime_wan": 49.874753000000005,
+   "ratio": 1.56,
    "days": 30,
-   "cum_wan": 1518.23413
+   "cum_wan": 1518.3327769999999
   }
  ],
  "presale": [
