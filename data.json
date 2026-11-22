@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-22 10:00:02",
+ "generated_at": "2026-11-22 10:30:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 233.48165699999998,
-   "ratio": 33.57,
+   "realtime_wan": 249.963302,
+   "ratio": 32.63,
    "days": 3,
-   "cum_wan": 2963.724648
+   "cum_wan": 2937.078787
   },
   {
    "nm": "试探",
-   "realtime_wan": 61.898097,
-   "ratio": 8.9,
+   "realtime_wan": 74.655063,
+   "ratio": 9.75,
    "days": 2,
-   "cum_wan": 524.957602
+   "cum_wan": 537.3612410000001
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 58.721256999999994,
-   "ratio": 8.44,
+   "realtime_wan": 65.79468,
+   "ratio": 8.59,
    "days": 53,
-   "cum_wan": 75893.257168
+   "cum_wan": 75877.158285
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 55.918698,
-   "ratio": 8.04,
+   "realtime_wan": 61.876557,
+   "ratio": 8.08,
    "days": 17,
-   "cum_wan": 2259.2066870000003
+   "cum_wan": 2258.157593
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 44.452416,
-   "ratio": 6.39,
+   "realtime_wan": 48.827168,
+   "ratio": 6.37,
    "days": 49,
-   "cum_wan": 55381.83755800001
+   "cum_wan": 55367.82810499999
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 28.856276,
-   "ratio": 4.15,
+   "realtime_wan": 32.489128,
+   "ratio": 4.24,
    "days": 128,
-   "cum_wan": 207459.35099200002
+   "cum_wan": 207458.203444
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 26.569670000000002,
-   "ratio": 3.82,
+   "realtime_wan": 30.299293,
+   "ratio": 3.96,
    "days": 53,
-   "cum_wan": 43867.429246
+   "cum_wan": 43863.012197000004
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 24.132789000000002,
-   "ratio": 3.47,
+   "realtime_wan": 26.468262,
+   "ratio": 3.46,
    "days": 104,
-   "cum_wan": 241474.16995100002
+   "cum_wan": 241465.62729899999
   },
   {
    "nm": "小猪佩奇·完美假期",
-   "realtime_wan": 17.201227,
-   "ratio": 2.47,
+   "realtime_wan": 21.096766,
+   "ratio": 2.75,
    "days": 53,
-   "cum_wan": 8332.116814
+   "cum_wan": 8333.68132
   },
   {
-   "nm": "2026-2027赛季德国乒乓球甲级联赛及德国杯赛事",
-   "realtime_wan": 15.730456,
-   "ratio": 2.26,
-   "days": 0,
-   "cum_wan": 404.681739
+   "nm": "小羊肖恩3：怪兽来袭",
+   "realtime_wan": 16.02729,
+   "ratio": 2.09,
+   "days": 30,
+   "cum_wan": 1482.766029
   }
  ],
  "presale": [
