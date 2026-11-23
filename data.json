@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-23 19:30:02",
+ "generated_at": "2026-11-23 20:00:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 301.071489,
-   "ratio": 33.11,
+   "realtime_wan": 320.384636,
+   "ratio": 33.16,
    "days": 4,
-   "cum_wan": 4244.929712
+   "cum_wan": 4264.242859
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 147.32099499999998,
-   "ratio": 16.2,
+   "realtime_wan": 156.941501,
+   "ratio": 16.25,
    "days": 54,
-   "cum_wan": 76449.548203
+   "cum_wan": 76459.168709
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 84.38291600000001,
-   "ratio": 9.28,
+   "realtime_wan": 90.697106,
+   "ratio": 9.39,
    "days": 50,
-   "cum_wan": 55769.051379
+   "cum_wan": 55775.36556900001
   },
   {
    "nm": "试探",
-   "realtime_wan": 68.163494,
-   "ratio": 7.5,
+   "realtime_wan": 74.803837,
+   "ratio": 7.74,
    "days": 3,
-   "cum_wan": 809.4239269999999
+   "cum_wan": 816.06427
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 67.465491,
-   "ratio": 7.42,
+   "realtime_wan": 71.85631500000001,
+   "ratio": 7.44,
    "days": 54,
-   "cum_wan": 44107.466456
+   "cum_wan": 44111.857280000004
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 57.916422999999995,
-   "ratio": 6.37,
+   "realtime_wan": 60.278605000000006,
+   "ratio": 6.24,
    "days": 18,
-   "cum_wan": 2453.715065
+   "cum_wan": 2456.0772469999997
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 36.84853,
-   "ratio": 4.05,
+   "realtime_wan": 39.224554,
+   "ratio": 4.06,
    "days": 105,
-   "cum_wan": 241613.86899000002
+   "cum_wan": 241616.245014
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 15.700001,
-   "ratio": 1.73,
+   "realtime_wan": 16.223645,
+   "ratio": 1.68,
    "days": 129,
-   "cum_wan": 207580.723829
+   "cum_wan": 207581.247473
   },
   {
    "nm": "手捧繁星",
-   "realtime_wan": 13.196039,
+   "realtime_wan": 14.028039000000001,
    "ratio": 1.45,
    "days": 18,
-   "cum_wan": 115.79609199999999
+   "cum_wan": 116.628092
   },
   {
    "nm": "无可替代的你",
-   "realtime_wan": 9.654521,
-   "ratio": 1.06,
+   "realtime_wan": 10.150186999999999,
+   "ratio": 1.05,
    "days": 13,
-   "cum_wan": 2075.2616989999997
+   "cum_wan": 2075.757365
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1164582,
    "nm": "沙丘",
    "rt": "2026-11-27",
-   "wish": 292793,
-   "wish_delta_1d": 431,
+   "wish": 293017,
+   "wish_delta_1d": 458,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1217236,
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
-   "wish": 221566,
-   "wish_delta_1d": 2441,
+   "wish": 222351,
+   "wish_delta_1d": 1847,
    "on_sale": true,
    "pooled": true
   },
@@ -95,8 +95,8 @@
    "id": 1594939,
    "nm": "魔法秘境",
    "rt": "2026-11-27",
-   "wish": 33525,
-   "wish_delta_1d": 1063,
+   "wish": 33863,
+   "wish_delta_1d": 722,
    "on_sale": true,
    "pooled": true
   },
@@ -131,8 +131,8 @@
    "id": 1589333,
    "nm": "泥面人",
    "rt": "2026-11-27",
-   "wish": 10996,
-   "wish_delta_1d": 578,
+   "wish": 11447,
+   "wish_delta_1d": 770,
    "on_sale": true,
    "pooled": true
   },
@@ -280,8 +280,8 @@
    "nm": "我的身后是祖国",
    "rt": "2026-11-25",
    "status": "WATCHING",
-   "wish": 2866,
-   "wish_delta_1d": 99,
+   "wish": 2896,
+   "wish_delta_1d": 78,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "沙丘",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 292793,
-   "wish_delta_1d": 431,
+   "wish": 293017,
+   "wish_delta_1d": 458,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +302,8 @@
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 221566,
-   "wish_delta_1d": 2441,
+   "wish": 222351,
+   "wish_delta_1d": 1847,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "泥面人",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 10996,
-   "wish_delta_1d": 578,
+   "wish": 11447,
+   "wish_delta_1d": 770,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "魔法秘境",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 33525,
-   "wish_delta_1d": 1063,
+   "wish": 33863,
+   "wish_delta_1d": 722,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
