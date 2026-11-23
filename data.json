@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-23 09:00:02",
+ "generated_at": "2026-11-23 09:30:03",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 37.991881,
-   "ratio": 30.21,
+   "realtime_wan": 40.342496999999995,
+   "ratio": 30.59,
    "days": 4,
-   "cum_wan": 3970.1876729999994
+   "cum_wan": 3972.538289
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 14.828414000000002,
-   "ratio": 11.79,
+   "realtime_wan": 15.667402,
+   "ratio": 11.88,
    "days": 54,
-   "cum_wan": 76312.247725
+   "cum_wan": 76313.086713
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 12.279325,
-   "ratio": 9.76,
+   "realtime_wan": 13.111188,
+   "ratio": 9.94,
    "days": 18,
-   "cum_wan": 2407.400722
+   "cum_wan": 2408.232585
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 8.216683999999999,
-   "ratio": 6.53,
+   "realtime_wan": 8.513967,
+   "ratio": 6.46,
    "days": 50,
-   "cum_wan": 55690.414003
+   "cum_wan": 55690.711286
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 7.078912,
-   "ratio": 5.63,
+   "realtime_wan": 7.523639,
+   "ratio": 5.7,
    "days": 54,
-   "cum_wan": 44045.271968
+   "cum_wan": 44045.716694999996
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 5.270951,
-   "ratio": 4.19,
+   "realtime_wan": 5.49845,
+   "ratio": 4.17,
    "days": 105,
-   "cum_wan": 241581.342336
+   "cum_wan": 241581.569835
   },
   {
    "nm": "试探",
-   "realtime_wan": 4.598916,
-   "ratio": 3.66,
+   "realtime_wan": 4.85904,
+   "ratio": 3.68,
    "days": 3,
-   "cum_wan": 744.081004
+   "cum_wan": 744.341128
   },
   {
    "nm": "手捧繁星",
-   "realtime_wan": 3.3594839999999997,
-   "ratio": 2.67,
+   "realtime_wan": 3.3594209999999998,
+   "ratio": 2.55,
    "days": 18,
-   "cum_wan": 105.33731
+   "cum_wan": 105.33724699999999
   },
   {
    "nm": "老师您辛苦了",
    "realtime_wan": 3.024,
-   "ratio": 2.4,
+   "ratio": 2.29,
    "days": 72,
    "cum_wan": 862.739249
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 2.623579,
-   "ratio": 2.09,
+   "realtime_wan": 2.708585,
+   "ratio": 2.05,
    "days": 129,
-   "cum_wan": 207566.619882
+   "cum_wan": 207566.704888
   }
  ],
  "presale": [
