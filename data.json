@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-23 11:00:02",
+ "generated_at": "2026-11-23 11:30:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 54.128547999999995,
-   "ratio": 31.43,
+   "realtime_wan": 59.720285,
+   "ratio": 31.57,
    "days": 4,
-   "cum_wan": 3957.649549
+   "cum_wan": 3963.241286
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 20.999843,
-   "ratio": 12.19,
+   "realtime_wan": 23.615533,
+   "ratio": 12.48,
    "days": 54,
-   "cum_wan": 76303.08854099999
+   "cum_wan": 76305.704231
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 17.350606,
-   "ratio": 10.07,
+   "realtime_wan": 18.71649,
+   "ratio": 9.89,
    "days": 18,
-   "cum_wan": 2406.056387
+   "cum_wan": 2407.422271
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 11.148679,
-   "ratio": 6.47,
+   "realtime_wan": 12.496731,
+   "ratio": 6.61,
    "days": 50,
-   "cum_wan": 55681.164477
+   "cum_wan": 55682.512529
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 10.821530000000001,
-   "ratio": 6.28,
+   "realtime_wan": 12.129164999999999,
+   "ratio": 6.41,
    "days": 54,
-   "cum_wan": 44042.754026
+   "cum_wan": 44044.061661
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 7.061013000000001,
-   "ratio": 4.1,
+   "realtime_wan": 7.671988000000001,
+   "ratio": 4.06,
    "days": 105,
-   "cum_wan": 241573.974544
+   "cum_wan": 241574.58551900001
   },
   {
    "nm": "试探",
-   "realtime_wan": 6.579086,
-   "ratio": 3.82,
+   "realtime_wan": 7.378814,
+   "ratio": 3.9,
    "days": 3,
-   "cum_wan": 747.6244849999999
-  },
-  {
-   "nm": "手捧繁星",
-   "realtime_wan": 3.505404,
-   "ratio": 2.04,
-   "days": 18,
-   "cum_wan": 107.311637
+   "cum_wan": 748.424213
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 3.406022,
-   "ratio": 1.98,
+   "realtime_wan": 3.8308150000000003,
+   "ratio": 2.03,
    "days": 129,
-   "cum_wan": 207563.393644
+   "cum_wan": 207563.81843699998
   },
   {
-   "nm": "老师您辛苦了",
-   "realtime_wan": 3.024,
-   "ratio": 1.76,
-   "days": 72,
-   "cum_wan": 869.249258
+   "nm": "手捧繁星",
+   "realtime_wan": 3.6006169999999997,
+   "ratio": 1.9,
+   "days": 18,
+   "cum_wan": 107.40685
+  },
+  {
+   "nm": "霹雳英雄：素还真",
+   "realtime_wan": 3.1355009999999996,
+   "ratio": 1.66,
+   "days": 4,
+   "cum_wan": 93.347268
   }
  ],
  "presale": [
