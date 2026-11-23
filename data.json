@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-23 18:30:02",
+ "generated_at": "2026-11-23 19:00:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 251.397033,
-   "ratio": 32.49,
+   "realtime_wan": 277.994074,
+   "ratio": 32.95,
    "days": 4,
-   "cum_wan": 4195.255256
+   "cum_wan": 4221.852296999999
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 123.80078799999998,
-   "ratio": 16.0,
+   "realtime_wan": 135.21255,
+   "ratio": 16.02,
    "days": 54,
-   "cum_wan": 76426.027996
+   "cum_wan": 76437.43975800001
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 71.53049399999999,
-   "ratio": 9.25,
+   "realtime_wan": 77.735104,
+   "ratio": 9.21,
    "days": 50,
-   "cum_wan": 55756.19895700001
+   "cum_wan": 55762.403566999994
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 57.833063,
-   "ratio": 7.47,
+   "realtime_wan": 62.721281999999995,
+   "ratio": 7.43,
    "days": 54,
-   "cum_wan": 44097.834028
+   "cum_wan": 44102.722247000005
   },
   {
    "nm": "试探",
-   "realtime_wan": 53.842712,
-   "ratio": 6.96,
+   "realtime_wan": 61.85966,
+   "ratio": 7.33,
    "days": 3,
-   "cum_wan": 795.103145
+   "cum_wan": 803.120093
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 51.633061,
-   "ratio": 6.67,
+   "realtime_wan": 54.886796999999994,
+   "ratio": 6.5,
    "days": 18,
-   "cum_wan": 2447.431703
+   "cum_wan": 2450.685439
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 31.682741999999998,
-   "ratio": 4.09,
+   "realtime_wan": 34.384696000000005,
+   "ratio": 4.08,
    "days": 105,
-   "cum_wan": 241608.703202
+   "cum_wan": 241611.405156
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 14.394333,
-   "ratio": 1.86,
+   "realtime_wan": 15.096699,
+   "ratio": 1.79,
    "days": 129,
-   "cum_wan": 207579.41816099998
+   "cum_wan": 207580.120527
   },
   {
    "nm": "手捧繁星",
-   "realtime_wan": 11.532836,
-   "ratio": 1.49,
+   "realtime_wan": 12.403836,
+   "ratio": 1.47,
    "days": 18,
-   "cum_wan": 114.13288899999999
+   "cum_wan": 115.00388899999999
   },
   {
    "nm": "无可替代的你",
-   "realtime_wan": 8.634179,
-   "ratio": 1.12,
+   "realtime_wan": 9.169226,
+   "ratio": 1.09,
    "days": 13,
-   "cum_wan": 2074.241357
+   "cum_wan": 2074.7764039999997
   }
  ],
  "presale": [
