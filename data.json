@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-24 19:30:02",
+ "generated_at": "2026-11-24 20:00:03",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 262.917075,
-   "ratio": 30.83,
+   "realtime_wan": 289.056646,
+   "ratio": 31.16,
    "days": 5,
-   "cum_wan": 4596.009053
+   "cum_wan": 4622.148624
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 145.51468,
-   "ratio": 17.06,
+   "realtime_wan": 159.600767,
+   "ratio": 17.2,
    "days": 55,
-   "cum_wan": 76639.705726
+   "cum_wan": 76653.791813
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 79.234701,
-   "ratio": 9.29,
+   "realtime_wan": 88.436217,
+   "ratio": 9.53,
    "days": 51,
-   "cum_wan": 55885.665703
+   "cum_wan": 55894.86721900001
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 71.599082,
-   "ratio": 8.4,
+   "realtime_wan": 77.811939,
+   "ratio": 8.39,
    "days": 55,
-   "cum_wan": 44198.731015
+   "cum_wan": 44204.943872
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 58.417190000000005,
-   "ratio": 6.85,
+   "realtime_wan": 61.058549,
+   "ratio": 6.58,
    "days": 19,
-   "cum_wan": 2520.7804109999997
+   "cum_wan": 2523.42177
   },
   {
    "nm": "试探",
-   "realtime_wan": 47.664726,
-   "ratio": 5.59,
+   "realtime_wan": 52.244869,
+   "ratio": 5.63,
    "days": 4,
-   "cum_wan": 892.948403
+   "cum_wan": 897.5285460000001
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 36.769467999999996,
+   "realtime_wan": 39.955849,
    "ratio": 4.31,
    "days": 106,
-   "cum_wan": 241660.00224200002
+   "cum_wan": 241663.188623
   },
   {
    "nm": "手捧繁星",
-   "realtime_wan": 14.404216,
-   "ratio": 1.69,
+   "realtime_wan": 15.453216000000001,
+   "ratio": 1.67,
    "days": 19,
-   "cum_wan": 135.127546
+   "cum_wan": 136.176546
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 13.907712,
-   "ratio": 1.63,
+   "realtime_wan": 14.422486,
+   "ratio": 1.55,
    "days": 130,
-   "cum_wan": 207596.07980099999
+   "cum_wan": 207596.594575
   },
   {
    "nm": "心迷宫之三重罪",
-   "realtime_wan": 10.496397,
-   "ratio": 1.23,
+   "realtime_wan": 11.143999,
+   "ratio": 1.2,
    "days": 18,
-   "cum_wan": 2546.454175
+   "cum_wan": 2547.101777
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1164582,
    "nm": "沙丘",
    "rt": "2026-11-27",
-   "wish": 293317,
-   "wish_delta_1d": 524,
+   "wish": 293578,
+   "wish_delta_1d": 561,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1217236,
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
-   "wish": 223348,
-   "wish_delta_1d": 1782,
+   "wish": 225777,
+   "wish_delta_1d": 3426,
    "on_sale": true,
    "pooled": true
   },
@@ -95,8 +95,8 @@
    "id": 1594939,
    "nm": "魔法秘境",
    "rt": "2026-11-27",
-   "wish": 34241,
-   "wish_delta_1d": 716,
+   "wish": 34637,
+   "wish_delta_1d": 774,
    "on_sale": true,
    "pooled": true
   },
@@ -131,8 +131,8 @@
    "id": 1589333,
    "nm": "泥面人",
    "rt": "2026-11-27",
-   "wish": 11929,
-   "wish_delta_1d": 933,
+   "wish": 12347,
+   "wish_delta_1d": 900,
    "on_sale": true,
    "pooled": true
   },
@@ -280,8 +280,8 @@
    "nm": "我的身后是祖国",
    "rt": "2026-11-25",
    "status": "WATCHING",
-   "wish": 2929,
-   "wish_delta_1d": 63,
+   "wish": 2978,
+   "wish_delta_1d": 82,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "沙丘",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 293317,
-   "wish_delta_1d": 524,
+   "wish": 293578,
+   "wish_delta_1d": 561,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +302,8 @@
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 223348,
-   "wish_delta_1d": 1782,
+   "wish": 225777,
+   "wish_delta_1d": 3426,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "泥面人",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 11929,
-   "wish_delta_1d": 933,
+   "wish": 12347,
+   "wish_delta_1d": 900,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,8 +324,8 @@
    "nm": "魔法秘境",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 34241,
-   "wish_delta_1d": 716,
+   "wish": 34637,
+   "wish_delta_1d": 774,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
