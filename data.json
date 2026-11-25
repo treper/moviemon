@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-25 19:30:02",
+ "generated_at": "2026-11-25 20:00:03",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 255.528366,
-   "ratio": 27.74,
+   "realtime_wan": 273.94696400000004,
+   "ratio": 28.03,
    "days": 6,
-   "cum_wan": 4936.751503
+   "cum_wan": 4955.170101
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 153.217351,
-   "ratio": 16.63,
+   "realtime_wan": 164.619993,
+   "ratio": 16.85,
    "days": 56,
-   "cum_wan": 76838.296961
+   "cum_wan": 76849.699603
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 84.769277,
-   "ratio": 9.2,
+   "realtime_wan": 91.776549,
+   "ratio": 9.39,
    "days": 52,
-   "cum_wan": 56008.18683200001
+   "cum_wan": 56015.194103999995
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 72.501451,
-   "ratio": 7.87,
+   "realtime_wan": 77.31181600000001,
+   "ratio": 7.91,
    "days": 56,
-   "cum_wan": 44292.964960000005
+   "cum_wan": 44297.775325
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 60.841591,
-   "ratio": 6.6,
+   "realtime_wan": 62.584343999999994,
+   "ratio": 6.4,
    "days": 20,
-   "cum_wan": 2589.1216879999997
+   "cum_wan": 2590.864441
   },
   {
    "nm": "试探",
-   "realtime_wan": 43.32012,
-   "ratio": 4.7,
+   "realtime_wan": 46.259124,
+   "ratio": 4.73,
    "days": 5,
-   "cum_wan": 954.1721640000001
+   "cum_wan": 957.111168
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 42.566563,
-   "ratio": 4.62,
+   "realtime_wan": 44.585744,
+   "ratio": 4.56,
    "days": 107,
-   "cum_wan": 241712.223765
+   "cum_wan": 241714.242946
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 17.535601999999997,
-   "ratio": 1.9,
+   "realtime_wan": 17.614624,
+   "ratio": 1.8,
    "days": 131,
-   "cum_wan": 207614.949737
+   "cum_wan": 207615.02875899998
   },
   {
    "nm": "马兰花开的声音",
-   "realtime_wan": 15.908532000000001,
-   "ratio": 1.73,
+   "realtime_wan": 16.521632,
+   "ratio": 1.69,
    "days": 1,
-   "cum_wan": 20.269922
+   "cum_wan": 20.883022
   },
   {
    "nm": "我的身后是祖国",
-   "realtime_wan": 15.533705,
-   "ratio": 1.69,
+   "realtime_wan": 16.157170999999998,
+   "ratio": 1.65,
    "days": 1,
-   "cum_wan": 50.149541
+   "cum_wan": 50.773007
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1164582,
    "nm": "沙丘",
    "rt": "2026-11-27",
-   "wish": 293884,
-   "wish_delta_1d": 567,
+   "wish": 294165,
+   "wish_delta_1d": 587,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1217236,
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
-   "wish": 227290,
-   "wish_delta_1d": 3942,
+   "wish": 228074,
+   "wish_delta_1d": 2297,
    "on_sale": true,
    "pooled": true
   },
@@ -95,8 +95,8 @@
    "id": 1594939,
    "nm": "魔法秘境",
    "rt": "2026-11-27",
-   "wish": 35020,
-   "wish_delta_1d": 779,
+   "wish": 35404,
+   "wish_delta_1d": 767,
    "on_sale": true,
    "pooled": true
   },
@@ -131,8 +131,8 @@
    "id": 1589333,
    "nm": "泥面人",
    "rt": "2026-11-27",
-   "wish": 12734,
-   "wish_delta_1d": 805,
+   "wish": 13151,
+   "wish_delta_1d": 804,
    "on_sale": true,
    "pooled": true
   },
@@ -149,7 +149,7 @@
    "id": 1492796,
    "nm": "时间里的爱人",
    "rt": "2026-11-28",
-   "wish": 5399,
+   "wish": 5492,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -280,8 +280,8 @@
    "nm": "沙丘",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 293884,
-   "wish_delta_1d": 567,
+   "wish": 294165,
+   "wish_delta_1d": 587,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 227290,
-   "wish_delta_1d": 3942,
+   "wish": 228074,
+   "wish_delta_1d": 2297,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +302,8 @@
    "nm": "泥面人",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 12734,
-   "wish_delta_1d": 805,
+   "wish": 13151,
+   "wish_delta_1d": 804,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "魔法秘境",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 35020,
-   "wish_delta_1d": 779,
+   "wish": 35404,
+   "wish_delta_1d": 767,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -324,14 +324,30 @@
    "nm": "孤楼夜幽灵",
    "rt": "2026-11-28",
    "status": "WATCHING",
-   "wish": 2533,
-   "wish_delta_1d": 1131,
+   "wish": 2566,
+   "wish_delta_1d": 1164,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
   }
  ],
  "events": [
+  {
+   "ts": "2026-11-25 20:00:11",
+   "etype": "E4",
+   "movie_name": "我的身后是祖国",
+   "symbol": null,
+   "title": "📊 首日战报:我的身后是祖国",
+   "body": "《我的身后是祖国》上映首日:实时票房 0.00 亿,累计 0.01 亿(目标 3.0 亿),票房占比 1.65%,评分未出。"
+  },
+  {
+   "ts": "2026-11-25 20:00:11",
+   "etype": "E6",
+   "movie_name": "我的身后是祖国",
+   "symbol": null,
+   "title": "⚠️ 票房不及预期:我的身后是祖国",
+   "body": "《我的身后是祖国》首日累计 0.01 亿,低于目标的 60%,注意相关股回调风险。"
+  },
   {
    "ts": "2026-11-22 12:00:03",
    "etype": "E2",
