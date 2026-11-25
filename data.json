@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-25 09:30:02",
+ "generated_at": "2026-11-25 10:00:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 36.439144,
-   "ratio": 21.32,
+   "realtime_wan": 38.837216,
+   "ratio": 21.58,
    "days": 6,
-   "cum_wan": 4714.884266
+   "cum_wan": 4717.282338
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 20.012138,
-   "ratio": 11.71,
+   "realtime_wan": 21.102551000000002,
+   "ratio": 11.72,
    "days": 56,
-   "cum_wan": 76703.746274
+   "cum_wan": 76704.836687
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 15.813885,
-   "ratio": 9.25,
+   "realtime_wan": 16.843716,
+   "ratio": 9.36,
    "days": 20,
-   "cum_wan": 2543.657317
+   "cum_wan": 2544.687148
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 10.942206,
-   "ratio": 6.4,
+   "realtime_wan": 11.673988,
+   "ratio": 6.49,
    "days": 56,
-   "cum_wan": 44230.731418
+   "cum_wan": 44231.4632
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 10.701151,
-   "ratio": 6.26,
+   "realtime_wan": 11.379515,
+   "ratio": 6.32,
    "days": 52,
-   "cum_wan": 55933.794867
+   "cum_wan": 55934.473230999996
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 7.840689,
-   "ratio": 4.59,
+   "realtime_wan": 8.184824,
+   "ratio": 4.55,
    "days": 107,
-   "cum_wan": 241677.295942
+   "cum_wan": 241677.640077
   },
   {
    "nm": "我的身后是祖国",
-   "realtime_wan": 5.816441,
-   "ratio": 3.4,
+   "realtime_wan": 6.141388,
+   "ratio": 3.41,
    "days": 1,
-   "cum_wan": 40.426777
+   "cum_wan": 40.751723999999996
   },
   {
    "nm": "马兰花开的声音",
-   "realtime_wan": 4.895158,
-   "ratio": 2.86,
+   "realtime_wan": 5.1035260000000005,
+   "ratio": 2.84,
    "days": 1,
-   "cum_wan": 9.256548
+   "cum_wan": 9.464916
+  },
+  {
+   "nm": "试探",
+   "realtime_wan": 4.499085,
+   "ratio": 2.5,
+   "days": 5,
+   "cum_wan": 915.854507
   },
   {
    "nm": "循环街区",
    "realtime_wan": 4.305,
-   "ratio": 2.52,
+   "ratio": 2.39,
    "days": -1,
    "cum_wan": 4.305
-  },
-  {
-   "nm": "试探",
-   "realtime_wan": 4.2996360000000005,
-   "ratio": 2.52,
-   "days": 5,
-   "cum_wan": 915.655058
   }
  ],
  "presale": [
