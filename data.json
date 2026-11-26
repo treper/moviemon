@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-26 21:30:02",
+ "generated_at": "2026-11-26 22:00:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 295.010397,
-   "ratio": 26.1,
+   "realtime_wan": 298.781241,
+   "ratio": 26.05,
    "days": 7,
-   "cum_wan": 5309.109691
+   "cum_wan": 5312.880535
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 198.402906,
+   "realtime_wan": 201.273639,
    "ratio": 17.55,
    "days": 57,
-   "cum_wan": 77082.130944
+   "cum_wan": 77085.030527
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 112.926258,
-   "ratio": 9.99,
+   "realtime_wan": 115.935442,
+   "ratio": 10.11,
    "days": 53,
-   "cum_wan": 56157.955009000005
+   "cum_wan": 56161.020722
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 90.373888,
-   "ratio": 8.0,
+   "realtime_wan": 91.565956,
+   "ratio": 7.98,
    "days": 57,
-   "cum_wan": 44405.204022000005
+   "cum_wan": 44406.429798000005
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 65.27627700000001,
-   "ratio": 5.78,
+   "realtime_wan": 65.602823,
+   "ratio": 5.72,
    "days": 21,
-   "cum_wan": 2662.303417
+   "cum_wan": 2662.629963
   },
   {
    "nm": "试探",
-   "realtime_wan": 55.399733999999995,
-   "ratio": 4.9,
+   "realtime_wan": 56.904392,
+   "ratio": 4.96,
    "days": 6,
-   "cum_wan": 1029.137058
+   "cum_wan": 1030.641716
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 52.73440600000001,
-   "ratio": 4.67,
+   "realtime_wan": 53.238799,
+   "ratio": 4.64,
    "days": 108,
-   "cum_wan": 241774.755329
+   "cum_wan": 241775.27616999997
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 21.803409,
-   "ratio": 1.93,
+   "realtime_wan": 21.853335,
+   "ratio": 1.91,
    "days": 132,
-   "cum_wan": 207638.568238
+   "cum_wan": 207638.618164
+  },
+  {
+   "nm": "我的身后是祖国",
+   "realtime_wan": 18.740821,
+   "ratio": 1.63,
+   "days": 2,
+   "cum_wan": 72.3894
   },
   {
    "nm": "手捧繁星",
    "realtime_wan": 18.661324,
-   "ratio": 1.65,
+   "ratio": 1.63,
    "days": 21,
    "cum_wan": 178.938324
-  },
-  {
-   "nm": "我的身后是祖国",
-   "realtime_wan": 18.612738,
-   "ratio": 1.65,
-   "days": 2,
-   "cum_wan": 72.261317
   }
  ],
  "presale": [
