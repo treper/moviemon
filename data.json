@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-26 09:00:02",
+ "generated_at": "2026-11-26 09:30:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 31.504088,
-   "ratio": 18.79,
+   "realtime_wan": 33.051776000000004,
+   "ratio": 18.91,
    "days": 7,
-   "cum_wan": 5042.9042039999995
+   "cum_wan": 5044.451892
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 22.857314000000002,
-   "ratio": 13.63,
+   "realtime_wan": 23.600908,
+   "ratio": 13.5,
    "days": 57,
-   "cum_wan": 76905.19021100001
+   "cum_wan": 76905.933805
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 13.378181,
-   "ratio": 7.98,
+   "realtime_wan": 13.971478,
+   "ratio": 7.99,
    "days": 21,
-   "cum_wan": 2609.887646
+   "cum_wan": 2610.480943
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 10.740557,
-   "ratio": 6.41,
+   "realtime_wan": 11.098825999999999,
+   "ratio": 6.35,
    "days": 53,
-   "cum_wan": 56055.193571
-  },
-  {
-   "nm": "欢迎来龙餐馆",
-   "realtime_wan": 8.920091000000001,
-   "ratio": 5.32,
-   "days": 108,
-   "cum_wan": 241730.550437
+   "cum_wan": 56055.55184
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 8.829125,
-   "ratio": 5.27,
+   "realtime_wan": 9.243945,
+   "ratio": 5.29,
    "days": 57,
-   "cum_wan": 44323.15782
+   "cum_wan": 44323.57264
+  },
+  {
+   "nm": "欢迎来龙餐馆",
+   "realtime_wan": 9.211386,
+   "ratio": 5.27,
+   "days": 108,
+   "cum_wan": 241730.84173200003
   },
   {
    "nm": "我的身后是祖国",
-   "realtime_wan": 7.192958999999999,
-   "ratio": 4.29,
+   "realtime_wan": 7.717977,
+   "ratio": 4.42,
    "days": 2,
-   "cum_wan": 60.678414000000004
+   "cum_wan": 61.20343199999999
   },
   {
    "nm": "手捧繁星",
-   "realtime_wan": 4.901730000000001,
-   "ratio": 2.92,
+   "realtime_wan": 4.92277,
+   "ratio": 2.82,
    "days": 21,
-   "cum_wan": 164.60114199999998
+   "cum_wan": 164.622182
   },
   {
    "nm": "四渡",
-   "realtime_wan": 4.626758000000001,
-   "ratio": 2.76,
+   "realtime_wan": 4.711225,
+   "ratio": 2.7,
    "days": 154,
-   "cum_wan": 30502.132777999996
+   "cum_wan": 30502.217245
   },
   {
-   "nm": "密档",
-   "realtime_wan": 4.524566,
-   "ratio": 2.7,
-   "days": 91,
-   "cum_wan": 2256.413016
+   "nm": "梦寻苏毗女儿国",
+   "realtime_wan": 4.666258999999999,
+   "ratio": 2.67,
+   "days": 24,
+   "cum_wan": 76.66462299999999
   }
  ],
  "presale": [
