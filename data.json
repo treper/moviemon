@@ -1,73 +1,73 @@
 {
- "generated_at": "2026-11-26 22:00:02",
+ "generated_at": "2026-11-26 22:30:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 298.781241,
-   "ratio": 26.05,
+   "realtime_wan": 301.116473,
+   "ratio": 25.9,
    "days": 7,
-   "cum_wan": 5312.880535
+   "cum_wan": 5315.215767000001
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 201.273639,
-   "ratio": 17.55,
+   "realtime_wan": 203.34256499999998,
+   "ratio": 17.49,
    "days": 57,
-   "cum_wan": 77085.030527
+   "cum_wan": 77087.099453
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 115.935442,
-   "ratio": 10.11,
+   "realtime_wan": 119.577578,
+   "ratio": 10.28,
    "days": 53,
-   "cum_wan": 56161.020722
+   "cum_wan": 56164.662858
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 91.565956,
-   "ratio": 7.98,
+   "realtime_wan": 93.199054,
+   "ratio": 8.02,
    "days": 57,
-   "cum_wan": 44406.429798000005
+   "cum_wan": 44408.062895999996
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 65.602823,
-   "ratio": 5.72,
+   "realtime_wan": 65.978448,
+   "ratio": 5.67,
    "days": 21,
-   "cum_wan": 2662.629963
+   "cum_wan": 2663.005588
   },
   {
    "nm": "试探",
-   "realtime_wan": 56.904392,
-   "ratio": 4.96,
+   "realtime_wan": 58.665932999999995,
+   "ratio": 5.05,
    "days": 6,
-   "cum_wan": 1030.641716
+   "cum_wan": 1032.403257
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 53.238799,
-   "ratio": 4.64,
+   "realtime_wan": 53.743638,
+   "ratio": 4.62,
    "days": 108,
-   "cum_wan": 241775.27616999997
+   "cum_wan": 241775.78100900003
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 21.853335,
-   "ratio": 1.91,
+   "realtime_wan": 21.932364,
+   "ratio": 1.89,
    "days": 132,
-   "cum_wan": 207638.618164
+   "cum_wan": 207638.697193
   },
   {
    "nm": "我的身后是祖国",
-   "realtime_wan": 18.740821,
-   "ratio": 1.63,
+   "realtime_wan": 18.800373999999998,
+   "ratio": 1.62,
    "days": 2,
-   "cum_wan": 72.3894
+   "cum_wan": 72.448953
   },
   {
    "nm": "手捧繁星",
    "realtime_wan": 18.661324,
-   "ratio": 1.63,
+   "ratio": 1.6,
    "days": 21,
    "cum_wan": 178.938324
   }
