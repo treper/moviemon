@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-26 11:30:02",
+ "generated_at": "2026-11-26 12:00:02",
  "realtime": [
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 47.208928,
-   "ratio": 19.5,
+   "realtime_wan": 52.539528000000004,
+   "ratio": 20.01,
    "days": 7,
-   "cum_wan": 5061.018040999999
+   "cum_wan": 5066.348641
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 32.761497,
-   "ratio": 13.54,
+   "realtime_wan": 36.160757000000004,
+   "ratio": 13.77,
    "days": 57,
-   "cum_wan": 76916.324772
+   "cum_wan": 76919.724032
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 19.675313,
-   "ratio": 8.13,
+   "realtime_wan": 21.418546,
+   "ratio": 8.16,
    "days": 21,
-   "cum_wan": 2616.6775239999997
+   "cum_wan": 2618.420757
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 16.068224,
-   "ratio": 6.64,
+   "realtime_wan": 18.162638,
+   "ratio": 6.92,
    "days": 53,
-   "cum_wan": 56060.968167
+   "cum_wan": 56063.06258099999
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 14.693810000000001,
-   "ratio": 6.07,
+   "realtime_wan": 15.982553,
+   "ratio": 6.09,
    "days": 57,
-   "cum_wan": 44329.491495
+   "cum_wan": 44330.780238
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 12.439027000000001,
-   "ratio": 5.14,
+   "realtime_wan": 12.832733000000001,
+   "ratio": 4.89,
    "days": 108,
-   "cum_wan": 241734.393748
+   "cum_wan": 241734.787454
   },
   {
    "nm": "我的身后是祖国",
-   "realtime_wan": 9.689791,
-   "ratio": 4.0,
+   "realtime_wan": 9.804191000000001,
+   "ratio": 3.73,
    "days": 2,
-   "cum_wan": 63.33837
+   "cum_wan": 63.452769999999994
   },
   {
    "nm": "马兰花开的声音",
-   "realtime_wan": 8.249285,
-   "ratio": 3.41,
+   "realtime_wan": 8.716925999999999,
+   "ratio": 3.32,
    "days": 2,
-   "cum_wan": 32.679486
+   "cum_wan": 33.147127000000005
   },
   {
    "nm": "试探",
-   "realtime_wan": 6.365321,
-   "ratio": 2.63,
+   "realtime_wan": 7.144251,
+   "ratio": 2.72,
    "days": 6,
-   "cum_wan": 980.0342109999999
+   "cum_wan": 980.813141
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 6.208843,
-   "ratio": 2.57,
+   "realtime_wan": 6.731895,
+   "ratio": 2.56,
    "days": 132,
-   "cum_wan": 207622.967355
+   "cum_wan": 207623.490407
   }
  ],
  "presale": [
@@ -77,8 +77,8 @@
    "id": 1164582,
    "nm": "沙丘",
    "rt": "2026-11-27",
-   "wish": 294376,
-   "wish_delta_1d": 492,
+   "wish": 294470,
+   "wish_delta_1d": 586,
    "on_sale": true,
    "pooled": true
   },
@@ -86,8 +86,8 @@
    "id": 1217236,
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
-   "wish": 228803,
-   "wish_delta_1d": 1513,
+   "wish": 229083,
+   "wish_delta_1d": 1793,
    "on_sale": true,
    "pooled": true
   },
@@ -95,8 +95,8 @@
    "id": 1594939,
    "nm": "魔法秘境",
    "rt": "2026-11-27",
-   "wish": 35704,
-   "wish_delta_1d": 684,
+   "wish": 35854,
+   "wish_delta_1d": 834,
    "on_sale": true,
    "pooled": true
   },
@@ -122,8 +122,8 @@
    "id": 1589333,
    "nm": "泥面人",
    "rt": "2026-11-27",
-   "wish": 13444,
-   "wish_delta_1d": 710,
+   "wish": 13585,
+   "wish_delta_1d": 851,
    "on_sale": true,
    "pooled": true
   },
@@ -149,8 +149,8 @@
    "id": 1492796,
    "nm": "时间里的爱人",
    "rt": "2026-11-28",
-   "wish": 5616,
-   "wish_delta_1d": 217,
+   "wish": 5657,
+   "wish_delta_1d": 258,
    "on_sale": true,
    "pooled": false
   },
@@ -269,8 +269,8 @@
    "nm": "沙丘",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 294376,
-   "wish_delta_1d": 492,
+   "wish": 294470,
+   "wish_delta_1d": 586,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -280,8 +280,8 @@
    "nm": "悲伤逆流成河",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 228803,
-   "wish_delta_1d": 1513,
+   "wish": 229083,
+   "wish_delta_1d": 1793,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -291,8 +291,8 @@
    "nm": "泥面人",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 13444,
-   "wish_delta_1d": 710,
+   "wish": 13585,
+   "wish_delta_1d": 851,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -302,8 +302,8 @@
    "nm": "魔法秘境",
    "rt": "2026-11-27",
    "status": "WATCHING",
-   "wish": 35704,
-   "wish_delta_1d": 684,
+   "wish": 35854,
+   "wish_delta_1d": 834,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -313,8 +313,8 @@
    "nm": "孤楼夜幽灵",
    "rt": "2026-11-28",
    "status": "WATCHING",
-   "wish": 2603,
-   "wish_delta_1d": 70,
+   "wish": 2616,
+   "wish_delta_1d": 83,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -536,14 +536,6 @@
    "symbol": null,
    "title": "⚠️ 票房不及预期:笑傲江湖2：东方不败",
    "body": "《笑傲江湖2：东方不败》首日累计 0.00 亿,低于目标的 60%,注意相关股回调风险。"
-  },
-  {
-   "ts": "2026-10-27 12:00:04",
-   "etype": "E2",
-   "movie_name": "民宿惊魂",
-   "symbol": null,
-   "title": "🎟️ 预售开启:民宿惊魂",
-   "body": "《民宿惊魂》(2026-10-31) 预售已开启,当前想看 5604。可关注相关影视股的埋伏窗口。"
   }
  ]
 }
