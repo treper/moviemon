@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-27 11:30:02",
+ "generated_at": "2026-11-27 12:00:02",
  "realtime": [
   {
    "nm": "魔法秘境",
-   "realtime_wan": 137.252639,
-   "ratio": 21.8,
+   "realtime_wan": 142.834529,
+   "ratio": 21.63,
    "days": 1,
-   "cum_wan": 143.631799
+   "cum_wan": 149.213689
   },
   {
    "nm": "泥面人",
-   "realtime_wan": 95.367909,
-   "ratio": 15.15,
+   "realtime_wan": 98.03075799999999,
+   "ratio": 14.85,
    "days": 1,
-   "cum_wan": 95.367909
+   "cum_wan": 98.03075799999999
   },
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 61.949126,
-   "ratio": 9.84,
+   "realtime_wan": 66.552429,
+   "ratio": 10.08,
    "days": 8,
-   "cum_wan": 5381.280403
+   "cum_wan": 5385.8837060000005
   },
   {
    "nm": "悲伤逆流成河",
-   "realtime_wan": 60.647546,
-   "ratio": 9.63,
+   "realtime_wan": 62.34945,
+   "ratio": 9.44,
    "days": 2990,
-   "cum_wan": 35802.576032
+   "cum_wan": 35804.277936
   },
   {
    "nm": "沙丘",
-   "realtime_wan": 51.956268,
-   "ratio": 8.25,
+   "realtime_wan": 52.946199,
+   "ratio": 8.02,
    "days": 1863,
-   "cum_wan": 26352.969743999998
+   "cum_wan": 26353.959675
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 46.176132,
-   "ratio": 7.33,
+   "realtime_wan": 49.801092,
+   "ratio": 7.54,
    "days": 58,
-   "cum_wan": 77135.679063
+   "cum_wan": 77139.304023
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 23.340234,
-   "ratio": 3.71,
+   "realtime_wan": 25.195335999999998,
+   "ratio": 3.82,
    "days": 54,
-   "cum_wan": 56191.607238
+   "cum_wan": 56193.46234
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 19.674099,
-   "ratio": 3.13,
+   "realtime_wan": 21.128964,
+   "ratio": 3.2,
    "days": 22,
-   "cum_wan": 2683.341708
+   "cum_wan": 2684.796573
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 16.283039000000002,
-   "ratio": 2.59,
+   "realtime_wan": 17.916325,
+   "ratio": 2.71,
    "days": 58,
-   "cum_wan": 44426.045467
+   "cum_wan": 44427.678753
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 11.575091,
-   "ratio": 1.84,
+   "realtime_wan": 12.465860000000001,
+   "ratio": 1.89,
    "days": 109,
-   "cum_wan": 241787.87436100002
+   "cum_wan": 241788.76513
   }
  ],
  "presale": [
@@ -77,7 +77,7 @@
    "id": 1441786,
    "nm": "沙丘2",
    "rt": "2026-12-04",
-   "wish": 240811,
+   "wish": 240861,
    "wish_delta_1d": null,
    "on_sale": true,
    "pooled": false
@@ -122,8 +122,8 @@
    "id": 1492796,
    "nm": "时间里的爱人",
    "rt": "2026-11-28",
-   "wish": 5956,
-   "wish_delta_1d": 299,
+   "wish": 6006,
+   "wish_delta_1d": 349,
    "on_sale": true,
    "pooled": true
   },
@@ -313,8 +313,8 @@
    "nm": "时间里的爱人",
    "rt": "2026-11-28",
    "status": "WATCHING",
-   "wish": 5956,
-   "wish_delta_1d": 299,
+   "wish": 6006,
+   "wish_delta_1d": 349,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
@@ -326,6 +326,17 @@
    "status": "WATCHING",
    "wish": 2729,
    "wish_delta_1d": 113,
+   "maoyan_score": null,
+   "target_yi": 3.0,
+   "links": []
+  },
+  {
+   "id": 1632662,
+   "nm": "通灵惊魂",
+   "rt": "2026-12-03",
+   "status": "WATCHING",
+   "wish": 1401,
+   "wish_delta_1d": 108,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
