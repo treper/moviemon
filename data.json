@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-27 09:00:02",
+ "generated_at": "2026-11-27 09:30:02",
  "realtime": [
   {
    "nm": "魔法秘境",
-   "realtime_wan": 117.10841200000002,
-   "ratio": 22.67,
+   "realtime_wan": 119.165862,
+   "ratio": 22.55,
    "days": 1,
-   "cum_wan": 123.50121599999999
+   "cum_wan": 125.55866599999999
   },
   {
    "nm": "泥面人",
-   "realtime_wan": 84.99951999999999,
-   "ratio": 16.46,
+   "realtime_wan": 86.166859,
+   "ratio": 16.31,
    "days": 1,
-   "cum_wan": 84.99951999999999
+   "cum_wan": 86.166859
   },
   {
    "nm": "悲伤逆流成河",
-   "realtime_wan": 56.197661,
-   "ratio": 10.88,
+   "realtime_wan": 56.633280000000006,
+   "ratio": 10.72,
    "days": 2990,
-   "cum_wan": 35798.126147
+   "cum_wan": 35798.561766000006
   },
   {
    "nm": "沙丘",
-   "realtime_wan": 48.046893,
-   "ratio": 9.3,
+   "realtime_wan": 48.600922,
+   "ratio": 9.2,
    "days": 1863,
-   "cum_wan": 26349.060369
+   "cum_wan": 26349.614397999998
   },
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 44.873819,
-   "ratio": 8.69,
+   "realtime_wan": 46.268533000000005,
+   "ratio": 8.76,
    "days": 8,
-   "cum_wan": 5361.633605
+   "cum_wan": 5363.028319
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 35.367446,
-   "ratio": 6.85,
+   "realtime_wan": 36.674219,
+   "ratio": 6.94,
    "days": 58,
-   "cum_wan": 77123.861413
+   "cum_wan": 77125.168186
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 17.643469,
-   "ratio": 3.42,
+   "realtime_wan": 17.979888,
+   "ratio": 3.4,
    "days": 54,
-   "cum_wan": 56185.552773
+   "cum_wan": 56185.889191999995
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 13.736310999999999,
-   "ratio": 2.66,
+   "realtime_wan": 14.745559,
+   "ratio": 2.79,
    "days": 22,
-   "cum_wan": 2676.9602059999997
+   "cum_wan": 2677.969454
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 11.597628,
-   "ratio": 2.25,
+   "realtime_wan": 11.945912,
+   "ratio": 2.26,
    "days": 58,
-   "cum_wan": 44420.729351999995
+   "cum_wan": 44421.077636
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 9.402650999999999,
-   "ratio": 1.82,
+   "realtime_wan": 9.718711,
+   "ratio": 1.84,
    "days": 109,
-   "cum_wan": 241785.440642
+   "cum_wan": 241785.75670199998
   }
  ],
  "presale": [
@@ -271,7 +271,7 @@
    "status": "RELEASED",
    "wish": 294777,
    "wish_delta_1d": 612,
-   "maoyan_score": null,
+   "maoyan_score": 7.8,
    "target_yi": 3.0,
    "links": []
   },
