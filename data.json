@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-27 22:00:02",
+ "generated_at": "2026-11-27 22:30:02",
  "realtime": [
   {
    "nm": "泥面人",
-   "realtime_wan": 459.370888,
-   "ratio": 18.77,
+   "realtime_wan": 472.506524,
+   "ratio": 19.03,
    "days": 1,
-   "cum_wan": 459.370888
+   "cum_wan": 472.506524
   },
   {
    "nm": "魔法秘境",
-   "realtime_wan": 434.565394,
-   "ratio": 17.76,
+   "realtime_wan": 437.33667,
+   "ratio": 17.61,
    "days": 1,
-   "cum_wan": 440.944554
+   "cum_wan": 443.71583
   },
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 337.770864,
-   "ratio": 13.8,
+   "realtime_wan": 341.967409,
+   "ratio": 13.77,
    "days": 8,
-   "cum_wan": 5658.538071
+   "cum_wan": 5662.734616
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 249.961466,
-   "ratio": 10.21,
+   "realtime_wan": 253.385881,
+   "ratio": 10.2,
    "days": 58,
-   "cum_wan": 77339.937473
+   "cum_wan": 77343.361888
   },
   {
    "nm": "悲伤逆流成河",
-   "realtime_wan": 167.239441,
-   "ratio": 6.83,
+   "realtime_wan": 169.248676,
+   "ratio": 6.81,
    "days": 2990,
-   "cum_wan": 35909.167926999995
+   "cum_wan": 35911.177162
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 153.860354,
-   "ratio": 6.29,
+   "realtime_wan": 158.370427,
+   "ratio": 6.38,
    "days": 54,
-   "cum_wan": 56322.315976
+   "cum_wan": 56326.826049
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 90.552488,
+   "realtime_wan": 92.007926,
    "ratio": 3.7,
    "days": 58,
-   "cum_wan": 44500.403435
+   "cum_wan": 44501.858873000005
   },
   {
    "nm": "沙丘",
-   "realtime_wan": 85.041034,
-   "ratio": 3.47,
+   "realtime_wan": 85.51608399999999,
+   "ratio": 3.44,
    "days": 1863,
-   "cum_wan": 26386.054509999998
+   "cum_wan": 26386.52956
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 63.677198,
-   "ratio": 2.6,
+   "realtime_wan": 64.032776,
+   "ratio": 2.58,
    "days": 22,
-   "cum_wan": 2727.379224
+   "cum_wan": 2727.734802
   },
   {
    "nm": "试探",
-   "realtime_wan": 56.121285,
+   "realtime_wan": 56.823719999999994,
    "ratio": 2.29,
    "days": 7,
-   "cum_wan": 1090.066012
+   "cum_wan": 1090.7684470000002
   }
  ],
  "presale": [
