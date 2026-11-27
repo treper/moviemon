@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-27 17:30:02",
+ "generated_at": "2026-11-27 18:00:02",
  "realtime": [
   {
    "nm": "魔法秘境",
-   "realtime_wan": 276.05492799999996,
-   "ratio": 19.38,
+   "realtime_wan": 293.149527,
+   "ratio": 19.26,
    "days": 1,
-   "cum_wan": 282.434088
+   "cum_wan": 299.528687
   },
   {
    "nm": "泥面人",
-   "realtime_wan": 189.380083,
-   "ratio": 13.29,
+   "realtime_wan": 213.49060899999998,
+   "ratio": 14.03,
    "days": 1,
-   "cum_wan": 189.380083
+   "cum_wan": 213.49060899999998
   },
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 182.60306,
-   "ratio": 12.82,
+   "realtime_wan": 195.730765,
+   "ratio": 12.86,
    "days": 8,
-   "cum_wan": 5502.153646
+   "cum_wan": 5515.281351
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 144.188362,
-   "ratio": 10.12,
+   "realtime_wan": 152.21656299999998,
+   "ratio": 10.0,
    "days": 58,
-   "cum_wan": 77233.8134
+   "cum_wan": 77241.841601
   },
   {
    "nm": "悲伤逆流成河",
-   "realtime_wan": 104.222862,
-   "ratio": 7.32,
+   "realtime_wan": 112.0892,
+   "ratio": 7.36,
    "days": 2990,
-   "cum_wan": 35846.151348
+   "cum_wan": 35854.017686
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 85.590963,
+   "realtime_wan": 91.421452,
    "ratio": 6.01,
    "days": 54,
-   "cum_wan": 56253.947598
+   "cum_wan": 56259.778087
   },
   {
    "nm": "沙丘",
-   "realtime_wan": 70.231236,
-   "ratio": 4.93,
+   "realtime_wan": 72.577322,
+   "ratio": 4.77,
    "days": 1863,
-   "cum_wan": 26371.244712
+   "cum_wan": 26373.590797999997
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 56.01506,
-   "ratio": 3.93,
+   "realtime_wan": 59.647581,
+   "ratio": 3.92,
    "days": 58,
-   "cum_wan": 44465.81833
+   "cum_wan": 44469.450851
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 46.266017,
-   "ratio": 3.25,
+   "realtime_wan": 48.910012,
+   "ratio": 3.21,
    "days": 22,
-   "cum_wan": 2709.9617980000003
+   "cum_wan": 2712.605793
   },
   {
    "nm": "欢迎来龙餐馆",
-   "realtime_wan": 36.023367,
-   "ratio": 2.53,
+   "realtime_wan": 37.587881,
+   "ratio": 2.47,
    "days": 109,
-   "cum_wan": 241812.351324
+   "cum_wan": 241813.91583800002
   }
  ],
  "presale": [
@@ -282,7 +282,7 @@
    "status": "RELEASED",
    "wish": 230075,
    "wish_delta_1d": 2001,
-   "maoyan_score": null,
+   "maoyan_score": 8.9,
    "target_yi": 3.0,
    "links": []
   },
