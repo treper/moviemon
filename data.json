@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-28 16:30:02",
+ "generated_at": "2026-11-28 17:00:02",
  "realtime": [
   {
    "nm": "魔法秘境",
-   "realtime_wan": 771.6637450000001,
-   "ratio": 23.28,
+   "realtime_wan": 817.797546,
+   "ratio": 23.11,
    "days": 2,
-   "cum_wan": 1220.813351
+   "cum_wan": 1266.947152
   },
   {
    "nm": "泥面人",
-   "realtime_wan": 503.941746,
-   "ratio": 15.2,
+   "realtime_wan": 544.4014490000001,
+   "ratio": 15.38,
    "days": 2,
-   "cum_wan": 990.589793
+   "cum_wan": 1031.049496
   },
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 405.263712,
-   "ratio": 12.23,
+   "realtime_wan": 433.541732,
+   "ratio": 12.25,
    "days": 9,
-   "cum_wan": 6073.902175
+   "cum_wan": 6102.180195
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 303.968539,
-   "ratio": 9.17,
+   "realtime_wan": 328.998737,
+   "ratio": 9.3,
    "days": 59,
-   "cum_wan": 77651.143092
+   "cum_wan": 77676.17328999999
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 241.83400299999997,
-   "ratio": 7.3,
+   "realtime_wan": 260.977591,
+   "ratio": 7.37,
    "days": 55,
-   "cum_wan": 56574.325992
+   "cum_wan": 56593.46958
   },
   {
    "nm": "悲伤逆流成河",
-   "realtime_wan": 191.736597,
-   "ratio": 5.78,
+   "realtime_wan": 201.686215,
+   "ratio": 5.7,
    "days": 2991,
-   "cum_wan": 36105.594398
+   "cum_wan": 36115.544016
   },
   {
    "nm": "指尖谋杀",
-   "realtime_wan": 135.471689,
-   "ratio": 4.09,
+   "realtime_wan": 144.44133200000002,
+   "ratio": 4.08,
    "days": 1,
-   "cum_wan": 144.793689
+   "cum_wan": 153.76333200000002
   },
   {
    "nm": "什么意思夫妇",
-   "realtime_wan": 101.240629,
-   "ratio": 3.05,
+   "realtime_wan": 109.952197,
+   "ratio": 3.11,
    "days": 59,
-   "cum_wan": 44604.768562
+   "cum_wan": 44613.48013
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 92.412056,
-   "ratio": 2.79,
+   "realtime_wan": 97.387606,
+   "ratio": 2.75,
    "days": 134,
-   "cum_wan": 207758.59768099998
+   "cum_wan": 207763.573231
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 90.931646,
-   "ratio": 2.74,
+   "realtime_wan": 96.56248599999999,
+   "ratio": 2.73,
    "days": 23,
-   "cum_wan": 2819.405066
+   "cum_wan": 2825.035906
   }
  ],
  "presale": [
