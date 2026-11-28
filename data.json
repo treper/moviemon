@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-28 08:00:02",
+ "generated_at": "2026-11-28 09:00:03",
  "realtime": [
   {
    "nm": "魔法秘境",
-   "realtime_wan": 250.49389,
-   "ratio": 22.95,
+   "realtime_wan": 257.620811,
+   "ratio": 23.16,
    "days": 2,
-   "cum_wan": 696.3272440000001
+   "cum_wan": 703.454165
   },
   {
    "nm": "泥面人",
-   "realtime_wan": 149.31155900000002,
-   "ratio": 13.68,
+   "realtime_wan": 151.272425,
+   "ratio": 13.6,
    "days": 2,
-   "cum_wan": 633.1193059999999
+   "cum_wan": 635.080172
   },
   {
    "nm": "饥饿游戏：收获日出",
-   "realtime_wan": 121.04239299999999,
+   "realtime_wan": 123.407953,
    "ratio": 11.09,
    "days": 9,
-   "cum_wan": 5786.629147
+   "cum_wan": 5788.994707
   },
   {
    "nm": "悲伤逆流成河",
-   "realtime_wan": 96.651045,
-   "ratio": 8.85,
+   "realtime_wan": 97.244485,
+   "ratio": 8.74,
    "days": 2991,
-   "cum_wan": 36009.114787
+   "cum_wan": 36009.708226999996
   },
   {
    "nm": "神探之痕迹",
-   "realtime_wan": 69.37170400000001,
-   "ratio": 6.35,
+   "realtime_wan": 70.88578299999999,
+   "ratio": 6.37,
    "days": 59,
-   "cum_wan": 77415.02986699999
+   "cum_wan": 77416.543946
   },
   {
    "nm": "沙丘",
-   "realtime_wan": 57.08418,
-   "ratio": 5.23,
+   "realtime_wan": 57.766638,
+   "ratio": 5.19,
    "days": 1864,
-   "cum_wan": 26443.841996
+   "cum_wan": 26444.524454
   },
   {
    "nm": "生化危机：爆发夜",
-   "realtime_wan": 55.678309,
+   "realtime_wan": 56.690829,
    "ratio": 5.1,
    "days": 55,
-   "cum_wan": 56387.776891999994
+   "cum_wan": 56388.789412
   },
   {
    "nm": "指尖谋杀",
-   "realtime_wan": 51.822007,
-   "ratio": 4.75,
+   "realtime_wan": 52.167994,
+   "ratio": 4.69,
    "days": 1,
-   "cum_wan": 61.833833
+   "cum_wan": 62.17981999999999
   },
   {
    "nm": "珠穆朗玛：云中彼岸",
-   "realtime_wan": 32.021531,
-   "ratio": 2.93,
+   "realtime_wan": 33.090509000000004,
+   "ratio": 2.97,
    "days": 23,
-   "cum_wan": 2759.984732
+   "cum_wan": 2761.05371
   },
   {
    "nm": "八仙！",
-   "realtime_wan": 25.592309,
-   "ratio": 2.34,
+   "realtime_wan": 26.553309000000002,
+   "ratio": 2.39,
    "days": 134,
-   "cum_wan": 207691.557896
+   "cum_wan": 207692.518896
   }
  ],
  "presale": [
@@ -77,10 +77,10 @@
    "id": 1441786,
    "nm": "沙丘2",
    "rt": "2026-12-04",
-   "wish": 241018,
-   "wish_delta_1d": null,
+   "wish": 241156,
+   "wish_delta_1d": 294,
    "on_sale": true,
-   "pooled": false
+   "pooled": true
   },
   {
    "id": 1531816,
@@ -110,6 +110,15 @@
    "pooled": false
   },
   {
+   "id": 1503022,
+   "nm": "西游记之真假美猴王",
+   "rt": "2026-12-05",
+   "wish": 11273,
+   "wish_delta_1d": null,
+   "on_sale": true,
+   "pooled": false
+  },
+  {
    "id": 1543699,
    "nm": "酒店404惊魂",
    "rt": "2026-11-06",
@@ -117,15 +126,6 @@
    "wish_delta_1d": 144,
    "on_sale": false,
    "pooled": false
-  },
-  {
-   "id": 1492796,
-   "nm": "时间里的爱人",
-   "rt": "2026-11-28",
-   "wish": 6460,
-   "wish_delta_1d": 637,
-   "on_sale": true,
-   "pooled": true
   },
   {
    "id": 1599810,
@@ -146,47 +146,25 @@
    "pooled": false
   },
   {
-   "id": 1489685,
-   "nm": "黑楼凶魂",
-   "rt": "2026-11-27",
-   "wish": 3353,
+   "id": 1413048,
+   "nm": "蔓延",
+   "rt": "2026-12-04",
+   "wish": 4204,
    "wish_delta_1d": null,
-   "on_sale": false,
+   "on_sale": true,
    "pooled": false
   },
   {
-   "id": 1532842,
-   "nm": "孤楼夜幽灵",
-   "rt": "2026-11-28",
-   "wish": 2729,
-   "wish_delta_1d": 113,
-   "on_sale": false,
+   "id": 1489685,
+   "nm": "黑楼凶魂",
+   "rt": "2026-12-04",
+   "wish": 3668,
+   "wish_delta_1d": 315,
+   "on_sale": true,
    "pooled": true
   }
  ],
  "watching": [
-  {
-   "id": 1292,
-   "nm": "海上钢琴师",
-   "rt": "2026-11-13",
-   "status": "RELEASED",
-   "wish": 159562,
-   "wish_delta_1d": 850,
-   "maoyan_score": 9.3,
-   "target_yi": 3.0,
-   "links": []
-  },
-  {
-   "id": 1595715,
-   "nm": "怨宅",
-   "rt": "2026-11-13",
-   "status": "RELEASED",
-   "wish": 8057,
-   "wish_delta_1d": 153,
-   "maoyan_score": null,
-   "target_yi": 3.0,
-   "links": []
-  },
   {
    "id": 1566940,
    "nm": "我没错！",
@@ -312,7 +290,7 @@
    "id": 1492796,
    "nm": "时间里的爱人",
    "rt": "2026-11-28",
-   "status": "WATCHING",
+   "status": "RELEASED",
    "wish": 6460,
    "wish_delta_1d": 637,
    "maoyan_score": null,
@@ -323,7 +301,7 @@
    "id": 1532842,
    "nm": "孤楼夜幽灵",
    "rt": "2026-11-28",
-   "status": "WATCHING",
+   "status": "RELEASED",
    "wish": 2729,
    "wish_delta_1d": 113,
    "maoyan_score": null,
@@ -335,8 +313,30 @@
    "nm": "通灵惊魂",
    "rt": "2026-12-03",
    "status": "WATCHING",
-   "wish": 1433,
-   "wish_delta_1d": 78,
+   "wish": 1461,
+   "wish_delta_1d": 60,
+   "maoyan_score": null,
+   "target_yi": 3.0,
+   "links": []
+  },
+  {
+   "id": 1441786,
+   "nm": "沙丘2",
+   "rt": "2026-12-04",
+   "status": "WATCHING",
+   "wish": 241156,
+   "wish_delta_1d": 294,
+   "maoyan_score": null,
+   "target_yi": 3.0,
+   "links": []
+  },
+  {
+   "id": 1489685,
+   "nm": "黑楼凶魂",
+   "rt": "2026-12-04",
+   "status": "WATCHING",
+   "wish": 3668,
+   "wish_delta_1d": 315,
    "maoyan_score": null,
    "target_yi": 3.0,
    "links": []
